@@ -78,14 +78,19 @@ I'm a passionate coder, in love with functional programming (scala, erlang), dis
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%;" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamel&hide_border=true&layout=compact" align="left" style="width: 100%;" />
     </td>
-    <td valign="top" width="33%">
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccamel&" align="left" style="width: 100%;" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=ccamel" align="left" style="width: 100%;" />
     </td>
   </tr>
 </table>
