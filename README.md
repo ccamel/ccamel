@@ -93,6 +93,11 @@ I'm a passionate coder, in love with functional programming (scala, erlang), dis
       <img src="https://github-profile-trophy.vercel.app/?username=ccamel&row=2&column=3&theme=tokyonight" align="center" style="width: 100%;" />
     </td>
   </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=ccamel&theme=xcode&hide_border=true" align="center" style="width: 100%;" />
+    </td>
+  </tr>
 </table>
 
 <br />
