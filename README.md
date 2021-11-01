@@ -27,7 +27,7 @@ I'm a passionate coder, in love with functional programming (scala, erlang), dis
 
 <br/>  
 
-## Languages and Tools
+## 🔧 Languages and Tools
 
 <p align="left">
   <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /> </a>
@@ -74,7 +74,7 @@ I'm a passionate coder, in love with functional programming (scala, erlang), dis
 
 <br/>
 
-## Github Stats
+## 📈 Github Stats
 
 <table>
   <tr>
