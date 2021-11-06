@@ -1,0 +1,10 @@
+line-length: false
+no-hard-tabs: false
+
+# MD026/no-trailing-punctuation - Trailing punctuation in heading
+MD026:
+  punctuation: .,;:。，；：
+
+# MD033/no-inline-html - Inline HTML rule
+# Disable rule as we want to have more styled markdown content.
+MD033: false
