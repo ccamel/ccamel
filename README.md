@@ -1,4 +1,4 @@
-## Hey 👋, I'm Christophe Camel
+# Hey 👋, I'm Christophe Camel
 
 <a href="https://github.com/ccamel" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -7,7 +7,7 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!
+## Glad to see you here!
 
 I have over 20 years of experience in the Software Industry, with the following (fairly typical) path: Junior developer, Intermediate developer, Full stack developer, Software architect, Lead Tech, CTO - in a wide variety of fields (avionics, space, video production, industrial maintenance).
 
@@ -70,7 +70,6 @@ I'm a passionate coder, in love with functional programming (scala, erlang), dis
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
-
 
 <br/>
 
