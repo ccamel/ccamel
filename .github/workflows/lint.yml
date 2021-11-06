@@ -31,3 +31,12 @@ jobs:
         uses: avto-dev/markdown-lint@v1.5.0
         with:
           args: "**/*.md"
+
+  lint-yaml:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Lint yaml files
+        uses: ibiqlik/action-yamllint@v3.1.0
