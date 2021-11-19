@@ -11,7 +11,7 @@
 
 I have over 20 years of experience in the Software Industry, with the following (fairly typical) path: Junior developer, Intermediate developer, Full stack developer, Software architect, Lead Tech, CTO - in a wide variety of fields (avionics, space, video production, industrial maintenance).
 
-I'm working primarily on distributed and decentralized architectures ranging from Cloud-native systems to Big Data systems and has recently designed an industrial-grade SaaS Cloud solution for a French fast-paced tech company around the Kubernetes technology and significantly contributed to develop the company’s technology strategy.
+I'm working primarily on distributed and decentralized architectures ranging from Cloud-native systems to Big Data systems and have recently designed an industrial-grade SaaS Cloud solution for a French fast-paced tech company around the Kubernetes technology and significantly contributed to develop the company’s technology strategy.
 
 I'm a passionate coder, in love ❤️ with functional programming ([![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/) ‧ [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/) ‧ [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/) ‧ [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)), disciple of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/).
 
