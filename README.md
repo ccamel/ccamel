@@ -1,19 +1,21 @@
 # Hey 👋, I'm Christophe Camel
 
 <a href="https://github.com/ccamel" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/christophe-camel/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 ## Glad to see you here!
 
-I have over 20 years of experience in the Software Industry, with the following (fairly typical) path: Junior developer, Intermediate developer, Full stack developer, Software architect, Lead Tech, CTO - in a wide variety of fields (avionics, space, video production, industrial maintenance).
+I have over 20 years of experience in the Software Industry, with the following (fairly typical) path: Junior developer, Intermediate developer, Full stack developer, Software architect, Lead Tech, CTO - in a wide variety of fields (avionics, space, video production, industrial maintenance and blockchain).
 
-I'm working primarily on distributed and decentralized architectures ranging from Cloud-native systems to Big Data systems and have recently designed an industrial-grade SaaS Cloud solution for a French fast-paced tech company around the Kubernetes technology and significantly contributed to develop the company’s technology strategy.
+I'm building Cloud-native and Big Data systems and have recently designed an industrial-grade SaaS Cloud solution for a French fast-paced tech company around the [Kubernetes](https://kubernetes.io) technology and significantly contributed to develop the company’s technology strategy.
 
-I'm a passionate coder, in love ❤️ with functional programming ([![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/) ‧ [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/) ‧ [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/) ‧ [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)), disciple of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/).
+I'm a Crypto Enthusiast, now working hard on the [ØKP4 network](https://okp4.network), an amazing layer 1 blockchain based on the [Cosmos SDK](https://v1.cosmos.network/sdk) technology which unleashes the knowledge economy, where anyone, any group, any company, can join or create an ecosystem of contributors with custom governance mechanisms and business models.
+
+I'm a passionate coder, in love ❤️ with functional programming ([![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/) ‧ [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/) ‧ [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/) ‧ [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)) (<sup><sub>(ok I admit, I love [golang](https://go.dev), [Kotlin](https://kotlinlang.org) and [Rust](https://www.rust-lang.org) too)</sub></sup>), disciple of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/).
 
 <br/>  
 
@@ -22,7 +24,7 @@ I'm a passionate coder, in love ❤️ with functional programming ([![Scala](ht
 - 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.com/) ([:octocat: repo](https://github.com/okp4/))  
   
 - 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/))  
-  
+    
 - 👨‍👩‍👦 I'm the father of a lovely boy  
 
 <br/>  
