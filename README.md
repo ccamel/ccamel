@@ -25,9 +25,9 @@ I'm a passionate coder, in love ❤️ with functional programming ([![Scala](ht
 ## Rapidfire  
 
 - 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.com/) ([:octocat: repo](https://github.com/okp4/))  
-  
+
 - 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/))  
-    
+
 - 👨‍👩‍👦 I'm the father of a lovely boy  
 
 <br/>  
