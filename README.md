@@ -27,6 +27,10 @@ I'm a passionate coder, in love ❤️ with functional programming ([![Scala](ht
 
 - 👨‍👩‍👦 I'm the father of a lovely boy.
 
+- 🐈🐈‍⬛ I have 2 cats!
+
+- 🧑‍💻 I don't consider myself geek but my adventure with computers started at age 10 with the [Hector 2HR](https://en.wikipedia.org/wiki/Hector_(microcomputer)) followed by the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) a few years later.
+
 <br/>
 
 ## 🔧 Languages and Tools
