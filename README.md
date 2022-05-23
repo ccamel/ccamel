@@ -20,17 +20,17 @@ I'm a Crypto Enthusiast, now working hard on the [ØKP4 network](https://okp4.ne
 
 I'm a passionate coder, in love ❤️ with functional programming ([![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/) ‧ [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/) ‧ [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/) ‧ [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)) (<sup><sub>(ok I admit, I love [golang](https://go.dev), [Kotlin](https://kotlinlang.org) and [Rust](https://www.rust-lang.org) too)</sub></sup>), disciple of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/).
 
-<br/>  
+<br/>
 
-## Rapidfire  
+## Rapidfire
 
-- 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.com/) ([:octocat: repo](https://github.com/okp4/))  
+- 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.com/) ([:octocat: repo](https://github.com/okp4/)).
 
-- 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/))  
+- 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/)).
 
-- 👨‍👩‍👦 I'm the father of a lovely boy  
+- 👨‍👩‍👦 I'm the father of a lovely boy.
 
-<br/>  
+<br/>
 
 ## 🔧 Languages and Tools
 
