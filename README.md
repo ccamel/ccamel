@@ -13,7 +13,9 @@ I have over 20 years of experience in the Software Industry, with the following 
 
 I'm building 𝗖𝗹𝗼𝘂𝗱-𝗻𝗮𝘁𝗶𝘃𝗲 and 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 systems and have recently designed an industrial-grade SaaS Cloud solution for a French fast-paced tech company around the [Kubernetes](https://kubernetes.io) technology and significantly contributed to develop the company’s technology strategy.
 
-I'm a 𝗖𝗿𝘆𝗽𝘁𝗼 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁, now working hard on the [ØKP4 network](https://okp4.network), an amazing layer 1 blockchain based on the [Cosmos SDK](https://v1.cosmos.network/sdk) technology designed to enable communities to trustlessly share data, algorithms and resources to build the 𝑫𝒂𝒕𝒂𝒗𝒆𝒓𝒔𝒆 - An Open World where everybody can create or participate in custom 𝑬𝒄𝒐𝒔𝒚𝒔𝒕𝒆𝒎𝒔 to build a new generation of dApps!
+OKP4 is revolutionary public PoS layer 1 specifically designed to enable communities to trustlessly share data, algorithms and resources to build the Dataverse
+
+I'm a 𝗖𝗿𝘆𝗽𝘁𝗼 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁, now working with passion on the [ØKP4 network](https://okp4.network), a revolutionary public layer 1 blockchain, based on the [Cosmos SDK](https://v1.cosmos.network/sdk) technology, and designed to enable communities to trustlessly share data, algorithms and resources to build the Dataverse.
 
 I'm a passionate 𝑪𝒐𝒅𝒆𝒓, in love ❤️ with 𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 ([![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/) ‧ [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/) ‧ [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/) ‧ [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)) (<sup><sub>(ok I admit, I love [golang](https://go.dev), [Kotlin](https://kotlinlang.org) and [Rust](https://www.rust-lang.org) too)</sub></sup>), disciple of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/).
 
@@ -30,6 +32,8 @@ I'm a passionate 𝑪𝒐𝒅𝒆𝒓, in love ❤️ with 𝘧𝘶𝘯𝘤𝘵�
 - 🐈🐈‍⬛ I have 2 cats!
 
 - 🧑‍💻 I don't consider myself geek but my adventure with computers started at age 10 with the [Hector 2HR](https://en.wikipedia.org/wiki/Hector_(microcomputer)) followed by the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) a few years later.
+
+- 📆 I'm nostalgic for the 80's, and yes, I love vintage and the charm of objects from past decades.
 
 <br/>
 
