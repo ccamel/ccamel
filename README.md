@@ -81,6 +81,8 @@ I'm a passionate 𝑪𝒐𝒅𝒆𝒓, in love ❤️ with 𝘧𝘶𝘯𝘤𝘵�
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
 
+💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
+
 <br/>
 
 ## 📈 Github Stats
