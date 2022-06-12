@@ -82,6 +82,7 @@ I'm a passionate 𝑪𝒐𝒅𝒆𝒓, in love ❤️ with 𝘧𝘶𝘯𝘤𝘵�
   <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+  <a href="https://www.rust-lang.org" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> </a>
 </p>
 
 💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
