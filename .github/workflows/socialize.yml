@@ -24,3 +24,17 @@ jobs:
             -R "okp4/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  follow-okp4-members:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: 🤝 Follow OKP4 members
+        run: |
+          USERS=$(gh repo list okp4 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
+          for u in $USERS
+          do
+            echo follow $u
+            gh api -X PUT user/following/$u
+          done
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
