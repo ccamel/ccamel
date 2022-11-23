@@ -20,10 +20,10 @@ jobs:
           npx \
             --yes @octoherd/script-star-or-unstar \
             --octoherd-bypass-confirms yes \
-            -T "$GITHUB_TOKEN" \
+            -T "$GH_TOKEN" \
             -R "okp4/*"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
 
   follow-okp4-members:
     runs-on: ubuntu-22.04
@@ -37,4 +37,4 @@ jobs:
             gh api -X PUT user/following/$u
           done
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
