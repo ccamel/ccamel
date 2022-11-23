@@ -1,0 +1,26 @@
+name: Socialize
+
+on:
+  schedule:
+    - cron: "1 1 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  star-okp4-repositories:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Setup node environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.18
+
+      - name: ⭐️ Star OKP4 repositories
+        run: |
+          npx \
+            --yes @octoherd/script-star-or-unstar \
+            --octoherd-bypass-confirms yes \
+            -T "$GITHUB_TOKEN" \
+            -R "okp4/*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
