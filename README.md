@@ -105,7 +105,7 @@ I'm a passionate 𝑪𝒐𝒅𝒆𝒓, in love ❤️ with 𝘧𝘶𝘯𝘤𝘵�
   </tr>
   <tr>
     <td valign="top" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=ccamel&theme=xcode&hide_border=true" align="center" style="width: 100%;" />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" style="width: 100%;" />
     </td>
   </tr>
 </table>
