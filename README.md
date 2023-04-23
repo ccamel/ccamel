@@ -86,10 +86,10 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="65%">
       <img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" style="width: 100%;" />
     </td>
-    <td valign="top">
+    <td valign="top" width="35%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamel&hide_border=true&layout=compact&theme=tokyonight" align="center" style="width: 100%;" />
     </td>
   </tr>
@@ -102,8 +102,11 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top">
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" style="width: 100%;" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" align="center" style="width: 100%;" />
     </td>
   </tr>
 </table>
