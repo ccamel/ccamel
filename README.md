@@ -103,7 +103,7 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" style="width: 100%;" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" style="width: 100%;" />
     </td>
     <td>
       <img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" align="center" style="width: 100%;" />
