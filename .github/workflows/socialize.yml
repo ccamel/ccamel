@@ -18,7 +18,7 @@ jobs:
       - name: ⭐️ Star OKP4 repositories
         run: |
           npx \
-            --yes @octoherd/script-star-or-unstar@v2.0.0 \
+            --yes @octoherd/script-star-or-unstar@v2.0.1 \
             --octoherd-bypass-confirms yes \
             -T "$GH_TOKEN" \
             -R "okp4/*"
