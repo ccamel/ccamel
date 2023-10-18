@@ -115,6 +115,13 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
 
 <br />
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+<br />
+
+<br />
+
 <br />
 
 <br />
