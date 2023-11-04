@@ -1,3 +1,5 @@
+[![guru-meditation](./guru-meditation.png)](https://github.com/ccamel?tab=repositories)
+
 # Hey 👋, I'm Chris!
 
 <a href="https://linkedin.com/in/christophe-camel/" target="_blank">
