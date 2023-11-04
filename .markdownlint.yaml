@@ -1,5 +1,6 @@
 line-length: false
 no-hard-tabs: false
+first-line-h1: false
 
 # MD026/no-trailing-punctuation - Trailing punctuation in heading
 MD026:
