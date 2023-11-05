@@ -25,3 +25,22 @@ jobs:
         run: npx update-my-badges ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.BADGES_TOKEN }}
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+          token: ${{ secrets.BADGES_TOKEN }}
+
+      - name: Amend commit if necessary (hack)
+        run: |
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          echo "👀 Last commit message is '$LAST_COMMIT_MESSAGE'"
+          if [[ "$LAST_COMMIT_MESSAGE" == "Update badges" ]]; then
+            git commit --amend -S --message="docs: update badges"
+            git push --force-with-lease
+            echo "👍 Amended commit"
+          else
+            echo "🙅 Bypass amending commit"
+          fi
