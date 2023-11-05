@@ -89,12 +89,24 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
 
 ## 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamel&hide_border=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ccamel&theme=tokyonight" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=ccamel&row=2&column=3&theme=tokyonight" alt="GitHub Trophy" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" alt="GitHub Activity Graph" />
-<img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+<a href="https://github.com/ccamel">
+  <img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ccamel">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamel&hide_border=true&layout=compact&theme=tokyonight" align="center" alt="Top Languages" />
+</a>
+<a href="https://github.com/ccamel">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccamel&theme=tokyonight" align="center" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/ccamel">
+  <img src="https://github-profile-trophy.vercel.app/?username=ccamel&row=2&column=3&theme=tokyonight" align="center" alt="GitHub Trophy" />
+</a>
+<a href="https://github.com/ccamel">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" alt="GitHub Activity Graph" />
+</a>
+<a href="https://github.com/ccamel">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" align="center" alt="GitHub Contributor Stats" />
+</a>
 
 <!-- my-badges start -->
 <!-- my-badges end -->
