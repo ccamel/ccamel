@@ -1,0 +1,19 @@
+<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true" alt="I closed an issue that was open for 1 years" title="I closed an issue that was open for 1 years" width="128">
+<strong>I closed an issue that was open for 1 years</strong>
+<br><br>
+
+Issues:
+
+- <a href="https://github.com/runabol/piper/issues/27">#27</a>: Add Travis/Circle CI build
+- <a href="https://github.com/prest/prest/issues/345">#345</a>: Bad docker image
+- <a href="https://github.com/beyondstorage/specs/issues/10">#10</a>: Add Synology File Station support
+- <a href="https://github.com/okp4/dev-kanban/issues/150">#150</a>: Migrate OKP4 SMTP connections on Exchange to TLS1.2
+- <a href="https://github.com/okp4/dev-kanban/issues/670">#670</a>: Link OKP4 Governance proposals to Discord
+- <a href="https://github.com/okp4/dev-kanban/issues/242">#242</a>: Brand the generated ontolgy documentation with OKP4 graphical charter
+- <a href="https://github.com/okp4/it-devops-kanban/issues/7">#7</a>: Enable SSO Authentication on Keycloak IT for Nextcloud IT 
+- <a href="https://github.com/okp4/it-devops-kanban/issues/21">#21</a>: Deploy a cloud logging solution for the platform
+- <a href="https://github.com/okp4/it-devops-kanban/issues/22">#22</a>: Evaluate the opportunity to use Vault
+- <a href="https://github.com/okp4/it-devops-kanban/issues/10">#10</a>: Update CI workflows
+
+
+Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
