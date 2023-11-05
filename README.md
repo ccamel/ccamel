@@ -20,8 +20,6 @@ I am currently focused on the world of **cryptocurrency**, **blockchain** ecosys
 
 As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programming languages such as [![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/), [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/), [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/), [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/) (though I also have a fondness for [Go](https://go.dev), [Kotlin](https://kotlinlang.org), and [Rust](https://www.rust-lang.org)). I strive to follow the principles of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) and value collaboration and team work in all my projects.
 
-<br/>
-
 ## Rapidfire
 
 - 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.com/) ([:octocat: repo](https://github.com/okp4/)).
@@ -32,7 +30,7 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
 
 - 🐈🐈‍⬛ I have 2 cats!
 
-- 🧑‍💻 I don't consider myself geek but my adventure with computers started at age 10 with the [Hector 2HR](https://en.wikipedia.org/wiki/Hector_(microcomputer)) followed by the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) a few years later.
+- 🧑‍💻 I don't consider myself geek but my adventure with computers started at age 10 with the [Hector 2HR](<https://en.wikipedia.org/wiki/Hector_(microcomputer)>) followed by the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) a few years later.
 
 - 📆 I'm nostalgic for the 80's, and yes, I love vintage and the charm of objects from past decades.
 
@@ -85,9 +83,7 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
 
 💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
 
-<br/>
-
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/ccamel">
   <img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" alt="GitHub Stats" />
@@ -99,13 +95,18 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccamel&theme=tokyonight" align="center" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/ccamel">
-  <img src="https://github-profile-trophy.vercel.app/?username=ccamel&row=2&column=3&theme=tokyonight" align="center" alt="GitHub Trophy" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" align="center" alt="GitHub Contributor Stats" />
 </a>
 <a href="https://github.com/ccamel">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" alt="GitHub Activity Graph" />
 </a>
+
+## 🏆 Trophies
+
+<h4><a href="https://github.com/ccamel">Trophies</a></h4>
+
 <a href="https://github.com/ccamel">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" align="center" alt="GitHub Contributor Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ccamel&column=5&theme=onedark" align="center" alt="GitHub Trophy" />
 </a>
 
 <!-- my-badges start -->
@@ -134,12 +135,11 @@ As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programm
 <a href="my-badges/the-ultimate-question.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
 
-<br />
-
-----
+---
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> / <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">gh-profile-readme-generator</a> + some customizations</div>
