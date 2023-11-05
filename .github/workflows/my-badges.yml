@@ -33,14 +33,27 @@ jobs:
           fetch-depth: 2
           token: ${{ secrets.BADGES_TOKEN }}
 
-      - name: Amend commit if necessary (hack)
+      - name: Check last commit is "Update badges" (from update-my-badges)
+        id: check_badges_commit
         run: |
           LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
           echo "👀 Last commit message is '$LAST_COMMIT_MESSAGE'"
           if [[ "$LAST_COMMIT_MESSAGE" == "Update badges" ]]; then
-            git commit --amend -S --message="docs: update badges"
-            git push --force-with-lease
-            echo "👍 Amended commit"
+            echo "MATCHED=true" >> $GITHUB_ENV
           else
-            echo "🙅 Bypass amending commit"
+            echo "MATCHED=false" >> $GITHUB_ENV
           fi
+
+      - name: Prettiyfy README.md
+        if: env.MATCHED == 'true'
+        uses: wagoid/prettier-action@v4.3
+        with:
+          prettier_version: 3.0.3
+          prettier_options: --write "README.md"
+
+      - name: Amend commit if necessary (hack)
+        if: env.MATCHED == 'true'
+        run: |
+          git commit --all --amend -S --message="docs: update badges"
+          git push --force-with-lease
+          echo "👍 Amended commit"
