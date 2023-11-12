@@ -53,7 +53,7 @@ jobs:
         run: |
           if [[ $(git status -s) ]]; then
             git commit --all -S --message="docs: update badges"
-            git push --force-with-lease
+            git push
             echo "👍 Commit amended"
           else
             echo "👌 No changes to commit"
