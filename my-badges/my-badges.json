@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/45290ee6f4df7ece9171f1f5557518d2f6f011ce\">45290ee</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/c8d97af9e6cd7e8df93750ab723fde1d017ac1f0\">c8d97af</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/73c920a735f704622640659f9591e360fff1bedd\">73c920a</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/c90e4e21413e15e7da1f881f0c0c905e566fa0a6\">c90e4e2</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/13aab477bd0ce1c8dcd409073c40e1a63038373c\">13aab47</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/b81b9adddf1e1e2578ff8731fec4b85139763457\">b81b9ad</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/248240a3535e51ab1d82b7fbc1ed394c9fd4cfa5\">248240a</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/aeb6d318eb12dd8083f65e1aabe3278afe8d9f25\">aeb6d31</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/453cfbe1e9db1cea917e64f07c2b2bce11b4d566\">453cfbe</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/52d9ba4f8913ed3c4d7ff5f350d168fc63c5c03f\">52d9ba4</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/45290ee6f4df7ece9171f1f5557518d2f6f011ce\">45290ee</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/c8d97af9e6cd7e8df93750ab723fde1d017ac1f0\">c8d97af</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -150,7 +150,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 1355 times)\n2. add (used 1098 times)\n3. update (used 1046 times)\n4. from (used 901 times)\n5. :arrow_up: (used 823 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 1355 times)\n2. add (used 1107 times)\n3. update (used 1047 times)\n4. from (used 902 times)\n5. :arrow_up: (used 823 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
