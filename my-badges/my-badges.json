@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/248240a3535e51ab1d82b7fbc1ed394c9fd4cfa5\">248240a</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/aeb6d318eb12dd8083f65e1aabe3278afe8d9f25\">aeb6d31</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/453cfbe1e9db1cea917e64f07c2b2bce11b4d566\">453cfbe</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/52d9ba4f8913ed3c4d7ff5f350d168fc63c5c03f\">52d9ba4</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/45290ee6f4df7ece9171f1f5557518d2f6f011ce\">45290ee</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/c8d97af9e6cd7e8df93750ab723fde1d017ac1f0\">c8d97af</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/4688bae2d64c9a0d770e63948ecd7a4098558eee\">4688bae</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/20103eb739c7992405359353430c15f29eeb65ce\">20103eb</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/b857d9c9e7a792dc8e51b578498d96be0e4b24ef\">b857d9c</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/f21f971c097713df707b1bcd14150a2efb783f87\">f21f971</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/92f353f9b2495be15e2d8d98d3cf4a89bceceb51\">92f353f</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/ec01d254c0139fdb5cb9475ee5c70f00222ee736\">ec01d25</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -72,8 +72,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/ccamel/stomp-client/commit/8cc4ff36021f123deadee02c80cf3723f451b696\">8cc4ff36021f123<strong>dead</strong>ee02c80cf3723f451b696</a>\n- <a href=\"https://github.com/okp4/template-python/commit/ec19f242a33a1ee4c260cc0adead780398731078\">ec19f242a33a1ee4c260cc0a<strong>dead</strong>780398731078</a>",
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/ccamel/stomp-client/commit/8cc4ff36021f123deadee02c80cf3723f451b696\">8cc4ff36021f123<strong>dead</strong>ee02c80cf3723f451b696</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/2fa9038019ddb3477baa0afb302dead90073d5f2\">2fa9038019ddb3477baa0afb302<strong>dead</strong>90073d5f2</a>\n- <a href=\"https://github.com/okp4/template-python/commit/ec19f242a33a1ee4c260cc0adead780398731078\">ec19f242a33a1ee4c260cc0a<strong>dead</strong>780398731078</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
   },
   {
@@ -150,14 +150,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 1355 times)\n2. add (used 1107 times)\n3. update (used 1047 times)\n4. from (used 902 times)\n5. :arrow_up: (used 823 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 1356 times)\n2. add (used 1116 times)\n3. update (used 1048 times)\n4. from (used 904 times)\n5. :arrow_up: (used 824 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111\">#111</a>: Relax type checking\n- <a href=\"https://github.com/atextor/owl-cli/issues/9\">#9</a>: Add a Dockerfile to the project\n- <a href=\"https://github.com/okp4/contracts/issues/323\">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation\n- <a href=\"https://github.com/antonmedv/expr/issues/46\">#46</a>: v2 go mod issue\n- <a href=\"https://github.com/goccy/go-yaml/issues/61\">#61</a>: Support for default values\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111\">#111</a>: Relax type checking\n- <a href=\"https://github.com/atextor/owl-cli/issues/9\">#9</a>: Add a Dockerfile to the project\n- <a href=\"https://github.com/okp4/contracts/issues/323\">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation\n- <a href=\"https://github.com/expr-lang/expr/issues/46\">#46</a>: v2 go mod issue\n- <a href=\"https://github.com/goccy/go-yaml/issues/61\">#61</a>: Support for default values\n\n And many more...",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
   }
 ]
