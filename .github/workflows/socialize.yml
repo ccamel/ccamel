@@ -33,7 +33,21 @@ jobs:
           USERS=$(gh repo list okp4 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
           for u in $USERS
           do
-            echo follow $u
+            echo "👀 follow $u"
+            gh api -X PUT user/following/$u
+          done
+        env:
+          GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
+
+  follow-my-followers:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: 🤝 Follow my followers
+        run: |
+          USERS=$(gh api --paginate user/followers | jq '[.[].login]| unique | .[]' -r)
+          for u in $USERS
+          do
+            echo "👀 follow $u"
             gh api -X PUT user/following/$u
           done
         env:
