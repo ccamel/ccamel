@@ -27,6 +27,7 @@ jobs:
 
   follow-okp4-members:
     runs-on: ubuntu-22.04
+    needs: star-okp4-repositories # wait for star-okp4-repositories to finish (prevent rate limit)
     steps:
       - name: 🤝 Follow OKP4 members
         run: |
@@ -35,12 +36,14 @@ jobs:
           do
             echo "👀 follow $u"
             gh api -X PUT user/following/$u
+            sleep 2
           done
         env:
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
 
   follow-my-followers:
     runs-on: ubuntu-22.04
+    needs: follow-okp4-members # wait for follow-okp4-members to finish (prevent rate limit)
     steps:
       - name: 🤝 Follow my followers
         run: |
@@ -49,6 +52,7 @@ jobs:
           do
             echo "👀 follow $u"
             gh api -X PUT user/following/$u
+            sleep 2
           done
         env:
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
