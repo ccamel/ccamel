@@ -30,7 +30,7 @@ jobs:
     steps:
       - name: 🤝 Follow OKP4 members
         run: |
-          USERS=$(gh repo list okp4 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
+          USERS=$(gh repo list okp4 --limit 1000 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
           for u in $USERS
           do
             echo "👀 follow $u"
