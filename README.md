@@ -5,11 +5,14 @@
 <a href="https://linkedin.com/in/christophe-camel/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ccamel" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/7h3_360l355_d3v" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="x (twitter)" />
+</a>
+<a href="https://medium.com/@camel.christophe" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ccamel" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
 ## Glad to see you here!
