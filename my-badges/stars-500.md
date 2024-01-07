@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★439</a>
+* <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★440</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★38</a>
-* <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★32</a>
+* <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★33</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★14</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★9</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
