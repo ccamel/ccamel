@@ -38,7 +38,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/kynaptik/commit/639f312ccf7ae2e95b49359bd2298b80d635dc5d\">639f312</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/2a61d1b51f954c02a1c7e9ae7ef50305df919c45\">2a61d1b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/e0ede6e269d138295f9bd4569743373e992e66b8\">e0ede6e</a>\n- <a href=\"https://github.com/okp4/actions/commit/b32c9ccfc25f428fa50dae6b75ee420fbc17ba1d\">b32c9cc</a>\n- <a href=\"https://github.com/okp4/actions/commit/8a2f6a5a7a5911dc89e40b2b89e599ce2b074e9a\">8a2f6a5</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/f9f09964601fdedfb15f2c6a48e5f298bb7d2ccd\">f9f0996</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/b58a60a5d6ae65a720496c287a4a9baedbb4c2bf\">b58a60a</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/b3512cda1cfa7bec0d9f94b575bf6785011a282b\">b3512cd</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
@@ -150,7 +150,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 1386 times)\n2. add (used 1185 times)\n3. update (used 1058 times)\n4. from (used 950 times)\n5. :arrow_up: (used 848 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 1388 times)\n2. add (used 1192 times)\n3. update (used 1059 times)\n4. from (used 953 times)\n5. :arrow_up: (used 850 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -159,5 +159,26 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111\">#111</a>: Relax type checking\n- <a href=\"https://github.com/atextor/owl-cli/issues/9\">#9</a>: Add a Dockerfile to the project\n- <a href=\"https://github.com/okp4/contracts/issues/323\">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation\n- <a href=\"https://github.com/expr-lang/expr/issues/46\">#46</a>: v2 go mod issue\n- <a href=\"https://github.com/goccy/go-yaml/issues/61\">#61</a>: Support for default values\n\n And many more...",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/kynaptik/commit/639f312ccf7ae2e95b49359bd2298b80d635dc5d\">639f312</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/2a61d1b51f954c02a1c7e9ae7ef50305df919c45\">2a61d1b</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/39\">#39</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/okp4/status/pull/8\">#8</a>: :wrench: Adopt gitmoji (+ some others upptime emojis)\n- <a href=\"https://github.com/okp4/platform-cloud/pull/284\">#284</a>: feat(dataverse-portal): configure env for dataverse-portal app\n- <a href=\"https://github.com/okp4/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   }
 ]
