@@ -150,7 +150,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 1390 times)\n2. add (used 1198 times)\n3. update (used 1060 times)\n4. from (used 956 times)\n5. :arrow_up: (used 852 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 1390 times)\n2. add (used 1204 times)\n3. update (used 1061 times)\n4. from (used 956 times)\n5. :arrow_up: (used 852 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -178,7 +178,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/okp4/platform-cloud/pull/284\">#284</a>: feat(dataverse-portal): configure env for dataverse-portal app\n- <a href=\"https://github.com/okp4/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/okp4/status/pull/8\">#8</a>: :wrench: Adopt gitmoji (+ some others upptime emojis)\n- <a href=\"https://github.com/okp4/platform-cloud/pull/284\">#284</a>: feat(dataverse-portal): configure env for dataverse-portal app\n- <a href=\"https://github.com/okp4/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   }
 ]
