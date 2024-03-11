@@ -17,15 +17,17 @@
 
 ## Glad to see you here!
 
-With over 20 years of experience in the software industry, I have a diverse background working in various fields such as avionics, space, video production, and industrial maintenance. I have progressed through various roles including junior developer, intermediate developer, full stack developer, software architect, lead tech, and CTO. My expertise includes building **cloud-native** and **big data** systems, and I have recently designed an industrial-grade SaaS cloud solution using [Kubernetes](https://kubernetes.io) for a French technology company.
+Hello there! I'm a seasoned software professional with over 20 years of diverse experience in the software industry, traversing domains from avionics and space to video production and industrial maintenance. Throughout my career, I've evolved from a junior developer 👶 to **CTO** , with stops as a full-stack developer and **software architect** along the way. My expertise lies in crafting **cloud-native** and **big data** solutions, underscored by my recent work designing a robust **SaaS** cloud solution with [Kubernetes](https://kubernetes.io/) for a French tech company.
 
-I am currently focused on the world of **cryptocurrency**, **blockchain** ecosystems, and **web3.0** technologies, and am actively building the [OKP4 network](https://okp4.network) - a revolutionary public [Layer 1](https://medium.com/okp4/the-layered-structure-of-the-blockchain-7d39b28a48cc) blochain based on the [Cosmos SDK](https://cosmos.network/) technology. The OKP4 network is designed to enable communities to trustlessly share data, algorithms, and resources to build the **Dataverse**.
+- *Current Focus:* I'm deeply engrossed in the exciting world of cryptocurrency, **blockchain ecosystems** ⛓️, and **web3.0** 🌐 technologies. I'm at the helm of developing the [Axone protocol](https://axone.xyz/), a cutting-edge universal protocol aimed at revolutionizing how resources in the AI stack are connected, shared, and monetized - leveraging [Cosmos SDK](https://cosmos.network/) and [CosmWasm](https://cosmwasm.com/) technologies.
 
-As a passionate 💻🔥🚀 coder, I have a love ❤️ for functional programming languages such as [![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white)](https://www.scala-lang.org/), [![Erlang](https://img.shields.io/badge/ERLANG-white?logo=erlang&logoColor=A90533)](https://www.erlang.org/), [![Elm](https://img.shields.io/badge/Elm-60B5CC?logo=elm&logoColor=white)](https://elm-lang.org/), [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/) (though I also have a fondness for [Go](https://go.dev), [Kotlin](https://kotlinlang.org), and [Rust](https://www.rust-lang.org)). I strive to follow the principles of [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) and value collaboration and team work in all my projects.
+- *Technical Palette:* My passion for coding ignites my love ❤️ for functional programming languages, including [Scala](https://www.scala-lang.org/), [Erlang](https://www.erlang.org/), [Elm](https://elm-lang.org/), and [Haskell](https://www.haskell.org/). This is in addition to my proficiency in [Go](https://go.dev), [Kotlin](https://kotlinlang.org), and [Rust](https://www.rust-lang.org). I'm an advocate for [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/), believing firmly in the power of collaboration and teamwork to drive project success. 🤝 
+
+> I'm always on the lookout for like-minded individuals passionate about pushing the boundaries of technology. Whether you're interested in contributing to the [Axone protocol](https://axone.xyz/) or simply wish to exchange ideas on functional programming and the future of web3.0, let's connect and explore the possibilities together.
 
 ## Rapidfire
 
-- 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.com/) ([:octocat: repo](https://github.com/okp4/)).
+- 🧔‍♂️ I’m currently the CTO of [OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/)).
 
 - 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/)).
 
