@@ -14,6 +14,11 @@ Issues:
 - <a href="https://github.com/okp4/it-devops-kanban/issues/21">#21</a>: Deploy a cloud logging solution for the platform
 - <a href="https://github.com/okp4/it-devops-kanban/issues/22">#22</a>: Evaluate the opportunity to use Vault
 - <a href="https://github.com/okp4/it-devops-kanban/issues/10">#10</a>: Update CI workflows
+- <a href="https://github.com/okp4/it-devops-kanban/issues/9">#9</a>: Sign sensible communications (to Discord, mail, etc.)
+- <a href="https://github.com/okp4/it-devops-kanban/issues/38">#38</a>: Become an Akash Provider
+- <a href="https://github.com/okp4/it-devops-kanban/issues/26">#26</a>: Data scoring tracking in CI/CD
+- <a href="https://github.com/okp4/it-devops-kanban/issues/25">#25</a>: Setup Github PR auto-merging strategy 
+- <a href="https://github.com/okp4/it-devops-kanban/issues/11">#11</a>: Consider using a Code Owner file for all open source repositories
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
