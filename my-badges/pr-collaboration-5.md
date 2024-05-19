@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/okp4/ontology/pull/6">#6</a>: Introduce `dataspace` concept
+- <a href="https://github.com/axone-protocol/ontology/pull/6">#6</a>: Introduce `dataspace` concept
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

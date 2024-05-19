@@ -115,14 +115,14 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/okp4/ontology/pull/6\">#6</a>: Introduce `dataspace` concept",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/ontology/pull/6\">#6</a>: Introduce `dataspace` concept",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
   },
   {
     "id": "pr-collaboration-10",
     "tier": 2,
     "desc": "I have participated in pull requests with 10 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/okp4/okp4d/pull/105\">#105</a>: ⚖️ Adopt Apache License Version 2.0, January 2004",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/axoned/pull/105\">#105</a>: ⚖️ Adopt Apache License Version 2.0, January 2004",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-10.png?raw=true"
   },
   {
@@ -143,21 +143,21 @@
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/okp4/dev-kanban/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/awesome/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/okp4d/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/platform-cloud/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/ontology/issues/42\">#42</a>",
+    "body": "- <a href=\"https://github.com/okp4/dev-kanban/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/awesome/issues/42\">#42</a>\n- <a href=\"https://github.com/axone-protocol/axoned/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/platform-cloud/issues/42\">#42</a>\n- <a href=\"https://github.com/axone-protocol/ontology/issues/42\">#42</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 1393 times)\n2. add (used 1258 times)\n3. update (used 1070 times)\n4. from (used 960 times)\n5. :arrow_up: (used 854 times)",
+    "body": "My favorite commit message words are:\n\n1. to (used 1398 times)\n2. add (used 1264 times)\n3. update (used 1071 times)\n4. from (used 966 times)\n5. :arrow_up: (used 856 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111\">#111</a>: Relax type checking\n- <a href=\"https://github.com/atextor/owl-cli/issues/9\">#9</a>: Add a Dockerfile to the project\n- <a href=\"https://github.com/okp4/contracts/issues/323\">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation\n- <a href=\"https://github.com/expr-lang/expr/issues/46\">#46</a>: v2 go mod issue\n- <a href=\"https://github.com/goccy/go-yaml/issues/61\">#61</a>: Support for default values\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111\">#111</a>: Relax type checking\n- <a href=\"https://github.com/atextor/owl-cli/issues/9\">#9</a>: Add a Dockerfile to the project\n- <a href=\"https://github.com/axone-protocol/contracts/issues/323\">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation\n- <a href=\"https://github.com/expr-lang/expr/issues/46\">#46</a>: v2 go mod issue\n- <a href=\"https://github.com/goccy/go-yaml/issues/61\">#61</a>: Support for default values\n\n And many more...",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
   },
   {
@@ -178,7 +178,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/okp4/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
   },
   {
