@@ -4,168 +4,168 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/a0b099caec13545d89aff9d8c0f815781dde4efe\"><strong>a</strong>0b099caec13545d89aff9d8c0f815781dde4efe</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/okp4/actions/commit/abbfd8e0091c8e4adf8283e39a86e02e06894b62\"><strong>ab</strong>bfd8e0091c8e4adf8283e39a86e02e06894b62</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "abc-commit",
     "tier": 3,
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/ccamel/ccamel/commit/abc6021a847a9ba67f41662f356f305fa467af4d\"><strong>abc</strong>6021a847a9ba67f41662f356f305fa467af4d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abc-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/ccamel/playground-binding.scala\">ccamel/playground-binding.scala: ★32</a>\n* <a href=\"https://github.com/ccamel/playground-elm\">ccamel/playground-elm: ★15</a>\n* <a href=\"https://github.com/ccamel/awesome-ccamel\">ccamel/awesome-ccamel: ★11</a>\n* <a href=\"https://github.com/okp4/template-python\">okp4/template-python: ★6</a>\n* <a href=\"https://github.com/okp4/actions\">okp4/actions: ★6</a>\n* <a href=\"https://github.com/ccamel/playground-protoactor.go\">ccamel/playground-protoactor.go: ★6</a>\n* <a href=\"https://github.com/okp4/docker-images\">okp4/docker-images: ★5</a>\n* <a href=\"https://github.com/ccamel/poc-piper-worker-flink\">ccamel/poc-piper-worker-flink: ★3</a>\n* <a href=\"https://github.com/ccamel/ccamel\">ccamel/ccamel: ★3</a>\n* <a href=\"https://github.com/bot-anik/bot-anik\">bot-anik/bot-anik: ★3</a>\n* <a href=\"https://github.com/ccamel/kynaptik\">ccamel/kynaptik: ★2</a>\n* <a href=\"https://github.com/ingvaar/kafka-quarkus-processor-template\">ingvaar/kafka-quarkus-processor-template: ★1</a>\n* <a href=\"https://github.com/ccamel/utask\">ccamel/utask: ★1</a>\n* <a href=\"https://github.com/ccamel/tutorial-react-parcel-express\">ccamel/tutorial-react-parcel-express: ★1</a>\n* <a href=\"https://github.com/ccamel/storage\">ccamel/storage: ★1</a>\n* <a href=\"https://github.com/ccamel/stomp-client\">ccamel/stomp-client: ★1</a>\n* <a href=\"https://github.com/ccamel/rust-template\">ccamel/rust-template: ★1</a>\n* <a href=\"https://github.com/ccamel/prest\">ccamel/prest: ★1</a>\n* <a href=\"https://github.com/ccamel/Nodeist\">ccamel/Nodeist: ★1</a>\n* <a href=\"https://github.com/ccamel/map\">ccamel/map: ★1</a>\n* <a href=\"https://github.com/ccamel/kube-opex-analytics\">ccamel/kube-opex-analytics: ★1</a>\n* <a href=\"https://github.com/ccamel/javelin\">ccamel/javelin: ★1</a>\n* <a href=\"https://github.com/ccamel/jacoco-cov-badge-maven-plugin\">ccamel/jacoco-cov-badge-maven-plugin: ★1</a>\n* <a href=\"https://github.com/ccamel/hibernate-types\">ccamel/hibernate-types: ★1</a>\n* <a href=\"https://github.com/ccamel/GMavenPlus\">ccamel/GMavenPlus: ★1</a>\n* <a href=\"https://github.com/ccamel/github-profilinator\">ccamel/github-profilinator: ★1</a>\n* <a href=\"https://github.com/ccamel/ghdid\">ccamel/ghdid: ★1</a>\n* <a href=\"https://github.com/ccamel/generator-latex-mail\">ccamel/generator-latex-mail: ★1</a>\n* <a href=\"https://github.com/ccamel/fission\">ccamel/fission: ★1</a>\n* <a href=\"https://github.com/ccamel/faucet\">ccamel/faucet: ★1</a>\n* <a href=\"https://github.com/ccamel/eventhus\">ccamel/eventhus: ★1</a>\n* <a href=\"https://github.com/ccamel/eslint-config-ubleam\">ccamel/eslint-config-ubleam: ★1</a>\n* <a href=\"https://github.com/ccamel/docs\">ccamel/docs: ★1</a>\n* <a href=\"https://github.com/ccamel/crud\">ccamel/crud: ★1</a>\n* <a href=\"https://github.com/ccamel/awesome-ontology\">ccamel/awesome-ontology: ★1</a>\n* <a href=\"https://github.com/ccamel/amimart\">ccamel/amimart: ★1</a>\n* <a href=\"https://github.com/antho31/okp4-ui-boilerplate\">antho31/okp4-ui-boilerplate: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/rchakode/kube-opex-analytics\">rchakode/kube-opex-analytics: ★446</a>\n* <a href=\"https://github.com/ccamel/go-graphql-subscription-example\">ccamel/go-graphql-subscription-example: ★39</a>\n* <a href=\"https://github.com/ccamel/playground-binding.scala\">ccamel/playground-binding.scala: ★32</a>\n* <a href=\"https://github.com/ccamel/playground-elm\">ccamel/playground-elm: ★15</a>\n* <a href=\"https://github.com/ccamel/awesome-ccamel\">ccamel/awesome-ccamel: ★11</a>\n* <a href=\"https://github.com/okp4/template-python\">okp4/template-python: ★6</a>\n* <a href=\"https://github.com/okp4/actions\">okp4/actions: ★6</a>\n* <a href=\"https://github.com/ccamel/playground-protoactor.go\">ccamel/playground-protoactor.go: ★6</a>\n* <a href=\"https://github.com/okp4/docker-images\">okp4/docker-images: ★5</a>\n* <a href=\"https://github.com/ccamel/poc-piper-worker-flink\">ccamel/poc-piper-worker-flink: ★3</a>\n* <a href=\"https://github.com/ccamel/ccamel\">ccamel/ccamel: ★3</a>\n* <a href=\"https://github.com/bot-anik/bot-anik\">bot-anik/bot-anik: ★3</a>\n* <a href=\"https://github.com/ccamel/kynaptik\">ccamel/kynaptik: ★2</a>\n* <a href=\"https://github.com/ingvaar/kafka-quarkus-processor-template\">ingvaar/kafka-quarkus-processor-template: ★1</a>\n* <a href=\"https://github.com/ccamel/utask\">ccamel/utask: ★1</a>\n* <a href=\"https://github.com/ccamel/tutorial-react-parcel-express\">ccamel/tutorial-react-parcel-express: ★1</a>\n* <a href=\"https://github.com/ccamel/storage\">ccamel/storage: ★1</a>\n* <a href=\"https://github.com/ccamel/stomp-client\">ccamel/stomp-client: ★1</a>\n* <a href=\"https://github.com/ccamel/rust-template\">ccamel/rust-template: ★1</a>\n* <a href=\"https://github.com/ccamel/prest\">ccamel/prest: ★1</a>\n* <a href=\"https://github.com/ccamel/Nodeist\">ccamel/Nodeist: ★1</a>\n* <a href=\"https://github.com/ccamel/map\">ccamel/map: ★1</a>\n* <a href=\"https://github.com/ccamel/kube-opex-analytics\">ccamel/kube-opex-analytics: ★1</a>\n* <a href=\"https://github.com/ccamel/javelin\">ccamel/javelin: ★1</a>\n* <a href=\"https://github.com/ccamel/jacoco-cov-badge-maven-plugin\">ccamel/jacoco-cov-badge-maven-plugin: ★1</a>\n* <a href=\"https://github.com/ccamel/hibernate-types\">ccamel/hibernate-types: ★1</a>\n* <a href=\"https://github.com/ccamel/GMavenPlus\">ccamel/GMavenPlus: ★1</a>\n* <a href=\"https://github.com/ccamel/github-profilinator\">ccamel/github-profilinator: ★1</a>\n* <a href=\"https://github.com/ccamel/ghdid\">ccamel/ghdid: ★1</a>\n* <a href=\"https://github.com/ccamel/generator-latex-mail\">ccamel/generator-latex-mail: ★1</a>\n* <a href=\"https://github.com/ccamel/fission\">ccamel/fission: ★1</a>\n* <a href=\"https://github.com/ccamel/faucet\">ccamel/faucet: ★1</a>\n* <a href=\"https://github.com/ccamel/eventhus\">ccamel/eventhus: ★1</a>\n* <a href=\"https://github.com/ccamel/eslint-config-ubleam\">ccamel/eslint-config-ubleam: ★1</a>\n* <a href=\"https://github.com/ccamel/docs\">ccamel/docs: ★1</a>\n* <a href=\"https://github.com/ccamel/crud\">ccamel/crud: ★1</a>\n* <a href=\"https://github.com/ccamel/awesome-ontology\">ccamel/awesome-ontology: ★1</a>\n* <a href=\"https://github.com/ccamel/amimart\">ccamel/amimart: ★1</a>\n* <a href=\"https://github.com/antho31/okp4-ui-boilerplate\">antho31/okp4-ui-boilerplate: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/e0ede6e269d138295f9bd4569743373e992e66b8\">e0ede6e</a>\n- <a href=\"https://github.com/okp4/actions/commit/b32c9ccfc25f428fa50dae6b75ee420fbc17ba1d\">b32c9cc</a>\n- <a href=\"https://github.com/okp4/actions/commit/8a2f6a5a7a5911dc89e40b2b89e599ce2b074e9a\">8a2f6a5</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/f9f09964601fdedfb15f2c6a48e5f298bb7d2ccd\">f9f0996</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/b58a60a5d6ae65a720496c287a4a9baedbb4c2bf\">b58a60a</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/b3512cda1cfa7bec0d9f94b575bf6785011a282b\">b3512cd</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/12aeec5ab5ef5a8d60fc75e26d3926aaa55097b4\">12aeec5</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/b817d78f5a3077674c3475ae5c96605fb5941a11\">b817d78</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/0b0e92c43870d0768172d60c934c62affb473b71\">0b0e92c</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/bee26d1bb3a3b8cf8c7d921bccd14e6f6cf11fcb\">bee26d1</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/c248f0165a7c929994835954ef2671ac7b6d2a23\">c248f01</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/0286eb179ba7e8553ef253084abde643920a396e\">0286eb1</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/okp4/docker-images/commit/84aafb47bdf8a0f995a49fdf9cffc0b1d35e3655\">84aafb4</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/3aa6ae056df9f7b90b26697b38757eadef772da4\">3aa6ae0</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/25b3be92bf846d2e8ade75cdc0cef469b52585d0\">25b3be9</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/520d82fe336c8aa44b59b6002e76f3f3062115e8\">520d82f</a>\n- <a href=\"https://github.com/ccamel/playground-binding.scala/commit/25b73b88c72b519e40539457f58c1b6575250060\">25b73b8</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "star-gazer",
     "tier": 0,
     "desc": "I'm a star gazer!",
     "body": "I've starred over 1000 repositories!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/star-gazer/star-gazer.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 3 times.",
-    "body": "- <a href=\"https://github.com/ccamel/stomp-client/commit/8cc4ff36021f123deadee02c80cf3723f451b696\">8cc4ff36021f123<strong>dead</strong>ee02c80cf3723f451b696</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/2fa9038019ddb3477baa0afb302dead90073d5f2\">2fa9038019ddb3477baa0afb302<strong>dead</strong>90073d5f2</a>\n- <a href=\"https://github.com/okp4/template-python/commit/ec19f242a33a1ee4c260cc0adead780398731078\">ec19f242a33a1ee4c260cc0a<strong>dead</strong>780398731078</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+    "body": "- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/2fa9038019ddb3477baa0afb302dead90073d5f2\">2fa9038019ddb3477baa0afb302<strong>dead</strong>90073d5f2</a>\n- <a href=\"https://github.com/ccamel/stomp-client/commit/8cc4ff36021f123deadee02c80cf3723f451b696\">8cc4ff36021f123<strong>dead</strong>ee02c80cf3723f451b696</a>\n- <a href=\"https://github.com/okp4/template-python/commit/ec19f242a33a1ee4c260cc0adead780398731078\">ec19f242a33a1ee4c260cc0a<strong>dead</strong>780398731078</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/10b476d1c32945bdca4c8c549b6625901bc08eaf\">10b476d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/piper/commit/48810812db3c9780fa58906ec5fa7c88f94931f4\">4881081</a>: fix incorrect property name\n- <a href=\"https://github.com/ccamel/piper/commit/bf5a64d5105d8fc1b6d146122b513fa127c1ec5f\">bf5a64d</a>: fix script paths\n\nFixes #17",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/5508f01ae90a2b855d2fff7b48351cdfe74a59d2\">5508f01</a>: fix: activity-graph url link\n- <a href=\"https://github.com/ccamel/ccamel/commit/2083c171c284c0352720c9b9dabf62b0e40e02da\">2083c17</a>: fix: fix secret management",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/eslint-config-ubleam/commit/ff9a0c7767acfd31b7c8321fe8f78e4a95b3f284\">ff9a0c7</a>: chore(release): 0.1.1",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+    "body": "Commits:\n\n- <a href=\"https://github.com/bot-anik/bot-anik/commit/f4dafc03809b7025f6284bff037a2aa3d549dcf4\">f4dafc0</a>: chore(project): configure markdown-lint with standard options",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/2636273bc7804ab7ebbb880f83b9ed767633a573\">2636273</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/f6d78daa2fccf0aafff5a398411957d604ab51fa\">f6d78da</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/e021e4c4b3900c28f08e14b8f606d953ae11773b\">e021e4c</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/8fc4413201f0262f00eed676f0f692a3ecf17422\">8fc4413</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/b6512bd31af4346eea3e9ec81962a4bb52e600f8\">b6512bd</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/3a0a874b7708c2a8fad7ed1167910c878deac48e\">3a0a874</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/ontology/pull/6\">#6</a>: Introduce `dataspace` concept",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
     "id": "pr-collaboration-10",
     "tier": 2,
     "desc": "I have participated in pull requests with 10 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/axoned/pull/105\">#105</a>: ⚖️ Adopt Apache License Version 2.0, January 2004",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
   },
   {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   },
   {
     "id": "old-issue-1",
     "tier": 1,
-    "desc": "I closed an issue that was open for 1 years",
+    "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/runabol/piper/issues/27\">#27</a>: Add Travis/Circle CI build\n- <a href=\"https://github.com/prest/prest/issues/345\">#345</a>: Bad docker image\n- <a href=\"https://github.com/beyondstorage/specs/issues/10\">#10</a>: Add Synology File Station support\n- <a href=\"https://github.com/okp4/dev-kanban/issues/150\">#150</a>: Migrate OKP4 SMTP connections on Exchange to TLS1.2\n- <a href=\"https://github.com/okp4/dev-kanban/issues/670\">#670</a>: Link OKP4 Governance proposals to Discord\n- <a href=\"https://github.com/okp4/dev-kanban/issues/242\">#242</a>: Brand the generated ontolgy documentation with OKP4 graphical charter\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/7\">#7</a>: Enable SSO Authentication on Keycloak IT for Nextcloud IT \n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/21\">#21</a>: Deploy a cloud logging solution for the platform\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/22\">#22</a>: Evaluate the opportunity to use Vault\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/10\">#10</a>: Update CI workflows\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/9\">#9</a>: Sign sensible communications (to Discord, mail, etc.)\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/38\">#38</a>: Become an Akash Provider\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/26\">#26</a>: Data scoring tracking in CI/CD\n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/25\">#25</a>: Setup Github PR auto-merging strategy \n- <a href=\"https://github.com/okp4/it-devops-kanban/issues/11\">#11</a>: Consider using a Code Owner file for all open source repositories",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-1.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   },
   {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/okp4/dev-kanban/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/awesome/issues/42\">#42</a>\n- <a href=\"https://github.com/axone-protocol/axoned/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/platform-cloud/issues/42\">#42</a>\n- <a href=\"https://github.com/axone-protocol/ontology/issues/42\">#42</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 1401 times)\n2. add (used 1305 times)\n3. update (used 1077 times)\n4. from (used 969 times)\n5. :arrow_up: (used 859 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+    "body": "My favorite commit message words are:\n\n1. to (used 1408 times)\n2. add (used 1321 times)\n3. update (used 1078 times)\n4. from (used 970 times)\n5. :arrow_up: (used 860 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111\">#111</a>: Relax type checking\n- <a href=\"https://github.com/atextor/owl-cli/issues/9\">#9</a>: Add a Dockerfile to the project\n- <a href=\"https://github.com/axone-protocol/contracts/issues/323\">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation\n- <a href=\"https://github.com/axone-protocol/marcom-project-kanban/issues/26\">#26</a>: Zealy - Complete Axone community description\n- <a href=\"https://github.com/expr-lang/expr/issues/46\">#46</a>: v2 go mod issue\n\n And many more...",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/kynaptik/commit/639f312ccf7ae2e95b49359bd2298b80d635dc5d\">639f312</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/2a61d1b51f954c02a1c7e9ae7ef50305df919c45\">2a61d1b</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "my-badges-contributor",
@@ -178,14 +178,21 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/status/pull/8\">#8</a>: :wrench: Adopt gitmoji (+ some others upptime emojis)\n- <a href=\"https://github.com/axone-protocol/community/pull/5\">#5</a>: Docs/reorganize discussions categories\n- <a href=\"https://github.com/axone-protocol/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true"
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/contracts/pull/304\">#304</a>: 🤯 Delete implementation",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/a17f258b859d91d9b7401fa92c6aecc5137b83e2\">a17f258</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/e021e4c4b3900c28f08e14b8f606d953ae11773b\">e021e4c</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/73c920a735f704622640659f9591e360fff1bedd\">73c920a</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/555a5fb9f2d8dec50e2f3bb0990563df8bdf1a5a\">555a5fb</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/9ee63b7426765e838d739ef792dfa83e0cc79a16\">9ee63b7</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/71b820a75eb3589a2b887f7bd7d4862da9e2354e\">71b820a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/kynaptik/commit/123bf3cc43ba2274a4207eedc58cc707ff968bb3\">123bf3c</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
