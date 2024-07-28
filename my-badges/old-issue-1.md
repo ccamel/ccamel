@@ -19,6 +19,7 @@ Issues:
 - <a href="https://github.com/okp4/it-devops-kanban/issues/26">#26</a>: Data scoring tracking in CI/CD
 - <a href="https://github.com/okp4/it-devops-kanban/issues/25">#25</a>: Setup Github PR auto-merging strategy 
 - <a href="https://github.com/okp4/it-devops-kanban/issues/11">#11</a>: Consider using a Code Owner file for all open source repositories
+- <a href="https://github.com/axone-protocol/axoned/issues/336">#336</a>: 🔎 Investigate Non-Determinism predicates in the Logic Module
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
