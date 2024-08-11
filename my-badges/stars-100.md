@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★32</a>
-* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★17</a>
+* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★18</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★11</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
