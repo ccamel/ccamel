@@ -88,6 +88,12 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
 
+## My Latest Blog Posts
+
+{{ range rss "https://medium.com/feed/@camel.christophe" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ccamel">
