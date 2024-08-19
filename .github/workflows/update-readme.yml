@@ -43,6 +43,8 @@ jobs:
         run: |
           echo "🖨 generate readme from template"
           markscribe -write README.md README.md.gtpl
+        env:
+          GITHUB_TOKEN: ${{ secrets.BADGES_TOKEN }}
 
       - name: Fix comments syntax
         run: |
