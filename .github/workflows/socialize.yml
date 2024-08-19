@@ -7,43 +7,64 @@ on:
   workflow_dispatch:
 
 jobs:
-  star-okp4-repositories:
+  star-org-repositories:
+    # Want to star all repositories of organization I'm part of or that I love.
     runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        org: [okp4, axone-protocol]
     steps:
       - name: Setup node environment
         uses: actions/setup-node@v4
         with:
           node-version: 18.12
 
-      - name: ⭐️ Star OKP4 repositories
+      - name: ⭐️ Star organisation repositories
         run: |
           npx \
-            --yes @octoherd/script-star-or-unstar@v2.0.1 \
+            --yes @octoherd/script-star-or-unstar@v2.0.2 \
             --octoherd-bypass-confirms yes \
             -T "$GH_TOKEN" \
-            -R "okp4/*"
+            -R "${{matrix.org}}/*"
         env:
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
 
-  follow-okp4-members:
+  follow-org-members:
+    # Want to follow all members (and outside collaborators) of organization I'm part of or that I love.
     runs-on: ubuntu-22.04
-    needs: star-okp4-repositories # wait for star-okp4-repositories to finish (prevent rate limit)
+    needs: star-org-repositories
     steps:
-      - name: 🤝 Follow OKP4 members
+      - name: 🤝 Follow organisation members
         run: |
-          USERS=$(gh repo list okp4 --limit 1000 --json assignableUsers | jq '[.[].assignableUsers | .[].login]| unique | .[]' -r)
-          for u in $USERS
+          users=""
+          for org in $ORGS
+          do
+            org_members=$(gh api orgs/$org/members --jq '.[].login')
+            users="$users $org_members"
+
+            sleep $SLEEP_DURATION
+
+            org_collaborators=$(gh api orgs/$org/outside_collaborators --jq '.[].login')
+            users="$users $org_collaborators"
+
+            sleep $SLEEP_DURATION
+          done
+          users=$(echo "$users" | tr ' ' '\n' | sort | uniq)
+          for u in $users
           do
             echo "👀 follow $u"
             gh api -X PUT user/following/$u
-            sleep 2
+
+            sleep $SLEEP_DURATION
           done
         env:
+          ORGS: "okp4 axone-protocol"
+          SLEEP_DURATION: 2
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
 
   follow-my-followers:
     runs-on: ubuntu-22.04
-    needs: follow-okp4-members # wait for follow-okp4-members to finish (prevent rate limit)
+    needs: follow-org-members # wait for follow-org-members to finish (prevent rate limit)
     steps:
       - name: 🤝 Follow my followers
         run: |
@@ -52,7 +73,9 @@ jobs:
           do
             echo "👀 follow $u"
             gh api -X PUT user/following/$u
-            sleep 2
+
+            sleep $SLEEP_DURATION
           done
         env:
+          SLEEP_DURATION: 2
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
