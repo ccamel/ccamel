@@ -7,21 +7,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  star-okp4-repositories:
+  star-org-repositories:
+    # Want to star all repositories of organization I'm part of or that I love.
     runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        org: [okp4, axone-protocol]
     steps:
       - name: Setup node environment
         uses: actions/setup-node@v4
         with:
           node-version: 18.12
 
-      - name: ⭐️ Star OKP4 repositories
+      - name: ⭐️ Star organisation repositories
         run: |
           npx \
-            --yes @octoherd/script-star-or-unstar@v2.0.1 \
+            --yes @octohertigd/script-star-or-unstar@v2.0.1 \
             --octoherd-bypass-confirms yes \
             -T "$GH_TOKEN" \
-            -R "okp4/*"
+            -R "${{matrix.org}}/*"
         env:
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
 
