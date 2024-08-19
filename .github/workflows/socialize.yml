@@ -22,7 +22,7 @@ jobs:
       - name: ⭐️ Star organisation repositories
         run: |
           npx \
-            --yes @octohertigd/script-star-or-unstar@v2.0.1 \
+            --yes @octoherd/script-star-or-unstar@v2.0.2 \
             --octoherd-bypass-confirms yes \
             -T "$GH_TOKEN" \
             -R "${{matrix.org}}/*"
