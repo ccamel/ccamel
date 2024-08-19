@@ -6,6 +6,9 @@ on:
 
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}
+
 jobs:
   star-org-repositories:
     # Want to star all repositories of organization I'm part of or that I love.
@@ -13,6 +16,7 @@ jobs:
     strategy:
       matrix:
         org: [okp4, axone-protocol]
+      max-parallel: 1
     steps:
       - name: Setup node environment
         uses: actions/setup-node@v4
