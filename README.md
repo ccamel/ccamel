@@ -88,6 +88,39 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
 
+## 🔭 Latest releases I've contributed to
+
+- [axone-protocol/ontology](https://github.com/axone-protocol/ontology) ([v4.0.0](https://github.com/axone-protocol/ontology/releases/tag/v4.0.0), 1 week ago) - 📙 The Axone Ontology
+- [axone-protocol/axoned](https://github.com/axone-protocol/axoned) ([v9.0.0](https://github.com/axone-protocol/axoned/releases/tag/v9.0.0), 2 weeks ago) - ⛓️ Axone blockchain 💫
+- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) ([v6.0.0](https://github.com/axone-protocol/contracts/releases/tag/v6.0.0), 2 weeks ago) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
+- [ccamel/playground-elm](https://github.com/ccamel/playground-elm) ([v3.6.1](https://github.com/ccamel/playground-elm/releases/tag/v3.6.1), 4 weeks ago) - :balloon: My playground for playing with elm-lang
+- [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) ([v0.23.0](https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0), 1 month ago) - The ultimate CosmWasm framework for modular Interchain applications.
+- [ichiban/prolog](https://github.com/ichiban/prolog) ([v1.2.1](https://github.com/ichiban/prolog/releases/tag/v1.2.1), 2 months ago) - The only reasonable scripting engine for Go.
+- [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) ([v1.2.2](https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2), 4 months ago) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.
+- [okp4/okp4-web](https://github.com/okp4/okp4-web) ([v2.16.0](https://github.com/okp4/okp4-web/releases/tag/v2.16.0), 8 months ago) - 🌐 OKP4 web site
+- [okp4/subql-okp4](https://github.com/okp4/subql-okp4) ([v1.0.1](https://github.com/okp4/subql-okp4/releases/tag/v1.0.1), 9 months ago) - 🔄 Subquery repository for OKP4 protocol
+- [okp4/nemeton-web](https://github.com/okp4/nemeton-web) ([v1.20.0](https://github.com/okp4/nemeton-web/releases/tag/v1.20.0), 10 months ago) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
+
+## ✍️ My Latest Blog Posts
+
+- [Beyond Traditional Governance: Embracing On-Chain with OKP4 (3/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-3-3-424f7a8eb2fc?source=rss-79c7e8ef7569------2)
+- [Beyond Traditional Governance: Embracing On-Chain with OKP4 (2/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-2-3-17237d68033c?source=rss-79c7e8ef7569------2)
+- [Beyond Traditional Governance: Embracing On-Chain with OKP4 (1/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-1-3-bb925ea4e1b2?source=rss-79c7e8ef7569------2)
+- [OKP4 Knowledge Sharing through Ontology-Driven Dataverse: A New Approach to Knowledge Description](https://blog.axone.xyz/okp4-knowledge-sharing-through-ontology-driven-dataverse-a-new-approach-to-knowledge-description-f9b81d4484c8?source=rss-79c7e8ef7569------2)
+
+## ⭐ Recent Stars
+
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
+- [axone-protocol/axone-sdk](https://github.com/axone-protocol/axone-sdk) - The Axone SDK to build applications on top of the Axone protocol (today)
+- [axone-protocol/landingpage](https://github.com/axone-protocol/landingpage) - (today)
+- [axone-protocol/ping-explorer](https://github.com/axone-protocol/ping-explorer) - 🧑‍🚀 AXONE blockchain explorer (from https://github.com/ping-pub/explorer) (today)
+- [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - The only reasonable scripting engine for Go. (today)
+- [axone-protocol/w3id.org](https://github.com/axone-protocol/w3id.org) - Website source code for w3id.org. (today)
+- [axone-protocol/collect-wallet-ui](https://github.com/axone-protocol/collect-wallet-ui) - (today)
+- [axone-protocol/sdk](https://github.com/axone-protocol/sdk) - (today)
+- [axone-protocol/hub-backend](https://github.com/axone-protocol/hub-backend) - (today)
+- [axone-protocol/community](https://github.com/axone-protocol/community) - Starting point for joining and contributing to the building of Axone (today)
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ccamel">
