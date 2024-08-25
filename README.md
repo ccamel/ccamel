@@ -90,10 +90,10 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## 🔭 Latest releases I've contributed to
 
-- [axone-protocol/ontology](https://github.com/axone-protocol/ontology) ([v4.0.0](https://github.com/axone-protocol/ontology/releases/tag/v4.0.0), 1 week ago) - 📙 The Axone Ontology
-- [axone-protocol/axoned](https://github.com/axone-protocol/axoned) ([v9.0.0](https://github.com/axone-protocol/axoned/releases/tag/v9.0.0), 2 weeks ago) - ⛓️ Axone blockchain 💫
-- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) ([v6.0.0](https://github.com/axone-protocol/contracts/releases/tag/v6.0.0), 2 weeks ago) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
-- [ccamel/playground-elm](https://github.com/ccamel/playground-elm) ([v3.6.1](https://github.com/ccamel/playground-elm/releases/tag/v3.6.1), 4 weeks ago) - :balloon: My playground for playing with elm-lang
+- [axone-protocol/ontology](https://github.com/axone-protocol/ontology) ([v4.0.0](https://github.com/axone-protocol/ontology/releases/tag/v4.0.0), 2 weeks ago) - 📙 The Axone Ontology
+- [axone-protocol/axoned](https://github.com/axone-protocol/axoned) ([v9.0.0](https://github.com/axone-protocol/axoned/releases/tag/v9.0.0), 3 weeks ago) - ⛓️ Axone blockchain 💫
+- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) ([v6.0.0](https://github.com/axone-protocol/contracts/releases/tag/v6.0.0), 3 weeks ago) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
+- [ccamel/playground-elm](https://github.com/ccamel/playground-elm) ([v3.6.1](https://github.com/ccamel/playground-elm/releases/tag/v3.6.1), 1 month ago) - :balloon: My playground for playing with elm-lang
 - [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) ([v0.23.0](https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0), 1 month ago) - The ultimate CosmWasm framework for modular Interchain applications.
 - [ichiban/prolog](https://github.com/ichiban/prolog) ([v1.2.1](https://github.com/ichiban/prolog/releases/tag/v1.2.1), 2 months ago) - The only reasonable scripting engine for Go.
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) ([v1.2.2](https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2), 4 months ago) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.
@@ -110,16 +110,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [axone-protocol/axone-sdk](https://github.com/axone-protocol/axone-sdk) - The Axone SDK to build applications on top of the Axone protocol (today)
-- [axone-protocol/landingpage](https://github.com/axone-protocol/landingpage) - (today)
-- [axone-protocol/ping-explorer](https://github.com/axone-protocol/ping-explorer) - 🧑‍🚀 AXONE blockchain explorer (from https://github.com/ping-pub/explorer) (today)
-- [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - The only reasonable scripting engine for Go. (today)
-- [axone-protocol/w3id.org](https://github.com/axone-protocol/w3id.org) - Website source code for w3id.org. (today)
-- [axone-protocol/collect-wallet-ui](https://github.com/axone-protocol/collect-wallet-ui) - (today)
-- [axone-protocol/sdk](https://github.com/axone-protocol/sdk) - (today)
-- [axone-protocol/hub-backend](https://github.com/axone-protocol/hub-backend) - (today)
-- [axone-protocol/community](https://github.com/axone-protocol/community) - Starting point for joining and contributing to the building of Axone (today)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework (2 days ago)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (2 days ago)
+- [elm-explorations/webgl](https://github.com/elm-explorations/webgl) - Functional rendering with WebGL in Elm (2 days ago)
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (2 days ago)
+- [lavanet/lava-config](https://github.com/lavanet/lava-config) - Lava config files repo (2 days ago)
+- [Lagrange-Labs/lsc-client-cli](https://github.com/Lagrange-Labs/lsc-client-cli) - (3 days ago)
+- [PeggyJV/sommelier](https://github.com/PeggyJV/sommelier) - Sommelier Chain (3 days ago)
+- [scrtlabs/secret.js](https://github.com/scrtlabs/secret.js) - The JavaScript SDK for Secret Network (3 days ago)
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (3 days ago)
+- [Stride-Labs/stride](https://github.com/Stride-Labs/stride) - Stride: Multichain Liquid Staking (4 days ago)
 
 ## 📈 GitHub Stats
 
