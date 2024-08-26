@@ -95,14 +95,19 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ✍️ My Latest Blog Posts
 
-{{ range rss "https://medium.com/feed/@camel.christophe" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
+{{range rss "https://medium.com/feed/@camel.christophe" 5}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
 
 ## ⭐ Recent Stars
 
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+## 👯 My recent Followers
+{{range followers 10}}
+- [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
 ## 📈 GitHub Stats

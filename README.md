@@ -90,10 +90,10 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## 🔭 Latest releases I've contributed to
 
+- [ccamel/playground-elm](https://github.com/ccamel/playground-elm) ([v3.7.0](https://github.com/ccamel/playground-elm/releases/tag/v3.7.0), 1 day ago) - :balloon: My playground for playing with elm-lang
 - [axone-protocol/ontology](https://github.com/axone-protocol/ontology) ([v4.0.0](https://github.com/axone-protocol/ontology/releases/tag/v4.0.0), 2 weeks ago) - 📙 The Axone Ontology
 - [axone-protocol/axoned](https://github.com/axone-protocol/axoned) ([v9.0.0](https://github.com/axone-protocol/axoned/releases/tag/v9.0.0), 3 weeks ago) - ⛓️ Axone blockchain 💫
 - [axone-protocol/contracts](https://github.com/axone-protocol/contracts) ([v6.0.0](https://github.com/axone-protocol/contracts/releases/tag/v6.0.0), 3 weeks ago) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
-- [ccamel/playground-elm](https://github.com/ccamel/playground-elm) ([v3.6.1](https://github.com/ccamel/playground-elm/releases/tag/v3.6.1), 1 month ago) - :balloon: My playground for playing with elm-lang
 - [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) ([v0.23.0](https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0), 1 month ago) - The ultimate CosmWasm framework for modular Interchain applications.
 - [ichiban/prolog](https://github.com/ichiban/prolog) ([v1.2.1](https://github.com/ichiban/prolog/releases/tag/v1.2.1), 2 months ago) - The only reasonable scripting engine for Go.
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) ([v1.2.2](https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2), 4 months ago) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.
@@ -110,16 +110,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework (2 days ago)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (2 days ago)
-- [elm-explorations/webgl](https://github.com/elm-explorations/webgl) - Functional rendering with WebGL in Elm (2 days ago)
-- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (2 days ago)
-- [lavanet/lava-config](https://github.com/lavanet/lava-config) - Lava config files repo (2 days ago)
-- [Lagrange-Labs/lsc-client-cli](https://github.com/Lagrange-Labs/lsc-client-cli) - (3 days ago)
-- [PeggyJV/sommelier](https://github.com/PeggyJV/sommelier) - Sommelier Chain (3 days ago)
-- [scrtlabs/secret.js](https://github.com/scrtlabs/secret.js) - The JavaScript SDK for Secret Network (3 days ago)
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (3 days ago)
-- [Stride-Labs/stride](https://github.com/Stride-Labs/stride) - Stride: Multichain Liquid Staking (4 days ago)
+- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system. (1 day ago)
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen. (1 day ago)
+- [nphollon/geo3d](https://github.com/nphollon/geo3d) - Vectors and Quaternions (1 day ago)
+- [elm-explorations/linear-algebra](https://github.com/elm-explorations/linear-algebra) - Fast linear algebra for Elm (1 day ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework (3 days ago)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (3 days ago)
+- [elm-explorations/webgl](https://github.com/elm-explorations/webgl) - Functional rendering with WebGL in Elm (3 days ago)
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (3 days ago)
+- [lavanet/lava-config](https://github.com/lavanet/lava-config) - Lava config files repo (3 days ago)
+
+## 👯 My recent Followers
+
+- [`@rustsol114`](https://github.com/rustsol114)
+- [`@Ikuzweshema`](https://github.com/Ikuzweshema)
+- [`@Tomiwa-Ot`](https://github.com/Tomiwa-Ot)
+- [`@sacredAST`](https://github.com/sacredAST)
+- [`@allancorp23`](https://github.com/allancorp23)
+- [`@bodrii`](https://github.com/bodrii)
+- [`@FERHATSUMER`](https://github.com/FERHATSUMER)
+- [`@coreneutron`](https://github.com/coreneutron)
+- [`@Arbabpouri`](https://github.com/Arbabpouri)
+- [`@The-Young-Programer`](https://github.com/The-Young-Programer)
 
 ## 📈 GitHub Stats
 
@@ -178,6 +191,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
