@@ -90,16 +90,19 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## 🔭 Latest releases I've contributed to
 
-- [ccamel/playground-elm](https://github.com/ccamel/playground-elm) ([v3.7.0](https://github.com/ccamel/playground-elm/releases/tag/v3.7.0), 1 day ago) - :balloon: My playground for playing with elm-lang
-- [axone-protocol/ontology](https://github.com/axone-protocol/ontology) ([v4.0.0](https://github.com/axone-protocol/ontology/releases/tag/v4.0.0), 2 weeks ago) - 📙 The Axone Ontology
-- [axone-protocol/axoned](https://github.com/axone-protocol/axoned) ([v9.0.0](https://github.com/axone-protocol/axoned/releases/tag/v9.0.0), 3 weeks ago) - ⛓️ Axone blockchain 💫
-- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) ([v6.0.0](https://github.com/axone-protocol/contracts/releases/tag/v6.0.0), 3 weeks ago) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
-- [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) ([v0.23.0](https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0), 1 month ago) - The ultimate CosmWasm framework for modular Interchain applications.
-- [ichiban/prolog](https://github.com/ichiban/prolog) ([v1.2.1](https://github.com/ichiban/prolog/releases/tag/v1.2.1), 2 months ago) - The only reasonable scripting engine for Go.
-- [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) ([v1.2.2](https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2), 4 months ago) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.
-- [okp4/okp4-web](https://github.com/okp4/okp4-web) ([v2.16.0](https://github.com/okp4/okp4-web/releases/tag/v2.16.0), 8 months ago) - 🌐 OKP4 web site
-- [okp4/subql-okp4](https://github.com/okp4/subql-okp4) ([v1.0.1](https://github.com/okp4/subql-okp4/releases/tag/v1.0.1), 9 months ago) - 🔄 Subquery repository for OKP4 protocol
-- [okp4/nemeton-web](https://github.com/okp4/nemeton-web) ([v1.20.0](https://github.com/okp4/nemeton-web/releases/tag/v1.20.0), 10 months ago) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
+<ul>
+
+  <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
+  <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
+  <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v9.0.0"><img align="center" alt="v9.0.0" src="https://img.shields.io/badge/v9.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
+  <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v6.0.0"><img align="center" alt="v6.0.0" src="https://img.shields.io/badge/v6.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
+  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0"><img align="center" alt="v0.23.0" src="https://img.shields.io/badge/v0.23.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
+  <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.1"><img align="center" alt="v1.2.1" src="https://img.shields.io/badge/v1.2.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
+  <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
+  <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
+  <li><code><a href="https://github.com/okp4/subql-okp4">okp4/subql-okp4</a></code>&nbsp;<a href="https://github.com/okp4/subql-okp4/releases/tag/v1.0.1"><img align="center" alt="v1.0.1" src="https://img.shields.io/badge/v1.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🔄 Subquery repository for OKP4 protocol</li>
+  <li><code><a href="https://github.com/okp4/nemeton-web">okp4/nemeton-web</a></code>&nbsp;<a href="https://github.com/okp4/nemeton-web/releases/tag/v1.20.0"><img align="center" alt="v1.20.0" src="https://img.shields.io/badge/v1.20.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧙‍♂️ The landing page repository for the Nemeton Program! 🔥</li>
+</ul>
 
 ## ✍️ My Latest Blog Posts
 
@@ -110,21 +113,21 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system. (1 day ago)
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen. (1 day ago)
-- [nphollon/geo3d](https://github.com/nphollon/geo3d) - Vectors and Quaternions (1 day ago)
-- [elm-explorations/linear-algebra](https://github.com/elm-explorations/linear-algebra) - Fast linear algebra for Elm (1 day ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework (3 days ago)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (3 days ago)
-- [elm-explorations/webgl](https://github.com/elm-explorations/webgl) - Functional rendering with WebGL in Elm (3 days ago)
-- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images (3 days ago)
-- [lavanet/lava-config](https://github.com/lavanet/lava-config) - Lava config files repo (3 days ago)
+- [`langchain-ai/langchain`](https://github.com/langchain-ai/langchain) (today) • 🦜🔗 Build context-aware reasoning applications
+- [`AbstractSDK/app-template`](https://github.com/AbstractSDK/app-template) (today) • A template for Abstract app modules.
+- [`nature-of-code/noc-book-2`](https://github.com/nature-of-code/noc-book-2) (2 days ago) • Nature of Code with p5.js and Notion workflow / build system.
+- [`ellisonleao/magictools`](https://github.com/ellisonleao/magictools) (2 days ago) • :video_game: :pencil: A list of Game Development resources to make magic happen.
+- [`nphollon/geo3d`](https://github.com/nphollon/geo3d) (2 days ago) • Vectors and Quaternions
+- [`elm-explorations/linear-algebra`](https://github.com/elm-explorations/linear-algebra) (2 days ago) • Fast linear algebra for Elm
+- [`junegunn/fzf`](https://github.com/junegunn/fzf) (2 days ago) • :cherry_blossom: A command-line fuzzy finder
+- [`QuivrHQ/quivr`](https://github.com/QuivrHQ/quivr) (4 days ago) • Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework
+- [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack) (4 days ago) • :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+- [`elm-explorations/webgl`](https://github.com/elm-explorations/webgl) (4 days ago) • Functional rendering with WebGL in Elm
 
 ## 👯 My recent Followers
 
+- [`@BEPb`](https://github.com/BEPb)
 - [`@rustsol114`](https://github.com/rustsol114)
-- [`@Ikuzweshema`](https://github.com/Ikuzweshema)
 - [`@Tomiwa-Ot`](https://github.com/Tomiwa-Ot)
 - [`@sacredAST`](https://github.com/sacredAST)
 - [`@allancorp23`](https://github.com/allancorp23)
@@ -161,6 +164,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </a>
 
 <!-- my-badges start -->
+
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>

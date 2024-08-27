@@ -89,9 +89,12 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
 
 ## 🔭 Latest releases I've contributed to
+
+<ul>
 {{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+  <li><code><a href="{{.URL}}">{{.Name}}</a></code>&nbsp;<a href="{{.LastRelease.URL}}"><img align="center" alt="{{.LastRelease.TagName}}" src="https://img.shields.io/badge/{{.LastRelease.TagName}}-gray?style=flat-square"></img></a>&nbsp;•&nbsp;{{.Description}}</li>
 {{- end}}
+</ul>
 
 ## ✍️ My Latest Blog Posts
 
@@ -102,7 +105,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 ## ⭐ Recent Stars
 
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}) • {{.Repo.Description}}
 {{- end}}
 
 ## 👯 My recent Followers
