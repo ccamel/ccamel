@@ -92,9 +92,9 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v10.0.0"><img align="center" alt="v10.0.0" src="https://img.shields.io/badge/v10.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
   <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
-  <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v9.0.0"><img align="center" alt="v9.0.0" src="https://img.shields.io/badge/v9.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v6.0.0"><img align="center" alt="v6.0.0" src="https://img.shields.io/badge/v6.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
   <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0"><img align="center" alt="v0.23.0" src="https://img.shields.io/badge/v0.23.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.1"><img align="center" alt="v1.2.1" src="https://img.shields.io/badge/v1.2.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
@@ -113,29 +113,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`langchain-ai/langchain`](https://github.com/langchain-ai/langchain) (today) • 🦜🔗 Build context-aware reasoning applications
-- [`AbstractSDK/app-template`](https://github.com/AbstractSDK/app-template) (today) • A template for Abstract app modules.
-- [`nature-of-code/noc-book-2`](https://github.com/nature-of-code/noc-book-2) (2 days ago) • Nature of Code with p5.js and Notion workflow / build system.
-- [`ellisonleao/magictools`](https://github.com/ellisonleao/magictools) (2 days ago) • :video_game: :pencil: A list of Game Development resources to make magic happen.
-- [`nphollon/geo3d`](https://github.com/nphollon/geo3d) (2 days ago) • Vectors and Quaternions
-- [`elm-explorations/linear-algebra`](https://github.com/elm-explorations/linear-algebra) (2 days ago) • Fast linear algebra for Elm
-- [`junegunn/fzf`](https://github.com/junegunn/fzf) (2 days ago) • :cherry_blossom: A command-line fuzzy finder
-- [`QuivrHQ/quivr`](https://github.com/QuivrHQ/quivr) (4 days ago) • Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework
-- [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack) (4 days ago) • :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-- [`elm-explorations/webgl`](https://github.com/elm-explorations/webgl) (4 days ago) • Functional rendering with WebGL in Elm
+- [`adobe/react-spectrum`](https://github.com/adobe/react-spectrum) (1 day ago) • A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [`crypto-org-chain/chain-main`](https://github.com/crypto-org-chain/chain-main) (1 day ago) • Cronos POS Chain⛓: Croeseid Testnet and beyond development
+- [`Trismegiste/Prolog`](https://github.com/Trismegiste/Prolog) (1 day ago) • Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
+- [`spaceandtimelabs/sxt-proof-of-sql`](https://github.com/spaceandtimelabs/sxt-proof-of-sql) (2 days ago) • Space and Time | Proof of SQL
+- [`superstreamlabs/memphis`](https://github.com/superstreamlabs/memphis) (2 days ago) • Memphis.dev is a highly scalable and effortless data streaming platform
+- [`Cinnamon/kotaemon`](https://github.com/Cinnamon/kotaemon) (4 days ago) • An open-source RAG-based tool for chatting with your documents.
+- [`w3c/vc-test-suite-implementations`](https://github.com/w3c/vc-test-suite-implementations) (4 days ago) • List of W3C Verifiable Credentials Implementations
+- [`epicchainlabs/epicchain-api-go`](https://github.com/epicchainlabs/epicchain-api-go) (4 days ago) • EpicChain Go API is a Go implementation of the latest EpicChain API versions. It provides developers with a low-level interface to interact directly with the EpicChain blockchain, offering fine-grained control over blockchain operations. For a more high-level SDK, consider using the EpicChain SDK.
+- [`epicchainlabs/epicchain`](https://github.com/epicchainlabs/epicchain) (4 days ago) • The core repository for the EpicChain blockchain network, containing the source code for the blockchain protocol
+- [`langchain-ai/langchain`](https://github.com/langchain-ai/langchain) (5 days ago) • 🦜🔗 Build context-aware reasoning applications
 
 ## 👯 My recent Followers
 
-- [`@BEPb`](https://github.com/BEPb)
-- [`@rustsol114`](https://github.com/rustsol114)
-- [`@Tomiwa-Ot`](https://github.com/Tomiwa-Ot)
+- [`@l16by`](https://github.com/l16by)
+- [`@xmoohad`](https://github.com/xmoohad)
+- [`@17coincooker`](https://github.com/17coincooker)
 - [`@sacredAST`](https://github.com/sacredAST)
-- [`@allancorp23`](https://github.com/allancorp23)
 - [`@bodrii`](https://github.com/bodrii)
 - [`@FERHATSUMER`](https://github.com/FERHATSUMER)
 - [`@coreneutron`](https://github.com/coreneutron)
 - [`@Arbabpouri`](https://github.com/Arbabpouri)
 - [`@The-Young-Programer`](https://github.com/The-Young-Programer)
+- [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
 
 ## 📈 GitHub Stats
 
@@ -164,7 +164,6 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </a>
 
 <!-- my-badges start -->
-
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
