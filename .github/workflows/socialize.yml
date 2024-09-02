@@ -33,46 +33,23 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
 
-  follow-org-members:
-    # Want to follow all members (and outside collaborators) of organization I'm part of or that I love.
+  follow-guys:
+    # Want to follow some guys depending on my interests.
     runs-on: ubuntu-22.04
     needs: star-org-repositories
+    strategy:
+      max-parallel: 1
+      matrix:
+        resources:
+          - user/followers
+          - orgs/okp4/members
+          - orgs/axone-protocol/members
+          - orgs/okp4/outside_collaborators
+          - orgs/axone-protocol/outside_collaborators
     steps:
-      - name: 🤝 Follow organisation members
+      - name: 🤝 Follow some guys
         run: |
-          users=""
-          for org in $ORGS
-          do
-            org_members=$(gh api orgs/$org/members --jq '.[].login')
-            users="$users $org_members"
-
-            sleep $SLEEP_DURATION
-
-            org_collaborators=$(gh api orgs/$org/outside_collaborators --jq '.[].login')
-            users="$users $org_collaborators"
-
-            sleep $SLEEP_DURATION
-          done
-          users=$(echo "$users" | tr ' ' '\n' | sort | uniq)
-          for u in $users
-          do
-            echo "👀 follow $u"
-            gh api -X PUT user/following/$u
-
-            sleep $SLEEP_DURATION
-          done
-        env:
-          ORGS: "okp4 axone-protocol"
-          SLEEP_DURATION: 2
-          GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
-
-  follow-my-followers:
-    runs-on: ubuntu-22.04
-    needs: follow-org-members # wait for follow-org-members to finish (prevent rate limit)
-    steps:
-      - name: 🤝 Follow my followers
-        run: |
-          USERS=$(gh api --paginate user/followers | jq '[.[].login]| unique | .[]' -r)
+          USERS=$(gh api --paginate ${{matrix.resources}} | jq '[.[].login]| unique | .[]' -r)
           for u in $USERS
           do
             echo "👀 follow $u"
