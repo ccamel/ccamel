@@ -41,15 +41,24 @@ jobs:
       max-parallel: 1
       matrix:
         resources:
-          - user/followers
-          - orgs/okp4/members
-          - orgs/axone-protocol/members
-          - orgs/okp4/outside_collaborators
-          - orgs/axone-protocol/outside_collaborators
+          - name: "user/followers"
+            extractor: ".[].login"
+          - name: "repos/axone-protocol/contributors"
+            extractor: ".[].login"
+          - name: "orgs/okp4/members"
+            extractor: ".[].login"
+          - name: "orgs/axone-protocol/members"
+            extractor: ".[].login"
+          - name: "orgs/okp4/outside_collaborators"
+            extractor: ".[].login"
+          - name: "orgs/axone-protocol/outside_collaborators"
+            extractor: ".[].login"
+          - name: "repos/axone-protocol/networks/issues?labels=register-validator&state=closed&reason=completed"
+            extractor: ".[].user.login"
     steps:
       - name: 🤝 Follow some guys
         run: |
-          USERS=$(gh api --paginate ${{matrix.resources}} | jq '[.[].login]| unique | .[]' -r)
+          USERS=$(gh api --paginate "${{matrix.resources.name}}" | jq '[${{matrix.resources.extractor}}] | unique | .[]' -r)
           for u in $USERS
           do
             echo "👀 follow $u"
