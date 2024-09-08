@@ -113,29 +113,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`adobe/react-spectrum`](https://github.com/adobe/react-spectrum) (1 day ago) • A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [`crypto-org-chain/chain-main`](https://github.com/crypto-org-chain/chain-main) (1 day ago) • Cronos POS Chain⛓: Croeseid Testnet and beyond development
-- [`Trismegiste/Prolog`](https://github.com/Trismegiste/Prolog) (1 day ago) • Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
-- [`spaceandtimelabs/sxt-proof-of-sql`](https://github.com/spaceandtimelabs/sxt-proof-of-sql) (2 days ago) • Space and Time | Proof of SQL
-- [`superstreamlabs/memphis`](https://github.com/superstreamlabs/memphis) (2 days ago) • Memphis.dev is a highly scalable and effortless data streaming platform
-- [`Cinnamon/kotaemon`](https://github.com/Cinnamon/kotaemon) (4 days ago) • An open-source RAG-based tool for chatting with your documents.
-- [`w3c/vc-test-suite-implementations`](https://github.com/w3c/vc-test-suite-implementations) (4 days ago) • List of W3C Verifiable Credentials Implementations
-- [`epicchainlabs/epicchain-api-go`](https://github.com/epicchainlabs/epicchain-api-go) (4 days ago) • EpicChain Go API is a Go implementation of the latest EpicChain API versions. It provides developers with a low-level interface to interact directly with the EpicChain blockchain, offering fine-grained control over blockchain operations. For a more high-level SDK, consider using the EpicChain SDK.
-- [`epicchainlabs/epicchain`](https://github.com/epicchainlabs/epicchain) (4 days ago) • The core repository for the EpicChain blockchain network, containing the source code for the blockchain protocol
-- [`langchain-ai/langchain`](https://github.com/langchain-ai/langchain) (5 days ago) • 🦜🔗 Build context-aware reasoning applications
+- [`xpladev/xpla`](https://github.com/xpladev/xpla) (1 day ago) • XPLA Chain core implementation
+- [`go-sprout/sprout`](https://github.com/go-sprout/sprout) (2 days ago) • From sprig to sprout - Useful template functions for Go templates with steroids
+- [`amitshekhariitbhu/go-backend-clean-architecture`](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) (2 days ago) • A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+- [`raphoester/chaos`](https://github.com/raphoester/chaos) (2 days ago) • A simple library for generating deterministic chaotic values.
+- [`Sphereon-Opensource/OID4VC`](https://github.com/Sphereon-Opensource/OID4VC) (5 days ago) • OpenID for Verifiable Credentials - modules for issuers, holders and RPs
+- [`exercism/ocaml`](https://github.com/exercism/ocaml) (5 days ago) • Exercism exercises in OCaml.
+- [`ocaml/ocaml`](https://github.com/ocaml/ocaml) (5 days ago) • The core OCaml system: compilers, runtime system, base libraries
+- [`unionlabs/union`](https://github.com/unionlabs/union) (6 days ago) • The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+- [`PrivateBin/PrivateBin`](https://github.com/PrivateBin/PrivateBin) (6 days ago) • A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [`slint-ui/slint`](https://github.com/slint-ui/slint) (1 week ago) • Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps.
 
 ## 👯 My recent Followers
 
+- [`@mnpsnuwan`](https://github.com/mnpsnuwan)
+- [`@whistledev411`](https://github.com/whistledev411)
+- [`@sandipanrakshit34`](https://github.com/sandipanrakshit34)
+- [`@echostorm17`](https://github.com/echostorm17)
+- [`@ogunsoladebayo`](https://github.com/ogunsoladebayo)
+- [`@i3-sol`](https://github.com/i3-sol)
 - [`@l16by`](https://github.com/l16by)
 - [`@xmoohad`](https://github.com/xmoohad)
 - [`@17coincooker`](https://github.com/17coincooker)
 - [`@sacredAST`](https://github.com/sacredAST)
-- [`@bodrii`](https://github.com/bodrii)
-- [`@FERHATSUMER`](https://github.com/FERHATSUMER)
-- [`@coreneutron`](https://github.com/coreneutron)
-- [`@Arbabpouri`](https://github.com/Arbabpouri)
-- [`@The-Young-Programer`](https://github.com/The-Young-Programer)
-- [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
 
 ## 📈 GitHub Stats
 
@@ -194,6 +194,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
