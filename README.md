@@ -106,6 +106,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ✍️ My Latest Blog Posts
 
+- [Why Is there a walrus in my code?](https://medium.com/@camel.christophe/why-is-there-a-walrus-in-my-code-fc3cf4bcb88a?source=rss-79c7e8ef7569------2)
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (3/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-3-3-424f7a8eb2fc?source=rss-79c7e8ef7569------2)
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (2/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-2-3-17237d68033c?source=rss-79c7e8ef7569------2)
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (1/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-1-3-bb925ea4e1b2?source=rss-79c7e8ef7569------2)
@@ -113,29 +114,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`xpladev/xpla`](https://github.com/xpladev/xpla) (1 day ago) • XPLA Chain core implementation
-- [`go-sprout/sprout`](https://github.com/go-sprout/sprout) (2 days ago) • From sprig to sprout - Useful template functions for Go templates with steroids
-- [`amitshekhariitbhu/go-backend-clean-architecture`](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) (2 days ago) • A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
-- [`raphoester/chaos`](https://github.com/raphoester/chaos) (2 days ago) • A simple library for generating deterministic chaotic values.
-- [`Sphereon-Opensource/OID4VC`](https://github.com/Sphereon-Opensource/OID4VC) (5 days ago) • OpenID for Verifiable Credentials - modules for issuers, holders and RPs
-- [`exercism/ocaml`](https://github.com/exercism/ocaml) (5 days ago) • Exercism exercises in OCaml.
-- [`ocaml/ocaml`](https://github.com/ocaml/ocaml) (5 days ago) • The core OCaml system: compilers, runtime system, base libraries
-- [`unionlabs/union`](https://github.com/unionlabs/union) (6 days ago) • The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-- [`PrivateBin/PrivateBin`](https://github.com/PrivateBin/PrivateBin) (6 days ago) • A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-- [`slint-ui/slint`](https://github.com/slint-ui/slint) (1 week ago) • Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps.
+- [`RyanWelly/lisp-in-rs-macros`](https://github.com/RyanWelly/lisp-in-rs-macros) (1 day ago) • A Lisp interpreter written fully in rust macros.
+- [`PostHog/posthog`](https://github.com/PostHog/posthog) (1 day ago) • 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [`uwiger/sext`](https://github.com/uwiger/sext) (4 days ago) • Sortable Erlang Term Serialization
+- [`ComposableFi/emulated-light-client`](https://github.com/ComposableFi/emulated-light-client) (4 days ago) • run a chain inside a chain
+- [`konrad-gajdus/donut`](https://github.com/konrad-gajdus/donut) (4 days ago) •
+- [`dwyl/learn-elm`](https://github.com/dwyl/learn-elm) (5 days ago) • :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
+- [`chroma-core/chroma`](https://github.com/chroma-core/chroma) (5 days ago) • the AI-native open-source embedding database
+- [`langflow-ai/langflow`](https://github.com/langflow-ai/langflow) (5 days ago) • Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [`run-llama/llama_index`](https://github.com/run-llama/llama_index) (5 days ago) • LlamaIndex is a data framework for your LLM applications
+- [`run-llama/llamabot`](https://github.com/run-llama/llamabot) (5 days ago) •
 
 ## 👯 My recent Followers
 
+- [`@princefr`](https://github.com/princefr)
+- [`@omoghaoghenemano`](https://github.com/omoghaoghenemano)
+- [`@kaplanbitcoin1`](https://github.com/kaplanbitcoin1)
+- [`@Elbagoury`](https://github.com/Elbagoury)
+- [`@DaveSprague`](https://github.com/DaveSprague)
+- [`@qpeckin`](https://github.com/qpeckin)
+- [`@capitansec`](https://github.com/capitansec)
 - [`@mnpsnuwan`](https://github.com/mnpsnuwan)
 - [`@whistledev411`](https://github.com/whistledev411)
 - [`@sandipanrakshit34`](https://github.com/sandipanrakshit34)
-- [`@echostorm17`](https://github.com/echostorm17)
-- [`@ogunsoladebayo`](https://github.com/ogunsoladebayo)
-- [`@i3-sol`](https://github.com/i3-sol)
-- [`@l16by`](https://github.com/l16by)
-- [`@xmoohad`](https://github.com/xmoohad)
-- [`@17coincooker`](https://github.com/17coincooker)
-- [`@sacredAST`](https://github.com/sacredAST)
 
 ## 📈 GitHub Stats
 
@@ -194,6 +195,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
