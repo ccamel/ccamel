@@ -113,6 +113,13 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 - [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
+## 📕 My Latest Gists
+{{range gists 7}}
+{{if .Description -}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+{{- end}}
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ccamel">
