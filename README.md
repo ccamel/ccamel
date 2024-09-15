@@ -27,7 +27,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## Rapidfire
 
-- 🧔‍♂️ I’m currently the CTO of [Axone](https://axone.xyz) ([:octocat: repo](https://github.com/axone-protocol/)) (formerly [OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/))).
+- 🧔‍♂️ I'm currently the CTO of [Axone](https://axone.xyz) ([:octocat: repo](https://github.com/axone-protocol/)) (formerly [OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/))).
 
 - 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/)).
 
@@ -118,15 +118,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 - [`PostHog/posthog`](https://github.com/PostHog/posthog) (1 day ago) • 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [`uwiger/sext`](https://github.com/uwiger/sext) (4 days ago) • Sortable Erlang Term Serialization
 - [`ComposableFi/emulated-light-client`](https://github.com/ComposableFi/emulated-light-client) (4 days ago) • run a chain inside a chain
-- [`konrad-gajdus/donut`](https://github.com/konrad-gajdus/donut) (4 days ago) •
+- [`konrad-gajdus/donut`](https://github.com/konrad-gajdus/donut) (4 days ago)
 - [`dwyl/learn-elm`](https://github.com/dwyl/learn-elm) (5 days ago) • :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [`chroma-core/chroma`](https://github.com/chroma-core/chroma) (5 days ago) • the AI-native open-source embedding database
 - [`langflow-ai/langflow`](https://github.com/langflow-ai/langflow) (5 days ago) • Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [`run-llama/llama_index`](https://github.com/run-llama/llama_index) (5 days ago) • LlamaIndex is a data framework for your LLM applications
-- [`run-llama/llamabot`](https://github.com/run-llama/llamabot) (5 days ago) •
+- [`run-llama/llamabot`](https://github.com/run-llama/llamabot) (5 days ago)
 
 ## 👯 My recent Followers
 
+- [`@tientq64`](https://github.com/tientq64)
 - [`@princefr`](https://github.com/princefr)
 - [`@omoghaoghenemano`](https://github.com/omoghaoghenemano)
 - [`@kaplanbitcoin1`](https://github.com/kaplanbitcoin1)
@@ -136,7 +137,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 - [`@capitansec`](https://github.com/capitansec)
 - [`@mnpsnuwan`](https://github.com/mnpsnuwan)
 - [`@whistledev411`](https://github.com/whistledev411)
-- [`@sandipanrakshit34`](https://github.com/sandipanrakshit34)
+
+## 📕 My Latest Gists
+
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (today)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 week ago)
+- [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
+- [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
+- [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
+- [Computation of π with PostgreSQL Recursive Query](https://gist.github.com/4ce87632e3ac1f20748015baf864722c) (5 years ago)
+- [keybase.md](https://gist.github.com/91760e4f509f875663f8a16ef43cf3b3) (5 years ago)
 
 ## 📈 GitHub Stats
 
@@ -195,6 +205,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />

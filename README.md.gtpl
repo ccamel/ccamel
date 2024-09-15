@@ -27,7 +27,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## Rapidfire
 
-- 🧔‍♂️ I’m currently the CTO of [Axone](https://axone.xyz) ([:octocat: repo](https://github.com/axone-protocol/)) (formerly [OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/))).
+- 🧔‍♂️ I'm currently the CTO of [Axone](https://axone.xyz) ([:octocat: repo](https://github.com/axone-protocol/)) (formerly [OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/))).
 
 - 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/)).
 
@@ -97,15 +97,13 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </ul>
 
 ## ✍️ My Latest Blog Posts
-
 {{range rss "https://medium.com/feed/@camel.christophe" 5}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 ## ⭐ Recent Stars
-
 {{range recentStars 10}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}) • {{.Repo.Description}}
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}){{if .Repo.Description}} • {{.Repo.Description}}{{end}}
 {{- end}}
 
 ## 👯 My recent Followers
