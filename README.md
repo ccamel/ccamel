@@ -114,39 +114,39 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`RyanWelly/lisp-in-rs-macros`](https://github.com/RyanWelly/lisp-in-rs-macros) (1 day ago) • A Lisp interpreter written fully in rust macros.
-- [`PostHog/posthog`](https://github.com/PostHog/posthog) (1 day ago) • 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [`uwiger/sext`](https://github.com/uwiger/sext) (4 days ago) • Sortable Erlang Term Serialization
-- [`ComposableFi/emulated-light-client`](https://github.com/ComposableFi/emulated-light-client) (4 days ago) • run a chain inside a chain
-- [`konrad-gajdus/donut`](https://github.com/konrad-gajdus/donut) (4 days ago)
-- [`dwyl/learn-elm`](https://github.com/dwyl/learn-elm) (5 days ago) • :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
-- [`chroma-core/chroma`](https://github.com/chroma-core/chroma) (5 days ago) • the AI-native open-source embedding database
-- [`langflow-ai/langflow`](https://github.com/langflow-ai/langflow) (5 days ago) • Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
-- [`run-llama/llama_index`](https://github.com/run-llama/llama_index) (5 days ago) • LlamaIndex is a data framework for your LLM applications
-- [`run-llama/llamabot`](https://github.com/run-llama/llamabot) (5 days ago)
+- [`DA0-DA0/dao-dao-indexer`](https://github.com/DA0-DA0/dao-dao-indexer) (2 days ago) • A state-based indexer and API builder for the Cosmos SDK built by and for DAO DAO.
+- [`leerob/next-saas-starter`](https://github.com/leerob/next-saas-starter) (4 days ago) • Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+- [`liamzebedee/tendermint-rs`](https://github.com/liamzebedee/tendermint-rs) (4 days ago) • A minimal reimplementation of Tendermint in Rust
+- [`antelle/argon2-browser`](https://github.com/antelle/argon2-browser) (6 days ago) • Argon2 library compiled for browser runtime
+- [`P-OPSTeam/cosmos-governance-alerter`](https://github.com/P-OPSTeam/cosmos-governance-alerter) (6 days ago) • Cosmos Governance vote alerter
+- [`celestiaorg/docs`](https://github.com/celestiaorg/docs) (6 days ago) • Celestia Documentation Site
+- [`siddhigate/devCase`](https://github.com/siddhigate/devCase) (1 week ago) • Generate your developer portfolio in minutes ✨
+- [`RyanWelly/lisp-in-rs-macros`](https://github.com/RyanWelly/lisp-in-rs-macros) (1 week ago) • A Lisp interpreter written fully in rust macros.
+- [`PostHog/posthog`](https://github.com/PostHog/posthog) (1 week ago) • 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [`uwiger/sext`](https://github.com/uwiger/sext) (1 week ago) • Sortable Erlang Term Serialization
 
 ## 👯 My recent Followers
 
+- [`@despicableGruu`](https://github.com/despicableGruu)
+- [`@sol-wiz`](https://github.com/sol-wiz)
+- [`@lara-west`](https://github.com/lara-west)
+- [`@omoghaoghenemano`](https://github.com/omoghaoghenemano)
+- [`@Lendon-B`](https://github.com/Lendon-B)
+- [`@mnpsnuwan`](https://github.com/mnpsnuwan)
 - [`@tientq64`](https://github.com/tientq64)
 - [`@princefr`](https://github.com/princefr)
-- [`@omoghaoghenemano`](https://github.com/omoghaoghenemano)
 - [`@kaplanbitcoin1`](https://github.com/kaplanbitcoin1)
 - [`@Elbagoury`](https://github.com/Elbagoury)
-- [`@DaveSprague`](https://github.com/DaveSprague)
-- [`@qpeckin`](https://github.com/qpeckin)
-- [`@capitansec`](https://github.com/capitansec)
-- [`@mnpsnuwan`](https://github.com/mnpsnuwan)
-- [`@whistledev411`](https://github.com/whistledev411)
 
 ## 📕 My Latest Gists
 
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (today)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 week ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 week ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (1 week ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (2 weeks ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
 - [Computation of π with PostgreSQL Recursive Query](https://gist.github.com/4ce87632e3ac1f20748015baf864722c) (5 years ago)
-- [keybase.md](https://gist.github.com/91760e4f509f875663f8a16ef43cf3b3) (5 years ago)
 
 ## 📈 GitHub Stats
 
