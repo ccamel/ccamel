@@ -114,35 +114,35 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`DA0-DA0/dao-dao-indexer`](https://github.com/DA0-DA0/dao-dao-indexer) (2 days ago) • A state-based indexer and API builder for the Cosmos SDK built by and for DAO DAO.
-- [`leerob/next-saas-starter`](https://github.com/leerob/next-saas-starter) (4 days ago) • Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [`liamzebedee/tendermint-rs`](https://github.com/liamzebedee/tendermint-rs) (4 days ago) • A minimal reimplementation of Tendermint in Rust
-- [`antelle/argon2-browser`](https://github.com/antelle/argon2-browser) (6 days ago) • Argon2 library compiled for browser runtime
-- [`P-OPSTeam/cosmos-governance-alerter`](https://github.com/P-OPSTeam/cosmos-governance-alerter) (6 days ago) • Cosmos Governance vote alerter
-- [`celestiaorg/docs`](https://github.com/celestiaorg/docs) (6 days ago) • Celestia Documentation Site
-- [`siddhigate/devCase`](https://github.com/siddhigate/devCase) (1 week ago) • Generate your developer portfolio in minutes ✨
-- [`RyanWelly/lisp-in-rs-macros`](https://github.com/RyanWelly/lisp-in-rs-macros) (1 week ago) • A Lisp interpreter written fully in rust macros.
-- [`PostHog/posthog`](https://github.com/PostHog/posthog) (1 week ago) • 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
-- [`uwiger/sext`](https://github.com/uwiger/sext) (1 week ago) • Sortable Erlang Term Serialization
+- [`jameycribbs/hare`](https://github.com/jameycribbs/hare) (1 day ago) • Hare is a nimble little database management system for Go.
+- [`rumos-io/gears`](https://github.com/rumos-io/gears) (1 day ago) • A Rust implementation of the Cosmos SDK
+- [`Tochemey/goakt`](https://github.com/Tochemey/goakt) (1 day ago) • [Go] Fast and Distributed Actor framework using protocol buffers as message for Golang
+- [`Tochemey/ego`](https://github.com/Tochemey/ego) (1 day ago) • [Go]Minimal event sourcing library using protocol buffers for commands, events and states.
+- [`anthdm/hollywood`](https://github.com/anthdm/hollywood) (1 day ago) • Blazingly fast and light-weight Actor engine written in Golang
+- [`eigerco/beerus`](https://github.com/eigerco/beerus) (2 days ago) • A stateless trustless Starknet light client in Rust 🦀
+- [`wesovilabs/koazee`](https://github.com/wesovilabs/koazee) (3 days ago) • A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.
+- [`duckdb/duckdb`](https://github.com/duckdb/duckdb) (3 days ago) • DuckDB is an analytical in-process SQL database management system
+- [`Zondax/ledger-rs`](https://github.com/Zondax/ledger-rs) (4 days ago) • Rust crate to connect to Ledger devices
+- [`0glabs/0g-storage-node`](https://github.com/0glabs/0g-storage-node) (4 days ago)
 
 ## 👯 My recent Followers
 
-- [`@despicableGruu`](https://github.com/despicableGruu)
-- [`@sol-wiz`](https://github.com/sol-wiz)
+- [`@veryhari`](https://github.com/veryhari)
+- [`@devking9562`](https://github.com/devking9562)
+- [`@KIRAN-KUMAR-K3`](https://github.com/KIRAN-KUMAR-K3)
+- [`@macar42951`](https://github.com/macar42951)
+- [`@dougkalash`](https://github.com/dougkalash)
+- [`@ssakuraki`](https://github.com/ssakuraki)
 - [`@lara-west`](https://github.com/lara-west)
 - [`@omoghaoghenemano`](https://github.com/omoghaoghenemano)
 - [`@Lendon-B`](https://github.com/Lendon-B)
 - [`@mnpsnuwan`](https://github.com/mnpsnuwan)
-- [`@tientq64`](https://github.com/tientq64)
-- [`@princefr`](https://github.com/princefr)
-- [`@kaplanbitcoin1`](https://github.com/kaplanbitcoin1)
-- [`@Elbagoury`](https://github.com/Elbagoury)
 
 ## 📕 My Latest Gists
 
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 week ago)
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (1 week ago)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (2 weeks ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (2 weeks ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (2 weeks ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (3 weeks ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
@@ -205,6 +205,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
