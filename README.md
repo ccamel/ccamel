@@ -114,35 +114,35 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`jameycribbs/hare`](https://github.com/jameycribbs/hare) (1 day ago) • Hare is a nimble little database management system for Go.
-- [`rumos-io/gears`](https://github.com/rumos-io/gears) (1 day ago) • A Rust implementation of the Cosmos SDK
-- [`Tochemey/goakt`](https://github.com/Tochemey/goakt) (1 day ago) • [Go] Fast and Distributed Actor framework using protocol buffers as message for Golang
-- [`Tochemey/ego`](https://github.com/Tochemey/ego) (1 day ago) • [Go]Minimal event sourcing library using protocol buffers for commands, events and states.
-- [`anthdm/hollywood`](https://github.com/anthdm/hollywood) (1 day ago) • Blazingly fast and light-weight Actor engine written in Golang
-- [`eigerco/beerus`](https://github.com/eigerco/beerus) (2 days ago) • A stateless trustless Starknet light client in Rust 🦀
-- [`wesovilabs/koazee`](https://github.com/wesovilabs/koazee) (3 days ago) • A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.
-- [`duckdb/duckdb`](https://github.com/duckdb/duckdb) (3 days ago) • DuckDB is an analytical in-process SQL database management system
-- [`Zondax/ledger-rs`](https://github.com/Zondax/ledger-rs) (4 days ago) • Rust crate to connect to Ledger devices
-- [`0glabs/0g-storage-node`](https://github.com/0glabs/0g-storage-node) (4 days ago)
+- [`TheAlgorithms/Python`](https://github.com/TheAlgorithms/Python) (1 day ago) • All Algorithms implemented in Python
+- [`gnosisguild/enclave`](https://github.com/gnosisguild/enclave) (1 day ago) • Enclave is an open-source protocol for Encrypted Execution Environments (E3).
+- [`filip26/linked-tree`](https://github.com/filip26/linked-tree) (3 days ago) • An abstract data model to process Linked Data. Graphs are cool. Trees are easy. Think in graphs, work with trees.
+- [`w3c/vc-di-ecdsa`](https://github.com/w3c/vc-di-ecdsa) (5 days ago) • Data Integrity specification for ECDSA using NIST-compliant curves
+- [`jeffreytse/zsh-vi-mode`](https://github.com/jeffreytse/zsh-vi-mode) (6 days ago) • 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [`f5nodes/wiki`](https://github.com/f5nodes/wiki) (6 days ago) • from validators to validators with love.
+- [`jub0bs/iterutil`](https://github.com/jub0bs/iterutil) (6 days ago) • an experimental collection of utility functions (sources, combinators, sinks) for working with Go iterators
+- [`saml-dev/gome-assistant`](https://github.com/saml-dev/gome-assistant) (1 week ago) • A library that lets you write all of your Home Assistant automations in Go!
+- [`axone-protocol/jackal-auth-proxy`](https://github.com/axone-protocol/jackal-auth-proxy) (1 week ago) • 🛡️ Jackal auth proxy to the Axone protocol
+- [`jameycribbs/hare`](https://github.com/jameycribbs/hare) (1 week ago) • Hare is a nimble little database management system for Go.
 
 ## 👯 My recent Followers
 
+- [`@dougkalash`](https://github.com/dougkalash)
+- [`@sumitkhudaniya`](https://github.com/sumitkhudaniya)
+- [`@trinhminhtriet`](https://github.com/trinhminhtriet)
+- [`@AlaMoonzzz`](https://github.com/AlaMoonzzz)
+- [`@KIRAN-KUMAR-K3`](https://github.com/KIRAN-KUMAR-K3)
+- [`@sulaimanbiswas`](https://github.com/sulaimanbiswas)
+- [`@sepidehzahed`](https://github.com/sepidehzahed)
+- [`@sakura8084`](https://github.com/sakura8084)
 - [`@veryhari`](https://github.com/veryhari)
 - [`@devking9562`](https://github.com/devking9562)
-- [`@KIRAN-KUMAR-K3`](https://github.com/KIRAN-KUMAR-K3)
-- [`@macar42951`](https://github.com/macar42951)
-- [`@dougkalash`](https://github.com/dougkalash)
-- [`@ssakuraki`](https://github.com/ssakuraki)
-- [`@lara-west`](https://github.com/lara-west)
-- [`@omoghaoghenemano`](https://github.com/omoghaoghenemano)
-- [`@Lendon-B`](https://github.com/Lendon-B)
-- [`@mnpsnuwan`](https://github.com/mnpsnuwan)
 
 ## 📕 My Latest Gists
 
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (2 weeks ago)
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (2 weeks ago)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (3 weeks ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (3 weeks ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (3 weeks ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 month ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
@@ -205,6 +205,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
