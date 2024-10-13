@@ -101,7 +101,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
   <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
   <li><code><a href="https://github.com/okp4/subql-okp4">okp4/subql-okp4</a></code>&nbsp;<a href="https://github.com/okp4/subql-okp4/releases/tag/v1.0.1"><img align="center" alt="v1.0.1" src="https://img.shields.io/badge/v1.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🔄 Subquery repository for OKP4 protocol</li>
-  <li><code><a href="https://github.com/okp4/nemeton-web">okp4/nemeton-web</a></code>&nbsp;<a href="https://github.com/okp4/nemeton-web/releases/tag/v1.20.0"><img align="center" alt="v1.20.0" src="https://img.shields.io/badge/v1.20.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧙‍♂️ The landing page repository for the Nemeton Program! 🔥</li>
+  <li><code><a href="https://github.com/axone-protocol/axone-contract-schema">axone-protocol/axone-contract-schema</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-contract-schema/releases/tag/v3.0.0"><img align="center" alt="v3.0.0" src="https://img.shields.io/badge/v3.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🚀 Client libraries (for different languages) simplifying Axone chain interactions.</li>
 </ul>
 
 ## ✍️ My Latest Blog Posts
@@ -114,34 +114,34 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`TheAlgorithms/Python`](https://github.com/TheAlgorithms/Python) (1 day ago) • All Algorithms implemented in Python
-- [`gnosisguild/enclave`](https://github.com/gnosisguild/enclave) (1 day ago) • Enclave is an open-source protocol for Encrypted Execution Environments (E3).
-- [`filip26/linked-tree`](https://github.com/filip26/linked-tree) (3 days ago) • An abstract data model to process Linked Data. Graphs are cool. Trees are easy. Think in graphs, work with trees.
-- [`w3c/vc-di-ecdsa`](https://github.com/w3c/vc-di-ecdsa) (5 days ago) • Data Integrity specification for ECDSA using NIST-compliant curves
-- [`jeffreytse/zsh-vi-mode`](https://github.com/jeffreytse/zsh-vi-mode) (6 days ago) • 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [`f5nodes/wiki`](https://github.com/f5nodes/wiki) (6 days ago) • from validators to validators with love.
-- [`jub0bs/iterutil`](https://github.com/jub0bs/iterutil) (6 days ago) • an experimental collection of utility functions (sources, combinators, sinks) for working with Go iterators
-- [`saml-dev/gome-assistant`](https://github.com/saml-dev/gome-assistant) (1 week ago) • A library that lets you write all of your Home Assistant automations in Go!
-- [`axone-protocol/jackal-auth-proxy`](https://github.com/axone-protocol/jackal-auth-proxy) (1 week ago) • 🛡️ Jackal auth proxy to the Axone protocol
-- [`jameycribbs/hare`](https://github.com/jameycribbs/hare) (1 week ago) • Hare is a nimble little database management system for Go.
+- [`kisielk/errcheck`](https://github.com/kisielk/errcheck) (1 day ago) • errcheck checks that you checked errors.
+- [`samuel-vitorino/lm.rs`](https://github.com/samuel-vitorino/lm.rs) (1 day ago) • Minimal LLM inference in Rust
+- [`home-assistant/frontend`](https://github.com/home-assistant/frontend) (2 days ago) • :lollipop: Frontend for Home Assistant
+- [`arch-go/arch-go`](https://github.com/arch-go/arch-go) (2 days ago) • Architecture checks for Go projects
+- [`kilnfi/cosmos-validator-watcher`](https://github.com/kilnfi/cosmos-validator-watcher) (3 days ago) • Real-time Cosmos-based chains monitoring
+- [`nginxinc/ngx-rust`](https://github.com/nginxinc/ngx-rust) (4 days ago) • Rust binding for NGINX
+- [`brendandburns/caddy-wasm`](https://github.com/brendandburns/caddy-wasm) (4 days ago) • WebAssembly (WASM) extension for the caddy2 web server.
+- [`wk8/go-ordered-map`](https://github.com/wk8/go-ordered-map) (4 days ago) • Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
+- [`atomone-hub/genesis`](https://github.com/atomone-hub/genesis) (4 days ago) • genesis for AtomOne
+- [`karamaru-alpha/copyloopvar`](https://github.com/karamaru-alpha/copyloopvar) (4 days ago) • copyloopvar is a linter detects places where loop variables are copied.
 
 ## 👯 My recent Followers
 
-- [`@dougkalash`](https://github.com/dougkalash)
+- [`@bellafalconi`](https://github.com/bellafalconi)
+- [`@mahnazesrafili`](https://github.com/mahnazesrafili)
+- [`@ClashProgrammer`](https://github.com/ClashProgrammer)
+- [`@myrade-bf`](https://github.com/myrade-bf)
+- [`@Abdullahsaleh203`](https://github.com/Abdullahsaleh203)
+- [`@elton-prog`](https://github.com/elton-prog)
+- [`@befoulers`](https://github.com/befoulers)
+- [`@tokyodal`](https://github.com/tokyodal)
 - [`@sumitkhudaniya`](https://github.com/sumitkhudaniya)
 - [`@trinhminhtriet`](https://github.com/trinhminhtriet)
-- [`@AlaMoonzzz`](https://github.com/AlaMoonzzz)
-- [`@KIRAN-KUMAR-K3`](https://github.com/KIRAN-KUMAR-K3)
-- [`@sulaimanbiswas`](https://github.com/sulaimanbiswas)
-- [`@sepidehzahed`](https://github.com/sepidehzahed)
-- [`@sakura8084`](https://github.com/sakura8084)
-- [`@veryhari`](https://github.com/veryhari)
-- [`@devking9562`](https://github.com/devking9562)
 
 ## 📕 My Latest Gists
 
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (3 weeks ago)
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (3 weeks ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (4 weeks ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (4 weeks ago)
 - [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 month ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
@@ -205,6 +205,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
