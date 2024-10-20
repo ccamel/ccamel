@@ -92,12 +92,12 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
   <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v10.0.0"><img align="center" alt="v10.0.0" src="https://img.shields.io/badge/v10.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
   <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
   <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v6.0.0"><img align="center" alt="v6.0.0" src="https://img.shields.io/badge/v6.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
   <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0"><img align="center" alt="v0.23.0" src="https://img.shields.io/badge/v0.23.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
-  <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.1"><img align="center" alt="v1.2.1" src="https://img.shields.io/badge/v1.2.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
   <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
   <li><code><a href="https://github.com/okp4/subql-okp4">okp4/subql-okp4</a></code>&nbsp;<a href="https://github.com/okp4/subql-okp4/releases/tag/v1.0.1"><img align="center" alt="v1.0.1" src="https://img.shields.io/badge/v1.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🔄 Subquery repository for OKP4 protocol</li>
@@ -114,34 +114,34 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`kisielk/errcheck`](https://github.com/kisielk/errcheck) (1 day ago) • errcheck checks that you checked errors.
-- [`samuel-vitorino/lm.rs`](https://github.com/samuel-vitorino/lm.rs) (1 day ago) • Minimal LLM inference in Rust
-- [`home-assistant/frontend`](https://github.com/home-assistant/frontend) (2 days ago) • :lollipop: Frontend for Home Assistant
-- [`arch-go/arch-go`](https://github.com/arch-go/arch-go) (2 days ago) • Architecture checks for Go projects
-- [`kilnfi/cosmos-validator-watcher`](https://github.com/kilnfi/cosmos-validator-watcher) (3 days ago) • Real-time Cosmos-based chains monitoring
-- [`nginxinc/ngx-rust`](https://github.com/nginxinc/ngx-rust) (4 days ago) • Rust binding for NGINX
-- [`brendandburns/caddy-wasm`](https://github.com/brendandburns/caddy-wasm) (4 days ago) • WebAssembly (WASM) extension for the caddy2 web server.
-- [`wk8/go-ordered-map`](https://github.com/wk8/go-ordered-map) (4 days ago) • Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
-- [`atomone-hub/genesis`](https://github.com/atomone-hub/genesis) (4 days ago) • genesis for AtomOne
-- [`karamaru-alpha/copyloopvar`](https://github.com/karamaru-alpha/copyloopvar) (4 days ago) • copyloopvar is a linter detects places where loop variables are copied.
+- [`barvian/number-flow`](https://github.com/barvian/number-flow) (3 days ago) • A React component to transition, format, and localize numbers.
+- [`HKUDS/LightRAG`](https://github.com/HKUDS/LightRAG) (4 days ago) • &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34;
+- [`lutzh/awesome-event-driven-architecture`](https://github.com/lutzh/awesome-event-driven-architecture) (4 days ago) • A curated list of resources on event-driven architecture.
+- [`EnVision-Research/DisEnvisioner`](https://github.com/EnVision-Research/DisEnvisioner) (5 days ago) • Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
+- [`celestiaorg/celestia-app`](https://github.com/celestiaorg/celestia-app) (5 days ago) • Celestia consensus node
+- [`sayanarijit/xplr`](https://github.com/sayanarijit/xplr) (5 days ago) • A hackable, minimal, fast TUI file explorer
+- [`openai/swarm`](https://github.com/openai/swarm) (5 days ago) • Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [`atomone-hub/atomone`](https://github.com/atomone-hub/atomone) (6 days ago) • AtomOne chain software
+- [`w3c/sparql-query`](https://github.com/w3c/sparql-query) (6 days ago)
+- [`3b1b/manim`](https://github.com/3b1b/manim) (6 days ago) • Animation engine for explanatory math videos
 
 ## 👯 My recent Followers
 
-- [`@bellafalconi`](https://github.com/bellafalconi)
-- [`@mahnazesrafili`](https://github.com/mahnazesrafili)
+- [`@CombiningIdeas`](https://github.com/CombiningIdeas)
+- [`@meliksahyorulmazlar`](https://github.com/meliksahyorulmazlar)
+- [`@duongminh318`](https://github.com/duongminh318)
+- [`@eust-w`](https://github.com/eust-w)
+- [`@0824651233`](https://github.com/0824651233)
+- [`@CelaDaniel`](https://github.com/CelaDaniel)
+- [`@Rez4-3yz`](https://github.com/Rez4-3yz)
+- [`@mahdi-eth`](https://github.com/mahdi-eth)
 - [`@ClashProgrammer`](https://github.com/ClashProgrammer)
 - [`@myrade-bf`](https://github.com/myrade-bf)
-- [`@Abdullahsaleh203`](https://github.com/Abdullahsaleh203)
-- [`@elton-prog`](https://github.com/elton-prog)
-- [`@befoulers`](https://github.com/befoulers)
-- [`@tokyodal`](https://github.com/tokyodal)
-- [`@sumitkhudaniya`](https://github.com/sumitkhudaniya)
-- [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 
 ## 📕 My Latest Gists
 
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (4 weeks ago)
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (4 weeks ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 month ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (1 month ago)
 - [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 month ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
@@ -205,6 +205,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
