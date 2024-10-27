@@ -92,12 +92,12 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.24.1"><img align="center" alt="v0.24.1" src="https://img.shields.io/badge/v0.24.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
   <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v10.0.0"><img align="center" alt="v10.0.0" src="https://img.shields.io/badge/v10.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
   <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
   <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v6.0.0"><img align="center" alt="v6.0.0" src="https://img.shields.io/badge/v6.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
-  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.23.0"><img align="center" alt="v0.23.0" src="https://img.shields.io/badge/v0.23.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
   <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
   <li><code><a href="https://github.com/okp4/subql-okp4">okp4/subql-okp4</a></code>&nbsp;<a href="https://github.com/okp4/subql-okp4/releases/tag/v1.0.1"><img align="center" alt="v1.0.1" src="https://img.shields.io/badge/v1.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🔄 Subquery repository for OKP4 protocol</li>
@@ -114,29 +114,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`barvian/number-flow`](https://github.com/barvian/number-flow) (3 days ago) • A React component to transition, format, and localize numbers.
-- [`HKUDS/LightRAG`](https://github.com/HKUDS/LightRAG) (4 days ago) • &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34;
-- [`lutzh/awesome-event-driven-architecture`](https://github.com/lutzh/awesome-event-driven-architecture) (4 days ago) • A curated list of resources on event-driven architecture.
-- [`EnVision-Research/DisEnvisioner`](https://github.com/EnVision-Research/DisEnvisioner) (5 days ago) • Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
-- [`celestiaorg/celestia-app`](https://github.com/celestiaorg/celestia-app) (5 days ago) • Celestia consensus node
-- [`sayanarijit/xplr`](https://github.com/sayanarijit/xplr) (5 days ago) • A hackable, minimal, fast TUI file explorer
-- [`openai/swarm`](https://github.com/openai/swarm) (5 days ago) • Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [`atomone-hub/atomone`](https://github.com/atomone-hub/atomone) (6 days ago) • AtomOne chain software
-- [`w3c/sparql-query`](https://github.com/w3c/sparql-query) (6 days ago)
-- [`3b1b/manim`](https://github.com/3b1b/manim) (6 days ago) • Animation engine for explanatory math videos
+- [`inaka/elvis`](https://github.com/inaka/elvis) (1 day ago) • Erlang Style Reviewer
+- [`w3c/rdf-star-wg`](https://github.com/w3c/rdf-star-wg) (2 days ago) • RDF-star Working Group
+- [`penumbra-zone/web`](https://github.com/penumbra-zone/web) (2 days ago)
+- [`customerio/esdb`](https://github.com/customerio/esdb) (3 days ago) • Event-stream flat file database - Immutable storage for timestamped event streams
+- [`anthropics/anthropic-quickstarts`](https://github.com/anthropics/anthropic-quickstarts) (4 days ago) • A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [`babylonchain/babylon`](https://github.com/babylonchain/babylon) (4 days ago) • Main repo for Babylon full node
+- [`Sanster/IOPaint`](https://github.com/Sanster/IOPaint) (5 days ago) • Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [`jinzhu/copier`](https://github.com/jinzhu/copier) (5 days ago) • Copier for golang, copy value from struct to struct and more
+- [`ignite/web`](https://github.com/ignite/web) (5 days ago) • Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
+- [`ML-KULeuven/deepproblog`](https://github.com/ML-KULeuven/deepproblog) (5 days ago) • DeepProbLog is an extension of ProbLog that integrates Probabilistic Logic Programming with deep learning by introducing the neural predicate.
 
 ## 👯 My recent Followers
 
-- [`@CombiningIdeas`](https://github.com/CombiningIdeas)
-- [`@meliksahyorulmazlar`](https://github.com/meliksahyorulmazlar)
-- [`@duongminh318`](https://github.com/duongminh318)
-- [`@eust-w`](https://github.com/eust-w)
-- [`@0824651233`](https://github.com/0824651233)
-- [`@CelaDaniel`](https://github.com/CelaDaniel)
-- [`@Rez4-3yz`](https://github.com/Rez4-3yz)
-- [`@mahdi-eth`](https://github.com/mahdi-eth)
-- [`@ClashProgrammer`](https://github.com/ClashProgrammer)
-- [`@myrade-bf`](https://github.com/myrade-bf)
+- [`@edu-amr`](https://github.com/edu-amr)
+- [`@daniel0130`](https://github.com/daniel0130)
+- [`@osiristape`](https://github.com/osiristape)
+- [`@Elenavz83`](https://github.com/Elenavz83)
+- [`@Tohidkhan6332`](https://github.com/Tohidkhan6332)
+- [`@CoreUnitNET`](https://github.com/CoreUnitNET)
+- [`@hhdst`](https://github.com/hhdst)
+- [`@idimetrix`](https://github.com/idimetrix)
+- [`@iCarossio`](https://github.com/iCarossio)
+- [`@ianpurifying`](https://github.com/ianpurifying)
 
 ## 📕 My Latest Gists
 
@@ -144,7 +144,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 - [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (1 month ago)
 - [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 month ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
-- [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (2 years ago)
+- [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (3 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
 - [Computation of π with PostgreSQL Recursive Query](https://gist.github.com/4ce87632e3ac1f20748015baf864722c) (5 years ago)
 
@@ -205,6 +205,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
