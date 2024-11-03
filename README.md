@@ -114,35 +114,35 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`inaka/elvis`](https://github.com/inaka/elvis) (1 day ago) • Erlang Style Reviewer
-- [`w3c/rdf-star-wg`](https://github.com/w3c/rdf-star-wg) (2 days ago) • RDF-star Working Group
-- [`penumbra-zone/web`](https://github.com/penumbra-zone/web) (2 days ago)
-- [`customerio/esdb`](https://github.com/customerio/esdb) (3 days ago) • Event-stream flat file database - Immutable storage for timestamped event streams
-- [`anthropics/anthropic-quickstarts`](https://github.com/anthropics/anthropic-quickstarts) (4 days ago) • A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
-- [`babylonchain/babylon`](https://github.com/babylonchain/babylon) (4 days ago) • Main repo for Babylon full node
-- [`Sanster/IOPaint`](https://github.com/Sanster/IOPaint) (5 days ago) • Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [`jinzhu/copier`](https://github.com/jinzhu/copier) (5 days ago) • Copier for golang, copy value from struct to struct and more
-- [`ignite/web`](https://github.com/ignite/web) (5 days ago) • Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
-- [`ML-KULeuven/deepproblog`](https://github.com/ML-KULeuven/deepproblog) (5 days ago) • DeepProbLog is an extension of ProbLog that integrates Probabilistic Logic Programming with deep learning by introducing the neural predicate.
+- [`home-assistant/operating-system`](https://github.com/home-assistant/operating-system) (1 day ago) • :beginner: Home Assistant Operating System
+- [`cristalhq/aconfig`](https://github.com/cristalhq/aconfig) (1 day ago) • Simple, useful and opinionated config loader.
+- [`commonwarexyz/monorepo`](https://github.com/commonwarexyz/monorepo) (3 days ago) • Commonware Library Primitives and Examples
+- [`tee-he-he/err_err_ttyl`](https://github.com/tee-he-he/err_err_ttyl) (3 days ago)
+- [`uber-go/mock`](https://github.com/uber-go/mock) (4 days ago) • GoMock is a mocking framework for the Go programming language.
+- [`w3c/rdf-concepts`](https://github.com/w3c/rdf-concepts) (4 days ago)
+- [`llaisdy/PrologInfo`](https://github.com/llaisdy/PrologInfo) (4 days ago) • Prolog, Datalog, languages, resources, and beyond!
+- [`colega/zeropool`](https://github.com/colega/zeropool) (5 days ago) • Zero-allocation type-safe pool for Go
+- [`lburgazzoli/camel-go`](https://github.com/lburgazzoli/camel-go) (5 days ago)
+- [`NathanBaulch/protoc-gen-cobra`](https://github.com/NathanBaulch/protoc-gen-cobra) (6 days ago) • Cobra command line tool generator for gRPC clients
 
 ## 👯 My recent Followers
 
-- [`@edu-amr`](https://github.com/edu-amr)
-- [`@daniel0130`](https://github.com/daniel0130)
-- [`@osiristape`](https://github.com/osiristape)
-- [`@Elenavz83`](https://github.com/Elenavz83)
-- [`@Tohidkhan6332`](https://github.com/Tohidkhan6332)
-- [`@CoreUnitNET`](https://github.com/CoreUnitNET)
-- [`@hhdst`](https://github.com/hhdst)
-- [`@idimetrix`](https://github.com/idimetrix)
-- [`@iCarossio`](https://github.com/iCarossio)
-- [`@ianpurifying`](https://github.com/ianpurifying)
+- [`@tengo770`](https://github.com/tengo770)
+- [`@chaosgen`](https://github.com/chaosgen)
+- [`@mr0ravi`](https://github.com/mr0ravi)
+- [`@baninpezhhan`](https://github.com/baninpezhhan)
+- [`@amineleghouil`](https://github.com/amineleghouil)
+- [`@Rez4-3yz`](https://github.com/Rez4-3yz)
+- [`@luckysw0rd`](https://github.com/luckysw0rd)
+- [`@JawherKl`](https://github.com/JawherKl)
+- [`@FaezehRahimian`](https://github.com/FaezehRahimian)
+- [`@jelspace`](https://github.com/jelspace)
 
 ## 📕 My Latest Gists
 
 - [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 month ago)
 - [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (1 month ago)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (1 month ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (2 months ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (3 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
@@ -198,13 +198,14 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
