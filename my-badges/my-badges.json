@@ -143,14 +143,14 @@
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/axone-protocol/axoned/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/platform-cloud/issues/42\">#42</a>",
+    "body": "- <a href=\"https://github.com/okp4/dev-kanban/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/awesome/issues/42\">#42</a>\n- <a href=\"https://github.com/axone-protocol/axoned/issues/42\">#42</a>\n- <a href=\"https://github.com/okp4/platform-cloud/issues/42\">#42</a>\n- <a href=\"https://github.com/axone-protocol/ontology/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1443 times)\n2. to (used 1440 times)\n3. update (used 1101 times)\n4. from (used 1006 times)\n5. :arrow_up: (used 866 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1445 times)\n2. to (used 1442 times)\n3. update (used 1104 times)\n4. from (used 1009 times)\n5. :arrow_up: (used 866 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -194,5 +194,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/kynaptik/commit/123bf3cc43ba2274a4207eedc58cc707ff968bb3\">123bf3c</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
