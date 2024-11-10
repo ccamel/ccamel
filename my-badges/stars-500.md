@@ -5,18 +5,18 @@
 Repos:
 
 * <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★445</a>
-* <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★41</a>
+* <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★42</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★32</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★20</a>
-* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★12</a>
+* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★13</a>
+* <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★7</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
-* <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★6</a>
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
+* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★4</a>
 * <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★3</a>
-* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★3</a>
+* <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
-* <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★2</a>
 * <a href="https://github.com/ingvaar/kafka-quarkus-processor-template">ingvaar/kafka-quarkus-processor-template: ★1</a>
 * <a href="https://github.com/ccamel/utask">ccamel/utask: ★1</a>
 * <a href="https://github.com/ccamel/tutorial-react-parcel-express">ccamel/tutorial-react-parcel-express: ★1</a>
