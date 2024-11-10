@@ -114,29 +114,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`home-assistant/operating-system`](https://github.com/home-assistant/operating-system) (1 day ago) • :beginner: Home Assistant Operating System
-- [`cristalhq/aconfig`](https://github.com/cristalhq/aconfig) (1 day ago) • Simple, useful and opinionated config loader.
-- [`commonwarexyz/monorepo`](https://github.com/commonwarexyz/monorepo) (3 days ago) • Commonware Library Primitives and Examples
-- [`tee-he-he/err_err_ttyl`](https://github.com/tee-he-he/err_err_ttyl) (3 days ago)
-- [`uber-go/mock`](https://github.com/uber-go/mock) (4 days ago) • GoMock is a mocking framework for the Go programming language.
-- [`w3c/rdf-concepts`](https://github.com/w3c/rdf-concepts) (4 days ago)
-- [`llaisdy/PrologInfo`](https://github.com/llaisdy/PrologInfo) (4 days ago) • Prolog, Datalog, languages, resources, and beyond!
-- [`colega/zeropool`](https://github.com/colega/zeropool) (5 days ago) • Zero-allocation type-safe pool for Go
-- [`lburgazzoli/camel-go`](https://github.com/lburgazzoli/camel-go) (5 days ago)
-- [`NathanBaulch/protoc-gen-cobra`](https://github.com/NathanBaulch/protoc-gen-cobra) (6 days ago) • Cobra command line tool generator for gRPC clients
+- [`Bleuje/processing-animations-code`](https://github.com/Bleuje/processing-animations-code) (1 day ago) • A set of Processing animations, which have commented code
+- [`caddyserver/certmagic`](https://github.com/caddyserver/certmagic) (1 day ago) • Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
+- [`swsnr/mdcat`](https://github.com/swsnr/mdcat) (1 day ago) • cat for markdown
+- [`jnsahaj/lumen`](https://github.com/jnsahaj/lumen) (1 day ago) • Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+- [`krabobmkd/amigamame`](https://github.com/krabobmkd/amigamame) (2 days ago) • Port of Mame106 (2006) to Amiga classic 68060, using bebbo gcc6.5 crosscompiler and cmake.
+- [`MANTRA-Chain/mantrachain`](https://github.com/MANTRA-Chain/mantrachain) (2 days ago) • MANTRA is a purpose-built RWA Layer 1 Blockchain, capable of adherence to real world regulatory requirements.
+- [`TylerBloom/webatui`](https://github.com/TylerBloom/webatui) (3 days ago) • An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps
+- [`reinkrul/java-did-resolvers`](https://github.com/reinkrul/java-did-resolvers) (3 days ago) • Set of DID resolvers in Java with minimal dependencies
+- [`browserbase/stagehand`](https://github.com/browserbase/stagehand) (3 days ago) • An AI web browsing framework focused on simplicity and extensibility.
+- [`hashicorp/go-multierror`](https://github.com/hashicorp/go-multierror) (4 days ago) • A Go (golang) package for representing a list of errors as a single error.
 
 ## 👯 My recent Followers
 
+- [`@SaurabhSSB`](https://github.com/SaurabhSSB)
+- [`@seaidear`](https://github.com/seaidear)
+- [`@Gezal1382`](https://github.com/Gezal1382)
+- [`@nastaranmofakhami`](https://github.com/nastaranmofakhami)
+- [`@rkhalili83`](https://github.com/rkhalili83)
+- [`@joemar25`](https://github.com/joemar25)
+- [`@byigitt`](https://github.com/byigitt)
 - [`@tengo770`](https://github.com/tengo770)
 - [`@chaosgen`](https://github.com/chaosgen)
 - [`@mr0ravi`](https://github.com/mr0ravi)
-- [`@baninpezhhan`](https://github.com/baninpezhhan)
-- [`@amineleghouil`](https://github.com/amineleghouil)
-- [`@Rez4-3yz`](https://github.com/Rez4-3yz)
-- [`@luckysw0rd`](https://github.com/luckysw0rd)
-- [`@JawherKl`](https://github.com/JawherKl)
-- [`@FaezehRahimian`](https://github.com/FaezehRahimian)
-- [`@jelspace`](https://github.com/jelspace)
 
 ## 📕 My Latest Gists
 
@@ -198,14 +198,14 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
