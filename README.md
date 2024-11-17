@@ -92,6 +92,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
   <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.24.1"><img align="center" alt="v0.24.1" src="https://img.shields.io/badge/v0.24.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
   <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v10.0.0"><img align="center" alt="v10.0.0" src="https://img.shields.io/badge/v10.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
@@ -101,7 +102,6 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
   <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
   <li><code><a href="https://github.com/okp4/subql-okp4">okp4/subql-okp4</a></code>&nbsp;<a href="https://github.com/okp4/subql-okp4/releases/tag/v1.0.1"><img align="center" alt="v1.0.1" src="https://img.shields.io/badge/v1.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🔄 Subquery repository for OKP4 protocol</li>
-  <li><code><a href="https://github.com/axone-protocol/axone-contract-schema">axone-protocol/axone-contract-schema</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-contract-schema/releases/tag/v3.0.0"><img align="center" alt="v3.0.0" src="https://img.shields.io/badge/v3.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🚀 Client libraries (for different languages) simplifying Axone chain interactions.</li>
 </ul>
 
 ## ✍️ My Latest Blog Posts
@@ -114,34 +114,34 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`Bleuje/processing-animations-code`](https://github.com/Bleuje/processing-animations-code) (1 day ago) • A set of Processing animations, which have commented code
-- [`caddyserver/certmagic`](https://github.com/caddyserver/certmagic) (1 day ago) • Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
-- [`swsnr/mdcat`](https://github.com/swsnr/mdcat) (1 day ago) • cat for markdown
-- [`jnsahaj/lumen`](https://github.com/jnsahaj/lumen) (1 day ago) • Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
-- [`krabobmkd/amigamame`](https://github.com/krabobmkd/amigamame) (2 days ago) • Port of Mame106 (2006) to Amiga classic 68060, using bebbo gcc6.5 crosscompiler and cmake.
-- [`MANTRA-Chain/mantrachain`](https://github.com/MANTRA-Chain/mantrachain) (2 days ago) • MANTRA is a purpose-built RWA Layer 1 Blockchain, capable of adherence to real world regulatory requirements.
-- [`TylerBloom/webatui`](https://github.com/TylerBloom/webatui) (3 days ago) • An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps
-- [`reinkrul/java-did-resolvers`](https://github.com/reinkrul/java-did-resolvers) (3 days ago) • Set of DID resolvers in Java with minimal dependencies
-- [`browserbase/stagehand`](https://github.com/browserbase/stagehand) (3 days ago) • An AI web browsing framework focused on simplicity and extensibility.
-- [`hashicorp/go-multierror`](https://github.com/hashicorp/go-multierror) (4 days ago) • A Go (golang) package for representing a list of errors as a single error.
+- [`mfridman/tparse`](https://github.com/mfridman/tparse) (1 day ago) • CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
+- [`ponceto/dosfx`](https://github.com/ponceto/dosfx) (1 day ago) • Old school effects written in Turbo-C for DOS [this repository is a mirror]
+- [`EinGuterWaran/awesome-opensource-boilerplates`](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) (1 day ago) • A curated list of open source boilerplates and starter templates to kickstart your next project.
+- [`docusealco/docuseal`](https://github.com/docusealco/docuseal) (1 day ago) • Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [`terrastruct/d2`](https://github.com/terrastruct/d2) (1 day ago) • D2 is a modern diagram scripting language that turns text to diagrams.
+- [`aarroyoc/doclog`](https://github.com/aarroyoc/doclog) (2 days ago) • DocLog builds documentation from source code in Prolog
+- [`singnet/snet-daemon`](https://github.com/singnet/snet-daemon) (2 days ago) • Service Daemon exposes an AI application as an API that is accessible through the SingularityNET Network. It handles all interaction with the blockchain for authorization and payment using AGI tokens and passes through API calls to the AI application.
+- [`bazelbuild/starlark`](https://github.com/bazelbuild/starlark) (2 days ago) • Starlark Language
+- [`rollkit/go-execution`](https://github.com/rollkit/go-execution) (2 days ago) • A generic execution api for rollups
+- [`dockur/macos`](https://github.com/dockur/macos) (3 days ago) • OSX (macOS) inside a Docker container.
 
 ## 👯 My recent Followers
 
-- [`@SaurabhSSB`](https://github.com/SaurabhSSB)
+- [`@DragonLee321`](https://github.com/DragonLee321)
+- [`@shiny-lua`](https://github.com/shiny-lua)
+- [`@emirkaanozdemr`](https://github.com/emirkaanozdemr)
+- [`@sol-magic`](https://github.com/sol-magic)
+- [`@MdShawonForazi`](https://github.com/MdShawonForazi)
+- [`@mi6paulino`](https://github.com/mi6paulino)
+- [`@taisprestes01`](https://github.com/taisprestes01)
+- [`@Felix-react`](https://github.com/Felix-react)
+- [`@Ali1Safi`](https://github.com/Ali1Safi)
 - [`@seaidear`](https://github.com/seaidear)
-- [`@Gezal1382`](https://github.com/Gezal1382)
-- [`@nastaranmofakhami`](https://github.com/nastaranmofakhami)
-- [`@rkhalili83`](https://github.com/rkhalili83)
-- [`@joemar25`](https://github.com/joemar25)
-- [`@byigitt`](https://github.com/byigitt)
-- [`@tengo770`](https://github.com/tengo770)
-- [`@chaosgen`](https://github.com/chaosgen)
-- [`@mr0ravi`](https://github.com/mr0ravi)
 
 ## 📕 My Latest Gists
 
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 month ago)
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (1 month ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (2 months ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (2 months ago)
 - [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (2 months ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (3 years ago)
@@ -198,14 +198,14 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
