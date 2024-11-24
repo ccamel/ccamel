@@ -92,8 +92,8 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.25.0"><img align="center" alt="v0.25.0" src="https://img.shields.io/badge/v0.25.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
-  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.24.1"><img align="center" alt="v0.24.1" src="https://img.shields.io/badge/v0.24.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
   <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v10.0.0"><img align="center" alt="v10.0.0" src="https://img.shields.io/badge/v10.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
@@ -114,29 +114,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`mfridman/tparse`](https://github.com/mfridman/tparse) (1 day ago) • CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
-- [`ponceto/dosfx`](https://github.com/ponceto/dosfx) (1 day ago) • Old school effects written in Turbo-C for DOS [this repository is a mirror]
-- [`EinGuterWaran/awesome-opensource-boilerplates`](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) (1 day ago) • A curated list of open source boilerplates and starter templates to kickstart your next project.
-- [`docusealco/docuseal`](https://github.com/docusealco/docuseal) (1 day ago) • Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [`terrastruct/d2`](https://github.com/terrastruct/d2) (1 day ago) • D2 is a modern diagram scripting language that turns text to diagrams.
-- [`aarroyoc/doclog`](https://github.com/aarroyoc/doclog) (2 days ago) • DocLog builds documentation from source code in Prolog
-- [`singnet/snet-daemon`](https://github.com/singnet/snet-daemon) (2 days ago) • Service Daemon exposes an AI application as an API that is accessible through the SingularityNET Network. It handles all interaction with the blockchain for authorization and payment using AGI tokens and passes through API calls to the AI application.
-- [`bazelbuild/starlark`](https://github.com/bazelbuild/starlark) (2 days ago) • Starlark Language
-- [`rollkit/go-execution`](https://github.com/rollkit/go-execution) (2 days ago) • A generic execution api for rollups
-- [`dockur/macos`](https://github.com/dockur/macos) (3 days ago) • OSX (macOS) inside a Docker container.
+- [`gradle/gradle`](https://github.com/gradle/gradle) (1 day ago) • Adaptable, fast automation for all
+- [`argumentcomputer/sphinx`](https://github.com/argumentcomputer/sphinx) (1 day ago) • An observatory fork of SP1 (contact: @huitseeker)
+- [`zrythm/zrythm`](https://github.com/zrythm/zrythm) (1 day ago) • a highly automated and intuitive digital audio workstation - official mirror
+- [`Lesterpaintstheworld/terminal-velocity`](https://github.com/Lesterpaintstheworld/terminal-velocity) (3 days ago) • A novel created autonomously by a team of 10 AI agents
+- [`MystenLabs/sui`](https://github.com/MystenLabs/sui) (4 days ago) • Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+- [`poteto/hiring-without-whiteboards`](https://github.com/poteto/hiring-without-whiteboards) (5 days ago) • ⭐️ Companies that don&#39;t have a broken hiring process
+- [`onomyprotocol/reserve`](https://github.com/onomyprotocol/reserve) (1 week ago) • Onomy Reserve Stablecoin Issuance Protocol
+- [`axone-protocol/get-wallet`](https://github.com/axone-protocol/get-wallet) (1 week ago)
+- [`mfridman/tparse`](https://github.com/mfridman/tparse) (1 week ago) • CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
+- [`ponceto/dosfx`](https://github.com/ponceto/dosfx) (1 week ago) • Old school effects written in Turbo-C for DOS [this repository is a mirror]
 
 ## 👯 My recent Followers
 
+- [`@FreeEarl`](https://github.com/FreeEarl)
+- [`@zenithscholar`](https://github.com/zenithscholar)
+- [`@msodiq19`](https://github.com/msodiq19)
+- [`@Daniolet`](https://github.com/Daniolet)
+- [`@alexrein914`](https://github.com/alexrein914)
+- [`@Kevindevstar`](https://github.com/Kevindevstar)
+- [`@Salvelop07`](https://github.com/Salvelop07)
+- [`@edge2ai`](https://github.com/edge2ai)
+- [`@brainy989`](https://github.com/brainy989)
 - [`@DragonLee321`](https://github.com/DragonLee321)
-- [`@shiny-lua`](https://github.com/shiny-lua)
-- [`@emirkaanozdemr`](https://github.com/emirkaanozdemr)
-- [`@sol-magic`](https://github.com/sol-magic)
-- [`@MdShawonForazi`](https://github.com/MdShawonForazi)
-- [`@mi6paulino`](https://github.com/mi6paulino)
-- [`@taisprestes01`](https://github.com/taisprestes01)
-- [`@Felix-react`](https://github.com/Felix-react)
-- [`@Ali1Safi`](https://github.com/Ali1Safi)
-- [`@seaidear`](https://github.com/seaidear)
 
 ## 📕 My Latest Gists
 
@@ -198,14 +198,14 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
