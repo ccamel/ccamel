@@ -92,6 +92,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/axone-protocol/prolog">axone-protocol/prolog</a></code>&nbsp;<a href="https://github.com/axone-protocol/prolog/releases/tag/v2.0.1"><img align="center" alt="v2.0.1" src="https://img.shields.io/badge/v2.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧠 The Axone Prolog VM</li>
   <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.25.0"><img align="center" alt="v0.25.0" src="https://img.shields.io/badge/v0.25.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
@@ -101,7 +102,6 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
   <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v6.0.0"><img align="center" alt="v6.0.0" src="https://img.shields.io/badge/v6.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
   <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
-  <li><code><a href="https://github.com/okp4/subql-okp4">okp4/subql-okp4</a></code>&nbsp;<a href="https://github.com/okp4/subql-okp4/releases/tag/v1.0.1"><img align="center" alt="v1.0.1" src="https://img.shields.io/badge/v1.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🔄 Subquery repository for OKP4 protocol</li>
 </ul>
 
 ## ✍️ My Latest Blog Posts
@@ -114,35 +114,35 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`gradle/gradle`](https://github.com/gradle/gradle) (1 day ago) • Adaptable, fast automation for all
-- [`argumentcomputer/sphinx`](https://github.com/argumentcomputer/sphinx) (1 day ago) • An observatory fork of SP1 (contact: @huitseeker)
-- [`zrythm/zrythm`](https://github.com/zrythm/zrythm) (1 day ago) • a highly automated and intuitive digital audio workstation - official mirror
-- [`Lesterpaintstheworld/terminal-velocity`](https://github.com/Lesterpaintstheworld/terminal-velocity) (3 days ago) • A novel created autonomously by a team of 10 AI agents
-- [`MystenLabs/sui`](https://github.com/MystenLabs/sui) (4 days ago) • Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-- [`poteto/hiring-without-whiteboards`](https://github.com/poteto/hiring-without-whiteboards) (5 days ago) • ⭐️ Companies that don&#39;t have a broken hiring process
-- [`onomyprotocol/reserve`](https://github.com/onomyprotocol/reserve) (1 week ago) • Onomy Reserve Stablecoin Issuance Protocol
-- [`axone-protocol/get-wallet`](https://github.com/axone-protocol/get-wallet) (1 week ago)
-- [`mfridman/tparse`](https://github.com/mfridman/tparse) (1 week ago) • CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
-- [`ponceto/dosfx`](https://github.com/ponceto/dosfx) (1 week ago) • Old school effects written in Turbo-C for DOS [this repository is a mirror]
+- [`docknetwork/vc-schemas`](https://github.com/docknetwork/vc-schemas) (3 days ago) • A collection of Verifaible Credential schemas/templates/examples
+- [`prometheus/prometheus`](https://github.com/prometheus/prometheus) (3 days ago) • The Prometheus monitoring system and time series database.
+- [`zenopie/totp-auth-contract`](https://github.com/zenopie/totp-auth-contract) (4 days ago)
+- [`lobehub/lobe-chat`](https://github.com/lobehub/lobe-chat) (4 days ago) • 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+- [`meinside/telegram-bot-go`](https://github.com/meinside/telegram-bot-go) (4 days ago) • Telegram Bot API wrapper for Golang
+- [`rust-bakery/nom`](https://github.com/rust-bakery/nom) (5 days ago) • Rust parser combinator framework
+- [`rust-rdf/rdf.rs`](https://github.com/rust-rdf/rdf.rs) (5 days ago) • RDF.rs is a pure-Rust library for working with Resource Description Framework (RDF) data.
+- [`rdilweb/docusaurus-plugin-remote-content`](https://github.com/rdilweb/docusaurus-plugin-remote-content) (5 days ago) • A Docusaurus plugin to download content from remote sources when it is needed.
+- [`gracefullight/docusaurus-plugins`](https://github.com/gracefullight/docusaurus-plugins) (5 days ago) • Enhance your Docusaurus website with this collection of script plugins. This monorepo contains easy-to-install and configure plugins that will help you get the most out of your website. 📚🦖
+- [`web-infra-dev/rspack`](https://github.com/web-infra-dev/rspack) (5 days ago) • The fast Rust-based web bundler with webpack-compatible API 🦀️
 
 ## 👯 My recent Followers
 
-- [`@FreeEarl`](https://github.com/FreeEarl)
+- [`@samanes11`](https://github.com/samanes11)
+- [`@Kavorix`](https://github.com/Kavorix)
+- [`@mowhn`](https://github.com/mowhn)
 - [`@zenithscholar`](https://github.com/zenithscholar)
 - [`@msodiq19`](https://github.com/msodiq19)
-- [`@Daniolet`](https://github.com/Daniolet)
 - [`@alexrein914`](https://github.com/alexrein914)
 - [`@Kevindevstar`](https://github.com/Kevindevstar)
 - [`@Salvelop07`](https://github.com/Salvelop07)
 - [`@edge2ai`](https://github.com/edge2ai)
 - [`@brainy989`](https://github.com/brainy989)
-- [`@DragonLee321`](https://github.com/DragonLee321)
 
 ## 📕 My Latest Gists
 
 - [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (2 months ago)
 - [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (2 months ago)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (2 months ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (3 months ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (3 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
@@ -198,14 +198,14 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
