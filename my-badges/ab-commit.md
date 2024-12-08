@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;ab&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/okp4/actions/commit/abbfd8e0091c8e4adf8283e39a86e02e06894b62"><strong>ab</strong>bfd8e0091c8e4adf8283e39a86e02e06894b62</a>
+- <a href="https://github.com/ccamel/playground-binding.scala/commit/ab19fbd0b1c3b8f2f6a2825ba3de10436dbeb366"><strong>ab</strong>19fbd0b1c3b8f2f6a2825ba3de10436dbeb366</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

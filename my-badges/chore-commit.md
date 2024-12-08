@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/bot-anik/bot-anik/commit/f4dafc03809b7025f6284bff037a2aa3d549dcf4">f4dafc0</a>: chore(project): configure markdown-lint with standard options
+- <a href="https://github.com/ccamel/ghdid/commit/689b7c51df3556765d2ee6d02e7308c443221ff6">689b7c5</a>: chore(project): adopt BSD 3-Clause License
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
