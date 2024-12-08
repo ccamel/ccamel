@@ -114,29 +114,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`docknetwork/vc-schemas`](https://github.com/docknetwork/vc-schemas) (3 days ago) • A collection of Verifaible Credential schemas/templates/examples
-- [`prometheus/prometheus`](https://github.com/prometheus/prometheus) (3 days ago) • The Prometheus monitoring system and time series database.
-- [`zenopie/totp-auth-contract`](https://github.com/zenopie/totp-auth-contract) (4 days ago)
-- [`lobehub/lobe-chat`](https://github.com/lobehub/lobe-chat) (4 days ago) • 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
-- [`meinside/telegram-bot-go`](https://github.com/meinside/telegram-bot-go) (4 days ago) • Telegram Bot API wrapper for Golang
-- [`rust-bakery/nom`](https://github.com/rust-bakery/nom) (5 days ago) • Rust parser combinator framework
-- [`rust-rdf/rdf.rs`](https://github.com/rust-rdf/rdf.rs) (5 days ago) • RDF.rs is a pure-Rust library for working with Resource Description Framework (RDF) data.
-- [`rdilweb/docusaurus-plugin-remote-content`](https://github.com/rdilweb/docusaurus-plugin-remote-content) (5 days ago) • A Docusaurus plugin to download content from remote sources when it is needed.
-- [`gracefullight/docusaurus-plugins`](https://github.com/gracefullight/docusaurus-plugins) (5 days ago) • Enhance your Docusaurus website with this collection of script plugins. This monorepo contains easy-to-install and configure plugins that will help you get the most out of your website. 📚🦖
-- [`web-infra-dev/rspack`](https://github.com/web-infra-dev/rspack) (5 days ago) • The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [`skip-mev/go-fast-contracts`](https://github.com/skip-mev/go-fast-contracts) (2 days ago)
+- [`ai16z/eliza`](https://github.com/ai16z/eliza) (3 days ago) • Autonomous agents for everyone
+- [`tickbh/rbtree-rs`](https://github.com/tickbh/rbtree-rs) (5 days ago) • The rbtree for Rust
+- [`extism/go-pdk`](https://github.com/extism/go-pdk) (5 days ago) • Extism Plug-in Development Kit (PDK) for Go
+- [`reworkd/AgentGPT`](https://github.com/reworkd/AgentGPT) (6 days ago) • 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [`aidenybai/react-scan`](https://github.com/aidenybai/react-scan) (1 week ago) • Scan for React performance issues and eliminate slow renders in your app
+- [`edn-format/edn`](https://github.com/edn-format/edn) (1 week ago) • Extensible Data Notation
+- [`docknetwork/vc-schemas`](https://github.com/docknetwork/vc-schemas) (1 week ago) • A collection of Verifaible Credential schemas/templates/examples
+- [`prometheus/prometheus`](https://github.com/prometheus/prometheus) (1 week ago) • The Prometheus monitoring system and time series database.
+- [`zenopie/totp-auth-contract`](https://github.com/zenopie/totp-auth-contract) (1 week ago)
 
 ## 👯 My recent Followers
 
+- [`@erikerik116`](https://github.com/erikerik116)
+- [`@amirebadi21`](https://github.com/amirebadi21)
+- [`@samsorrahman`](https://github.com/samsorrahman)
 - [`@samanes11`](https://github.com/samanes11)
-- [`@Kavorix`](https://github.com/Kavorix)
 - [`@mowhn`](https://github.com/mowhn)
 - [`@zenithscholar`](https://github.com/zenithscholar)
 - [`@msodiq19`](https://github.com/msodiq19)
 - [`@alexrein914`](https://github.com/alexrein914)
-- [`@Kevindevstar`](https://github.com/Kevindevstar)
 - [`@Salvelop07`](https://github.com/Salvelop07)
 - [`@edge2ai`](https://github.com/edge2ai)
-- [`@brainy989`](https://github.com/brainy989)
 
 ## 📕 My Latest Gists
 
@@ -175,6 +175,8 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -196,15 +198,14 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
