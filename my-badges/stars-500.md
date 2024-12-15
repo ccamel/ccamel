@@ -13,14 +13,16 @@ Repos:
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
+* <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
 * <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★4</a>
 * <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★3</a>
-* <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
+* <a href="https://github.com/ccamel/stomp-client">ccamel/stomp-client: ★2</a>
+* <a href="https://github.com/ccamel/docs">ccamel/docs: ★2</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★1</a>
 * <a href="https://github.com/ccamel/crud">ccamel/crud: ★1</a>
 * <a href="https://github.com/ccamel/GMavenPlus">ccamel/GMavenPlus: ★1</a>
-* <a href="https://github.com/ccamel/stomp-client">ccamel/stomp-client: ★1</a>
+* <a href="https://github.com/ccamel/middlewares">ccamel/middlewares: ★1</a>
 * <a href="https://github.com/ccamel/jacoco-cov-badge-maven-plugin">ccamel/jacoco-cov-badge-maven-plugin: ★1</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★1</a>
 * <a href="https://github.com/ccamel/kube-opex-analytics">ccamel/kube-opex-analytics: ★1</a>
@@ -39,7 +41,6 @@ Repos:
 * <a href="https://github.com/ccamel/ghdid">ccamel/ghdid: ★1</a>
 * <a href="https://github.com/ccamel/javelin">ccamel/javelin: ★1</a>
 * <a href="https://github.com/ccamel/amimart">ccamel/amimart: ★1</a>
-* <a href="https://github.com/ccamel/docs">ccamel/docs: ★1</a>
 * <a href="https://github.com/ccamel/Nodeist">ccamel/Nodeist: ★1</a>
 * <a href="https://github.com/ccamel/awesome-ontology">ccamel/awesome-ontology: ★1</a>
 * <a href="https://github.com/antho31/okp4-ui-boilerplate">antho31/okp4-ui-boilerplate: ★1</a>
