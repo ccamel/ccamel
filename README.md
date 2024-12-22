@@ -92,16 +92,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/strangelove-ventures/heighliner">strangelove-ventures/heighliner</a></code>&nbsp;<a href="https://github.com/strangelove-ventures/heighliner/releases/tag/v1.7.1"><img align="center" alt="v1.7.1" src="https://img.shields.io/badge/v1.7.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;Repository of docker images for the node software of Cosmos chains</li>
+  <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v11.0.1"><img align="center" alt="v11.0.1" src="https://img.shields.io/badge/v11.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
+  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.26.0"><img align="center" alt="v0.26.0" src="https://img.shields.io/badge/v0.26.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v7.0.0"><img align="center" alt="v7.0.0" src="https://img.shields.io/badge/v7.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
-  <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v11.0.0"><img align="center" alt="v11.0.0" src="https://img.shields.io/badge/v11.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/axone-protocol/prolog">axone-protocol/prolog</a></code>&nbsp;<a href="https://github.com/axone-protocol/prolog/releases/tag/v2.0.1"><img align="center" alt="v2.0.1" src="https://img.shields.io/badge/v2.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧠 The Axone Prolog VM</li>
-  <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.25.0"><img align="center" alt="v0.25.0" src="https://img.shields.io/badge/v0.25.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
   <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
-  <li><code><a href="https://github.com/okp4/okp4-web">okp4/okp4-web</a></code>&nbsp;<a href="https://github.com/okp4/okp4-web/releases/tag/v2.16.0"><img align="center" alt="v2.16.0" src="https://img.shields.io/badge/v2.16.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌐 OKP4 web site</li>
 </ul>
 
 ## ✍️ My Latest Blog Posts
@@ -114,29 +114,29 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`kyren/gc-arena`](https://github.com/kyren/gc-arena) (1 day ago) • Incremental garbage collection from safe Rust
-- [`NicoNex/echotron`](https://github.com/NicoNex/echotron) (2 days ago) • An elegant and concurrent library for the Telegram bot API in Go.
-- [`cosmos/solidity-ibc-eureka`](https://github.com/cosmos/solidity-ibc-eureka) (2 days ago) • This is a work-in-progress solidity implementation of IBC Eureka.
-- [`decred/dcrwallet`](https://github.com/decred/dcrwallet) (2 days ago) • A secure Decred wallet daemon written in Go (golang).
-- [`ErikssonJoakim/hexagonal-user-application`](https://github.com/ErikssonJoakim/hexagonal-user-application) (2 days ago)
-- [`dtolnay/rust-toolchain`](https://github.com/dtolnay/rust-toolchain) (2 days ago) • Concise GitHub Action for installing a Rust toolchain
-- [`keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Arduino`](https://github.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Arduino) (2 days ago)
-- [`semantic-release-plus/semantic-release-plus`](https://github.com/semantic-release-plus/semantic-release-plus) (2 days ago) • semantic-release-plus monorepo to build and publish all semantic-release related repositories
-- [`pest-parser/pest`](https://github.com/pest-parser/pest) (3 days ago) • The Elegant Parser
-- [`kevinmehall/rust-peg`](https://github.com/kevinmehall/rust-peg) (3 days ago) • Parsing Expression Grammar (PEG) parser generator for Rust
+- [`gampleman/elm-review-derive`](https://github.com/gampleman/elm-review-derive) (1 day ago) • Generate code for json encoders/decoders, codecs, fuzzers, generators, and more
+- [`twpayne/chezmoi`](https://github.com/twpayne/chezmoi) (1 day ago) • Manage your dotfiles across multiple diverse machines, securely.
+- [`lukasmasuch/best-of-crypto`](https://github.com/lukasmasuch/best-of-crypto) (1 day ago) • 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.
+- [`github/gh-skyline`](https://github.com/github/gh-skyline) (1 day ago) • A GitHub CLI extension to generate a 3D model of your GitHub contribution history
+- [`dwayne/elm-conduit`](https://github.com/dwayne/elm-conduit) (2 days ago) • Conduit, an Elm SPA for RealWorld&#39;s Medium.com clone.
+- [`chshersh/chshersh.github.io`](https://github.com/chshersh/chshersh.github.io) (2 days ago) • :yellow_heart: My website
+- [`bandprotocol/chain`](https://github.com/bandprotocol/chain) (2 days ago) • BandChain blockchain reference implementation
+- [`citizenweb3/validatorinfo`](https://github.com/citizenweb3/validatorinfo) (2 days ago) • Multichain, POW and POS blockchain explorer, dashboard and aggregator. Providing analytics and real-time metrics on networks, validators, mining pools and tokens.
+- [`argumentcomputer/zk-light-clients`](https://github.com/argumentcomputer/zk-light-clients) (2 days ago) • A collection of ZK light client libraries for various blockchains
+- [`objectionary/eo`](https://github.com/objectionary/eo) (2 days ago) • EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-calculus
 
 ## 👯 My recent Followers
 
+- [`@devshazam`](https://github.com/devshazam)
+- [`@yyle88`](https://github.com/yyle88)
+- [`@frieren-mage`](https://github.com/frieren-mage)
+- [`@ipqwery`](https://github.com/ipqwery)
+- [`@djvelimir`](https://github.com/djvelimir)
+- [`@bambangkred`](https://github.com/bambangkred)
+- [`@artob`](https://github.com/artob)
 - [`@joe-mcintyre`](https://github.com/joe-mcintyre)
 - [`@Amila325424`](https://github.com/Amila325424)
 - [`@1501henify`](https://github.com/1501henify)
-- [`@cgrundman`](https://github.com/cgrundman)
-- [`@XiaomingX`](https://github.com/XiaomingX)
-- [`@erikerik116`](https://github.com/erikerik116)
-- [`@amirebadi21`](https://github.com/amirebadi21)
-- [`@samanes11`](https://github.com/samanes11)
-- [`@mowhn`](https://github.com/mowhn)
-- [`@zenithscholar`](https://github.com/zenithscholar)
 
 ## 📕 My Latest Gists
 
@@ -175,6 +175,8 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -194,18 +196,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 9 my own repositories." title="I&apos;ve starred 9 my own repositories." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
