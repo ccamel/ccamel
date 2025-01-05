@@ -92,6 +92,7 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 <ul>
 
+  <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.8.0"><img align="center" alt="v3.8.0" src="https://img.shields.io/badge/v3.8.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
   <li><code><a href="https://github.com/strangelove-ventures/heighliner">strangelove-ventures/heighliner</a></code>&nbsp;<a href="https://github.com/strangelove-ventures/heighliner/releases/tag/v1.7.1"><img align="center" alt="v1.7.1" src="https://img.shields.io/badge/v1.7.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;Repository of docker images for the node software of Cosmos chains</li>
   <li><code><a href="https://github.com/axone-protocol/axoned">axone-protocol/axoned</a></code>&nbsp;<a href="https://github.com/axone-protocol/axoned/releases/tag/v11.0.1"><img align="center" alt="v11.0.1" src="https://img.shields.io/badge/v11.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;⛓️ Axone blockchain 💫</li>
   <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.26.0"><img align="center" alt="v0.26.0" src="https://img.shields.io/badge/v0.26.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
@@ -99,7 +100,6 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
   <li><code><a href="https://github.com/axone-protocol/prolog">axone-protocol/prolog</a></code>&nbsp;<a href="https://github.com/axone-protocol/prolog/releases/tag/v2.0.1"><img align="center" alt="v2.0.1" src="https://img.shields.io/badge/v2.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧠 The Axone Prolog VM</li>
   <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
-  <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.7.0"><img align="center" alt="v3.7.0" src="https://img.shields.io/badge/v3.7.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
   <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
   <li><code><a href="https://github.com/2-alchemists/krossboard-ui">2-alchemists/krossboard-ui</a></code>&nbsp;<a href="https://github.com/2-alchemists/krossboard-ui/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud &amp; Cross-Distribution Kubernetes Usage Accounting &amp; Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, &amp; vanilla distros.</li>
 </ul>
@@ -114,35 +114,35 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) (2 days ago) • 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [`go-vela/ui`](https://github.com/go-vela/ui) (3 days ago) • Web UI for Vela (Target&#39;s official Pipeline Automation Framework)
-- [`amblafont/graph-editor-web`](https://github.com/amblafont/graph-editor-web) (3 days ago) • An online graph editor written in Elm
-- [`Blockstream/Jade`](https://github.com/Blockstream/Jade) (5 days ago) • Jade hardware wallet
-- [`lucamug/functional-pacman`](https://github.com/lucamug/functional-pacman) (5 days ago)
-- [`geeksforsocialchange/the-trans-dimension`](https://github.com/geeksforsocialchange/the-trans-dimension) (5 days ago) • The Trans Dimension is an online community hub connecting trans communities in the UK.
-- [`notional-labs/dig`](https://github.com/notional-labs/dig) (5 days ago) • Dig: Governance
-- [`LexiFi/ocaml-vdom`](https://github.com/LexiFi/ocaml-vdom) (6 days ago) • Elm architecture and (V)DOM for OCaml
-- [`Rafaeltheraven/extendable-data`](https://github.com/Rafaeltheraven/extendable-data) (6 days ago) • A set of rust macros that allows you to specify data that can be &#34;extended&#34; or inherited from.
-- [`nomcopter/react-mosaic`](https://github.com/nomcopter/react-mosaic) (6 days ago) • A React tiling window manager
+- [`teambenny/goetl`](https://github.com/teambenny/goetl) (1 day ago)
+- [`gocarina/gocsv`](https://github.com/gocarina/gocsv) (2 days ago) • The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
+- [`birdayz/kaf`](https://github.com/birdayz/kaf) (2 days ago) • Modern CLI for Apache Kafka, written in Go.
+- [`rare-magma/github-exporter`](https://github.com/rare-magma/github-exporter) (2 days ago) • CLI tool that uploads the Github traffic and statistics API data to InfluxDB on a daily basis
+- [`ncruces/go-sqlite3`](https://github.com/ncruces/go-sqlite3) (2 days ago) • Go bindings to SQLite using wazero
+- [`CovenantSQL/CovenantSQL`](https://github.com/CovenantSQL/CovenantSQL) (2 days ago) • A decentralized, trusted, high performance, SQL database with blockchain features
+- [`statelyai/xstate`](https://github.com/statelyai/xstate) (3 days ago) • Actor-based state management &amp; orchestration for complex app logic.
+- [`Aircoookie/WLED`](https://github.com/Aircoookie/WLED) (4 days ago) • Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) (1 week ago) • 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [`go-vela/ui`](https://github.com/go-vela/ui) (1 week ago) • Web UI for Vela (Target&#39;s official Pipeline Automation Framework)
 
 ## 👯 My recent Followers
 
-- [`@MohamedKrd`](https://github.com/MohamedKrd)
-- [`@NitrixXero`](https://github.com/NitrixXero)
-- [`@khvci`](https://github.com/khvci)
-- [`@deltadash2`](https://github.com/deltadash2)
-- [`@saloskilo`](https://github.com/saloskilo)
-- [`@git0802`](https://github.com/git0802)
-- [`@hasanalkaf3`](https://github.com/hasanalkaf3)
-- [`@iamrohitm`](https://github.com/iamrohitm)
-- [`@PixelsEngineer`](https://github.com/PixelsEngineer)
-- [`@dovvvv`](https://github.com/dovvvv)
+- [`@bludnic`](https://github.com/bludnic)
+- [`@j0shua-daniel`](https://github.com/j0shua-daniel)
+- [`@Bikmandjuma`](https://github.com/Bikmandjuma)
+- [`@omarsoufiane`](https://github.com/omarsoufiane)
+- [`@itsKayWat`](https://github.com/itsKayWat)
+- [`@deepakcode21`](https://github.com/deepakcode21)
+- [`@karr-x1`](https://github.com/karr-x1)
+- [`@arash-hacker`](https://github.com/arash-hacker)
+- [`@bimehasia25815`](https://github.com/bimehasia25815)
+- [`@kourosh07`](https://github.com/kourosh07)
 
 ## 📕 My Latest Gists
 
 - [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (3 months ago)
 - [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (3 months ago)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (3 months ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (4 months ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (3 years ago)
 - [The Daily Sync: A 15-Minute Power-Up for the TechTeam](https://gist.github.com/fa0787e8ee2ddb08c2010282caa35d92) (3 years ago)
@@ -175,6 +175,8 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -194,19 +196,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 9 my own repositories." title="I&apos;ve starred 9 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
