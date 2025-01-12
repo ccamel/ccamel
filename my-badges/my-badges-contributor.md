@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="128">
-<strong>I contributed to &lt;https://github.com/my-badges/my-badges&gt;!</strong>
+<img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="128">
+<strong>I contributed to My Badges!</strong>
 <br><br>
 
 Pull requests:
