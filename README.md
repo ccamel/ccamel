@@ -114,34 +114,34 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 
 ## ⭐ Recent Stars
 
-- [`FujiwaraChoki/MoneyPrinterV2`](https://github.com/FujiwaraChoki/MoneyPrinterV2) (1 day ago) • Automate the process of making money online.
-- [`Keeper-Security/Commander`](https://github.com/Keeper-Security/Commander) (2 days ago) • Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
-- [`NVIDIA/Cosmos`](https://github.com/NVIDIA/Cosmos) (2 days ago) • Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics &amp; AV labs. Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
-- [`0xAlcibiades/miniref`](https://github.com/0xAlcibiades/miniref) (2 days ago) • An example of a notes app implemented with leptos
-- [`celestia-island/hikari`](https://github.com/celestia-island/hikari) (3 days ago) • The Frontend of Everything
-- [`browser-use/web-ui`](https://github.com/browser-use/web-ui) (3 days ago) • Run AI Agent in your browser.
-- [`Property404/its-a-unix-system`](https://github.com/Property404/its-a-unix-system) (3 days ago) • Web-based terminal
-- [`manuel-woelker/rust-vfs`](https://github.com/manuel-woelker/rust-vfs) (3 days ago) • A virtual filesystem for Rust
-- [`sassman/t-rec-rs`](https://github.com/sassman/t-rec-rs) (3 days ago) • Blazingly fast terminal recorder that generates animated gif images for the web written in rust
-- [`RustForWeb/lucide`](https://github.com/RustForWeb/lucide) (3 days ago) • Rust port of Lucide with support for Dioxus, Leptos and Yew.
+- [`aduros/wasm4`](https://github.com/aduros/wasm4) (2 days ago) • Build retro games using WebAssembly for a fantasy console.
+- [`xmake-io/xmake`](https://github.com/xmake-io/xmake) (5 days ago) • 🔥 A cross-platform build utility based on Lua
+- [`erikw/vim-keybindings-everywhere-the-ultimate-list`](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) (5 days ago) • The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
+- [`0xPlaygrounds/rig`](https://github.com/0xPlaygrounds/rig) (5 days ago) • ⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents
+- [`snarkify/sirius`](https://github.com/snarkify/sirius) (5 days ago) • A Plonkish folding framework for Incrementally Verifiable Computation (IVC).
+- [`DREwX-code/DINOcheat`](https://github.com/DREwX-code/DINOcheat) (1 week ago) • An incredible script for dino chrome with several unique functions.
+- [`axone-protocol/keplr-chain-registry`](https://github.com/axone-protocol/keplr-chain-registry) (1 week ago) • Protocol for Integrating Non-Native Chains to Keplr
+- [`FujiwaraChoki/MoneyPrinterV2`](https://github.com/FujiwaraChoki/MoneyPrinterV2) (1 week ago) • Automate the process of making money online.
+- [`Keeper-Security/Commander`](https://github.com/Keeper-Security/Commander) (1 week ago) • Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
+- [`NVIDIA/Cosmos`](https://github.com/NVIDIA/Cosmos) (1 week ago) • Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics &amp; AV labs. Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 
 ## 👯 My recent Followers
 
+- [`@Ravi-Dahiya-00`](https://github.com/Ravi-Dahiya-00)
+- [`@LinuxPath`](https://github.com/LinuxPath)
+- [`@Chain-Reactor`](https://github.com/Chain-Reactor)
+- [`@befoulers`](https://github.com/befoulers)
+- [`@opsmanager1`](https://github.com/opsmanager1)
+- [`@Kwynto`](https://github.com/Kwynto)
+- [`@XiaomingX`](https://github.com/XiaomingX)
+- [`@Benjamin-cup`](https://github.com/Benjamin-cup)
+- [`@Aramayis331`](https://github.com/Aramayis331)
 - [`@gustavoparedes1978`](https://github.com/gustavoparedes1978)
-- [`@SamHillierDev`](https://github.com/SamHillierDev)
-- [`@seeking1`](https://github.com/seeking1)
-- [`@Vikash21s`](https://github.com/Vikash21s)
-- [`@HexaDev-De`](https://github.com/HexaDev-De)
-- [`@Iqbolshoh`](https://github.com/Iqbolshoh)
-- [`@xxspell`](https://github.com/xxspell)
-- [`@NoushinB`](https://github.com/NoushinB)
-- [`@Marina-Martirosyan`](https://github.com/Marina-Martirosyan)
-- [`@KauaAissa`](https://github.com/KauaAissa)
 
 ## 📕 My Latest Gists
 
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (3 months ago)
-- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (3 months ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (4 months ago)
+- [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (4 months ago)
 - [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (4 months ago)
 - [nemeton-1 druid registration progress](https://gist.github.com/28698b396aaf764698c483f54c9f35bc) (2 years ago)
 - [🗂 My various configuration files](https://gist.github.com/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c) (3 years ago)
@@ -175,6 +175,8 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -194,19 +196,16 @@ Hello there! I'm a seasoned software professional with over 20 years of diverse 
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 9 my own repositories." title="I&apos;ve starred 9 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
