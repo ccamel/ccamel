@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★447</a>
+* <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★448</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★42</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★32</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★20</a>
@@ -18,18 +18,13 @@ Repos:
 * <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★2</a>
-* <a href="https://github.com/ccamel/jacoco-cov-badge-maven-plugin">ccamel/jacoco-cov-badge-maven-plugin: ★2</a>
-* <a href="https://github.com/ccamel/jdatauri">ccamel/jdatauri: ★2</a>
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
 * <a href="https://github.com/ccamel/silk">ccamel/silk: ★1</a>
-* <a href="https://github.com/ccamel/plantuml">ccamel/plantuml: ★1</a>
 * <a href="https://github.com/ccamel/crud">ccamel/crud: ★1</a>
 * <a href="https://github.com/ccamel/GMavenPlus">ccamel/GMavenPlus: ★1</a>
 * <a href="https://github.com/ccamel/stomp-client">ccamel/stomp-client: ★1</a>
-* <a href="https://github.com/ccamel/piper">ccamel/piper: ★1</a>
-* <a href="https://github.com/ccamel/plantuml-maven-plugin">ccamel/plantuml-maven-plugin: ★1</a>
+* <a href="https://github.com/ccamel/jacoco-cov-badge-maven-plugin">ccamel/jacoco-cov-badge-maven-plugin: ★1</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★1</a>
-* <a href="https://github.com/ccamel/fluid-json">ccamel/fluid-json: ★1</a>
 * <a href="https://github.com/ccamel/kube-opex-analytics">ccamel/kube-opex-analytics: ★1</a>
 * <a href="https://github.com/ccamel/fission">ccamel/fission: ★1</a>
 * <a href="https://github.com/ccamel/utask">ccamel/utask: ★1</a>
