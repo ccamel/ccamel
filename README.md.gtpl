@@ -21,9 +21,9 @@ Today, I'm passionate about web3.0, decentralized ecosystems, and AI-driven inno
 
 ## What I'm building now 🏗️
 
-As the CTO of [Axone](https://axone.xyz) (:octocat: [repo](https://github.com/axone-protocol/)) (formerly OKP4 (:octocat: [repo](https://github.com/okp4/))), I'm leading the development of a universal protocol designed to connect, share, and monetize resources in the AI stack. Built with [Cosmos SDK](https://cosmos.network/) and [CosmWasm](https://cosmwasm.com/), [Axone](https://axone.xyz) is my contribution to a more open, collaborative, and decentralized future.
+As the CTO of [Axone](https://axone.xyz) ( :octocat: [repo](https://github.com/axone-protocol/)) (formerly OKP4 ( :octocat: [repo](https://github.com/okp4/))), I'm leading the development of a universal protocol designed to connect, share, and monetize resources in the AI stack. Built with [Cosmos SDK](https://cosmos.network/) and [CosmWasm](https://cosmwasm.com/), [Axone](https://axone.xyz) is my contribution to a more open, collaborative, and decentralized future.
 
-I'm also the co-founder of [2Alchemist](https://krossboard.app/) (:octocat: [repo](https://github.com/2-alchemists/)), where we're building innovative tools to simplify and enhance cloud-native workflows.
+I'm also the co-founder of [2Alchemist](https://krossboard.app/) ( :octocat: [repo](https://github.com/2-alchemists/)), where we're building innovative tools to simplify and enhance cloud-native workflows.
 
 ## My superpower 🤓
 
