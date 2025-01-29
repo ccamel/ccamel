@@ -30,7 +30,7 @@ I'm also the co-founder of [2Alchemist](https://krossboard.app/) ( :octocat: [re
 I thrive at the intersection of innovation and pragmatism, balancing strategic vision with hands-on execution. Whether I'm guiding teams or diving into the code, I ensure that complex systems are not only architecturally sound but also serve real-world needs. My approach is rooted in:
 
 - *Open-source values*: Code as a common good, open and accessible to all.
-- *Egoless programming*: Collaboration, humility, and teamwork drive success.
+- *[Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)*: Collaboration, humility, and teamwork drive success.
 - *Technical excellence*: Crafting elegant, purposeful solutions that stand the test of time.
 - *Mentorship and growth*: Empowering teams through autonomy, mentorship, and shared learning.
 
