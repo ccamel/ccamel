@@ -1,6 +1,6 @@
 [![guru-meditation](./guru-meditation.png)](https://github.com/ccamel?tab=repositories)
 
-# Hey 👋, I'm Chris!
+# 👋 Hello, world!
 
 <a href="https://linkedin.com/in/christophe-camel/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -15,29 +15,35 @@
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
-## Glad to see you here!
+I'm a software craftsman and CTO with 20+ years of experience building innovative solutions across industries. From avionics to AI, blockchain, and cloud-native systems, I've dedicated my career to solving complex problems with elegant, purposeful technology.
 
-Hello there! I'm a seasoned software professional with over 20 years of diverse experience in the software industry, traversing domains from avionics and space to video production and industrial maintenance. Throughout my career, I've evolved from a junior developer 👶 to **CTO** , with stops as a full-stack developer and **software architect** along the way. My expertise lies in crafting **cloud-native** and **big data** solutions, underscored by my recent work designing a robust **SaaS** cloud solution with [Kubernetes](https://kubernetes.io/) for a French tech company.
+Today, I'm passionate about web3.0, decentralized ecosystems, and AI-driven innovation. I lead the development of the [Axone protocol](https://axone.xyz), a universal protocol for connecting and monetizing resources in the AI stack, and co-founded [2Alchemist](https://krossboard.app/), where we optimize the usage of all your clusters over time.
 
-- _Current Focus:_ I'm deeply engrossed in the exciting world of cryptocurrency, **blockchain ecosystems** ⛓️, and **web3.0** 🌐 technologies. I'm at the helm of developing the [Axone protocol](https://axone.xyz/), a cutting-edge universal protocol aimed at revolutionizing how resources in the AI stack are connected, shared, and monetized - leveraging [Cosmos SDK](https://cosmos.network/) and [CosmWasm](https://cosmwasm.com/) technologies.
+## What I'm building now 🏗️
 
-- _Technical Palette:_ My passion for coding ignites my love ❤️ for functional programming languages, including [Scala](https://www.scala-lang.org/), [Erlang](https://www.erlang.org/), [Elm](https://elm-lang.org/), and [Haskell](https://www.haskell.org/). This is in addition to my proficiency in [Go](https://go.dev), [Kotlin](https://kotlinlang.org), and [Rust](https://www.rust-lang.org). I'm an advocate for [Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/), believing firmly in the power of collaboration and teamwork to drive project success. 🤝
+As the CTO of [Axone](https://axone.xyz) (:octocat: [repo](https://github.com/axone-protocol/)) (formerly OKP4 (:octocat: [repo](https://github.com/okp4/))), I'm leading the development of a universal protocol designed to connect, share, and monetize resources in the AI stack. Built with [Cosmos SDK](https://cosmos.network/) and [CosmWasm](https://cosmwasm.com/), [Axone](https://axone.xyz) is my contribution to a more open, collaborative, and decentralized future.
 
-> I'm always on the lookout for like-minded individuals passionate about pushing the boundaries of technology. Whether you're interested in contributing to the [Axone protocol](https://axone.xyz/) or simply wish to exchange ideas on functional programming and the future of web3.0, let's connect and explore the possibilities together.
+I'm also the co-founder of [2Alchemist](https://krossboard.app/) (:octocat: [repo](https://github.com/2-alchemists/)), where we're building innovative tools to simplify and enhance cloud-native workflows.
 
-## Rapidfire
+## My superpower 🤓
 
-- 🧔‍♂️ I'm currently the CTO of [Axone](https://axone.xyz) ([:octocat: repo](https://github.com/axone-protocol/)) (formerly [OKP4](https://okp4.network) ([:octocat: repo](https://github.com/okp4/))).
+I thrive at the intersection of innovation and pragmatism, balancing strategic vision with hands-on execution. Whether I'm guiding teams or diving into the code, I ensure that complex systems are not only architecturally sound but also serve real-world needs. My approach is rooted in:
 
-- 💥 I'm the co-founder of [2Alchemist](https://krossboard.app) ([:octocat: repo](https://github.com/2-alchemists/)).
+- *Open-source values*: Code as a common good, open and accessible to all.
+- *Egoless programming*: Collaboration, humility, and teamwork drive success.
+- *Technical excellence*: Crafting elegant, purposeful solutions that stand the test of time.
+- *Mentorship and growth*: Empowering teams through autonomy, mentorship, and shared learning.
 
-- 👨‍👩‍👦 I'm the father of a lovely boy.
+## My technical palette 👨‍💻
 
-- 🐈🐈‍⬛ I have 2 cats!
+My passion for coding ignites my love ❤️ for functional programming languages, including [Scala](https://www.scala-lang.org/), [Erlang](https://www.erlang.org/), [Elm](https://elm-lang.org/), and [Haskell](https://www.haskell.org/). This is in addition to my proficiency in [Go](https://go.dev), [Rust](https://www.rust-lang.org) and [Kotlin](https://kotlinlang.org).
 
-- 🧑‍💻 I don't consider myself geek but my adventure with computers started at age 10 with the [Hector 2HR](<https://en.wikipedia.org/wiki/Hector_(microcomputer)>) followed by the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) a few years later.
+## A little about me 🧙‍♂️
 
-- 📆 I'm nostalgic for the 80's, and yes, I love vintage and the charm of objects from past decades.
+- 👨‍👩‍👦 I'm the proud father of a lovely boy.
+- 🐈🐈‍⬛ I share my home with two adorable cats.
+- 🧑‍💻 My adventure with computers began at age 10 with the [Hector 2HR](<https://en.wikipedia.org/wiki/Hector_(microcomputer)>) and later the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500).
+- 📆 I'm nostalgic for the 80s and have a soft spot for vintage tech and the charm of objects from past decades.
 
 <br/>
 
