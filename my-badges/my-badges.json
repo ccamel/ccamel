@@ -143,7 +143,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1498 times)\n2. update (used 1123 times)\n3. :arrow_up: (used 869 times)\n4. request (used 724 times)\n5. merge (used 722 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1500 times)\n2. update (used 1125 times)\n3. :arrow_up: (used 869 times)\n4. request (used 725 times)\n5. merge (used 723 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/status/pull/8\">#8</a>: :wrench: Adopt gitmoji (+ some others upptime emojis)\n- <a href=\"https://github.com/axone-protocol/prolog/pull/17\">#17</a>: Add (preliminary) support for dicts structure\n- <a href=\"https://github.com/axone-protocol/community/pull/5\">#5</a>: Docs/reorganize discussions categories\n- <a href=\"https://github.com/axone-protocol/prolog/pull/8\">#8</a>: Add support for hooks in bytecode execution",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/prolog/pull/17\">#17</a>: Add (preliminary) support for dicts structure\n- <a href=\"https://github.com/axone-protocol/community/pull/5\">#5</a>: Docs/reorganize discussions categories\n- <a href=\"https://github.com/axone-protocol/prolog/pull/8\">#8</a>: Add support for hooks in bytecode execution",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
