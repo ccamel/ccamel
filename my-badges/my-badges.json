@@ -143,7 +143,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1505 times)\n2. update (used 1130 times)\n3. :arrow_up: (used 873 times)\n4. request (used 726 times)\n5. merge (used 724 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1507 times)\n2. update (used 1131 times)\n3. :arrow_up: (used 873 times)\n4. request (used 726 times)\n5. merge (used 724 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -222,5 +222,12 @@
     "desc": "Happy February 29th! I committed on a Leap Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/fd6b82d2ce59f5033510d9a554d10b0f343895ce\">fd6b82d</a>\n- <a href=\"https://github.com/ccamel/go-graphql-subscription-example/commit/6700f82f5ce5709bbdf33eb3fa01f8b4bebc9c36\">6700f82</a>\n- <a href=\"https://github.com/ccamel/go-graphql-subscription-example/commit/2723f1e7139ac0fa2938b6de5c7224617c40f2b5\">2723f1e</a>\n- <a href=\"https://github.com/ccamel/go-graphql-subscription-example/commit/0dad3c2affbab9a54368f3d1feea4768d46909a6\">0dad3c2</a>\n- <a href=\"https://github.com/ccamel/go-graphql-subscription-example/commit/7ecd9ff55ed1afde9b1beba8bd831c3988c76c38\">7ecd9ff</a>",
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/c295cbb341bee3ab8e3cc5956b91fb012c4ea51c\">c295cbb</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/7fee4017e2af55f261c4a8b746555d7d039c4114\">7fee401</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/db9a5b6aacf0475c60a0aab7162adbc8b5557b18\">db9a5b6</a>\n- <a href=\"https://github.com/ccamel/playground-binding.scala/commit/eb3961c3a9dc923d1366368f4ebcc78dfdc263a5\">eb3961c</a>\n- <a href=\"https://github.com/ccamel/playground-binding.scala/commit/356e0e6b71ec974567b95b8d743f0671f18652ec\">356e0e6</a>\n- <a href=\"https://github.com/ccamel/playground-binding.scala/commit/03c7bb114512ce2852fe761959c3c9eb410a25c5\">03c7bb1</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
