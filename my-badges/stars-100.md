@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★20</a>
+* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★21</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★15</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★7</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
