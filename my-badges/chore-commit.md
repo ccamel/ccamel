@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/ghdid/commit/689b7c51df3556765d2ee6d02e7308c443221ff6">689b7c5</a>: chore(project): adopt BSD 3-Clause License
+- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/commit/27792bcbe60aa800dd0b62975cec1a5b6620f9d8">27792bc</a>: chore(project): remove unused ignore-words-list from codespell config
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
