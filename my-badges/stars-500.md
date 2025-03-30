@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★42</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★32</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★21</a>
-* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★15</a>
+* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★16</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★7</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
@@ -44,6 +44,7 @@ Repos:
 * <a href="https://github.com/ccamel/Nodeist">ccamel/Nodeist: ★1</a>
 * <a href="https://github.com/ccamel/awesome-ontology">ccamel/awesome-ontology: ★1</a>
 * <a href="https://github.com/antho31/okp4-ui-boilerplate">antho31/okp4-ui-boilerplate: ★1</a>
+* <a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
