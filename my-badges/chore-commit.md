@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/commit/27792bcbe60aa800dd0b62975cec1a5b6620f9d8">27792bc</a>: chore(project): remove unused ignore-words-list from codespell config
+- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/commit/8a872fcef39b0d9abf1034092d94000d254792ff">8a872fc</a>: chore(release): perform release 1.0.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
