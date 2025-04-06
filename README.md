@@ -103,6 +103,8 @@ Love _designing_. Love _architecting_. Love _functional languages_.
 
 <ul>
 
+  <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.1.0"><img align="center" alt="v1.1.0" src="https://img.shields.io/badge/v1.1.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
+  <li><code><a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp</a></code>&nbsp;<a href="https://github.com/ccamel/erlang-event-sourcing-xp/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧪 Experimenting with Event Sourcing in Erlang</li>
   <li><code><a href="https://github.com/strangelove-ventures/heighliner">strangelove-ventures/heighliner</a></code>&nbsp;<a href="https://github.com/strangelove-ventures/heighliner/releases/tag/v1.7.2"><img align="center" alt="v1.7.2" src="https://img.shields.io/badge/v1.7.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;Repository of docker images for the node software of Cosmos chains</li>
   <li><code><a href="https://github.com/axone-protocol/cosmos-extractor">axone-protocol/cosmos-extractor</a></code>&nbsp;<a href="https://github.com/axone-protocol/cosmos-extractor/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🌌 CLI tool for extracting diverse data from Cosmos chain snapshots</li>
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.8.0"><img align="center" alt="v3.8.0" src="https://img.shields.io/badge/v3.8.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
@@ -110,9 +112,7 @@ Love _designing_. Love _architecting_. Love _functional languages_.
   <li><code><a href="https://github.com/AbstractSDK/abstract">AbstractSDK/abstract</a></code>&nbsp;<a href="https://github.com/AbstractSDK/abstract/releases/tag/v0.26.0"><img align="center" alt="v0.26.0" src="https://img.shields.io/badge/v0.26.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The ultimate CosmWasm framework for modular Interchain applications.</li>
   <li><code><a href="https://github.com/axone-protocol/contracts">axone-protocol/contracts</a></code>&nbsp;<a href="https://github.com/axone-protocol/contracts/releases/tag/v7.0.0"><img align="center" alt="v7.0.0" src="https://img.shields.io/badge/v7.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📜 Smart contracts for the Axone protocol (powered by CosmWasm)</li>
   <li><code><a href="https://github.com/axone-protocol/prolog">axone-protocol/prolog</a></code>&nbsp;<a href="https://github.com/axone-protocol/prolog/releases/tag/v2.0.1"><img align="center" alt="v2.0.1" src="https://img.shields.io/badge/v2.0.1-gray?style=flat-square"></img></a>&nbsp;•&nbsp;🧠 The Axone Prolog VM</li>
-  <li><code><a href="https://github.com/axone-protocol/axone-sdk">axone-protocol/axone-sdk</a></code>&nbsp;<a href="https://github.com/axone-protocol/axone-sdk/releases/tag/v1.0.0"><img align="center" alt="v1.0.0" src="https://img.shields.io/badge/v1.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol</li>
   <li><code><a href="https://github.com/ichiban/prolog">ichiban/prolog</a></code>&nbsp;<a href="https://github.com/ichiban/prolog/releases/tag/v1.2.2"><img align="center" alt="v1.2.2" src="https://img.shields.io/badge/v1.2.2-gray?style=flat-square"></img></a>&nbsp;•&nbsp;The only reasonable scripting engine for Go.</li>
-  <li><code><a href="https://github.com/axone-protocol/ontology">axone-protocol/ontology</a></code>&nbsp;<a href="https://github.com/axone-protocol/ontology/releases/tag/v4.0.0"><img align="center" alt="v4.0.0" src="https://img.shields.io/badge/v4.0.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp;📙 The Axone Ontology</li>
 </ul>
 
 ## ✍️ My Latest Blog Posts
@@ -125,39 +125,39 @@ Love _designing_. Love _architecting_. Love _functional languages_.
 
 ## ⭐ Recent Stars
 
-- [`supabase-community/postgres-language-server`](https://github.com/supabase-community/postgres-language-server) (1 day ago) • A Language Server for Postgres
-- [`faisalsayed10/no-ghibli`](https://github.com/faisalsayed10/no-ghibli) (2 days ago) • No Ghibli on Twitter
-- [`vivax3794/cargo_bounds`](https://github.com/vivax3794/cargo_bounds) (2 days ago) • Checking that your dependency requirements are sound
-- [`NucleoidAI/Nucleoid`](https://github.com/NucleoidAI/Nucleoid) (3 days ago) • Neuro-Symbolic AI with Knowledge Graph | &#34;True Reasoning&#34; through data and logic 🌿🌱🐋🌍
-- [`dwayne/elm-trs2`](https://github.com/dwayne/elm-trs2) (4 days ago) • The Reasoned Schemer (2nd Edition) in Elm.
-- [`browser-use/browser-use`](https://github.com/browser-use/browser-use) (5 days ago) • Make websites accessible for AI agents
-- [`ignatov/intellij-erlang`](https://github.com/ignatov/intellij-erlang) (6 days ago) • Erlang IDE
-- [`joanrod/star-vector`](https://github.com/joanrod/star-vector) (6 days ago) • StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
-- [`ccamel/erlang-event-sourcing-xp`](https://github.com/ccamel/erlang-event-sourcing-xp) (1 week ago) • 🧪 Experimenting with Event Sourcing in Erlang
-- [`pydantic/pydantic-ai`](https://github.com/pydantic/pydantic-ai) (1 week ago) • Agent Framework / shim to use Pydantic with LLMs
+- [`bazelbuild/bazel`](https://github.com/bazelbuild/bazel) (1 day ago) • a fast, scalable, multi-language and extensible build system
+- [`mark3labs/mcphost`](https://github.com/mark3labs/mcphost) (2 days ago) • A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+- [`axone-protocol/axone-mcp`](https://github.com/axone-protocol/axone-mcp) (2 days ago) • 🤖 Axone’s MCP server – gateway to the dataverse for AI-powered tools
+- [`ashkulz/committers.top`](https://github.com/ashkulz/committers.top) (2 days ago) • CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
+- [`fetchai/genesis-fetchhub`](https://github.com/fetchai/genesis-fetchhub) (2 days ago) • repo for launching Stargate upgrade of Fetch.ai mainnet
+- [`awslabs/mcp`](https://github.com/awslabs/mcp) (2 days ago) • AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
+- [`metoro-io/mcp-golang`](https://github.com/metoro-io/mcp-golang) (3 days ago) • Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
+- [`evcc-io/evcc`](https://github.com/evcc-io/evcc) (4 days ago) • solar charging ☀️🚘
+- [`nvm-sh/nvm`](https://github.com/nvm-sh/nvm) (5 days ago) • Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [`hackclub/hcb`](https://github.com/hackclub/hcb) (5 days ago) • 🏦 The neobank built for nonprofits.
 
 ## 👯 My recent Followers
 
-- [`@tsurugi3333`](https://github.com/tsurugi3333)
-- [`@zenithscholar`](https://github.com/zenithscholar)
-- [`@PETROUNKNOWN`](https://github.com/PETROUNKNOWN)
-- [`@syedbilalalam001`](https://github.com/syedbilalalam001)
-- [`@GitRektify`](https://github.com/GitRektify)
-- [`@0vm`](https://github.com/0vm)
-- [`@Empiree`](https://github.com/Empiree)
-- [`@ashishkumar30`](https://github.com/ashishkumar30)
-- [`@DIMFLIX`](https://github.com/DIMFLIX)
-- [`@rnicholas0024`](https://github.com/rnicholas0024)
+- [`@helallao`](https://github.com/helallao)
+- [`@likhonsheikhofficial`](https://github.com/likhonsheikhofficial)
+- [`@d3v1sh`](https://github.com/d3v1sh)
+- [`@aniketdobriyal`](https://github.com/aniketdobriyal)
+- [`@vonDubenshire`](https://github.com/vonDubenshire)
+- [`@kingsleyesisi`](https://github.com/kingsleyesisi)
+- [`@lustangel`](https://github.com/lustangel)
+- [`@wanga90`](https://github.com/wanga90)
+- [`@YaiLung`](https://github.com/YaiLung)
+- [`@pinhe91`](https://github.com/pinhe91)
 
 ## 📕 My Latest Gists
 
-- [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (3 weeks ago)
+- [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (1 month ago)
 - [One-liner to conjure all Axone airdrop giga-chads — proof of participation on-chain (https://airdrop.axone.xyz)](https://gist.github.com/25a453db78023df8c8cd7bf9c20be800) (1 month ago)
-- [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (1 month ago)
+- [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (2 months ago)
 - [A collection of handy one-liners leveraging the Axoned CLI for interacting with the Axone blockchain](https://gist.github.com/44cbc7d8e42f183dcbc78c85ebf404d0) (2 months ago)
 - [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (6 months ago)
 - [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (6 months ago)
-- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (6 months ago)
+- [dendrite-1 testnet validators onboarding](https://gist.github.com/1350b948eaa0828757fc54b1e7c94f5d) (7 months ago)
 
 ## 📈 GitHub Stats
 
@@ -186,6 +186,8 @@ Love _designing_. Love _architecting_. Love _functional languages_.
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -205,20 +207,16 @@ Love _designing_. Love _architecting_. Love _functional languages_.
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
