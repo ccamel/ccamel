@@ -38,10 +38,11 @@ I operate at the event horizon of **innovation and pragmatism**, where strategy 
 
 ## Pigment palette
 
-Love *designing*. Love *architecting*. Love *functional languages*.
+Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, and _paradigms_.
 
-• On one hand: [Scala](https://www.scala-lang.org/), [Erlang](https://www.erlang.org/), [Elm](https://elm-lang.org/), and [Haskell](https://www.haskell.org/).<br/>
-• On the other: [Go](https://go.dev), [Rust](https://www.rust-lang.org) and [Kotlin](https://kotlinlang.org).
+• The Ancient — [Forth](<https://en.wikipedia.org/wiki/Forth_(programming_language)>), [Pascal](<https://en.wikipedia.org/wiki/Pascal_(programming_language)>), [Prolog](https://en.wikipedia.org/wiki/Prolog).<br/>
+• The Singular — [Erlang](https://www.erlang.org/), [Elm](https://elm-lang.org/), [Haskell](https://www.haskell.org/).<br/>
+• The Practical — [Go](https://go.dev), [Rust](https://www.rust-lang.org), [Scala](https://www.scala-lang.org/), [Kotlin](https://kotlinlang.org).<br/>
 
 ## The human in the Geek
 
