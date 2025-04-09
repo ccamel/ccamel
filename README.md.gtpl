@@ -98,7 +98,9 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
   <a href="https://www.rust-lang.org" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> </a>
 </p>
 
-💻 You can get an overview of my development environment 👉 [here](https://gist.github.com/ccamel/4b7d65cf2f7b9eb9cdb1c4a25cebdc4c).
+<br/>
+
+💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
 
 ## 🔭 Latest releases I've contributed to
 
