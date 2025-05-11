@@ -128,29 +128,29 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 ## ⭐ Recent Stars
 
-- [`hyperledger-labs/yui-relayer`](https://github.com/hyperledger-labs/yui-relayer) (2 days ago) • IBC Relayer implementations for heterogeneous blockchains
-- [`cocoindex-io/cocoindex`](https://github.com/cocoindex-io/cocoindex) (2 days ago) • ETL framework to turn your data AI-ready - with realtime incremental updates and support custom logic like lego.
-- [`ThePixelCrafted/chatgpt_de_zero`](https://github.com/ThePixelCrafted/chatgpt_de_zero) (2 days ago) • On recode ensemble ChatGPT de zéro sur ma chaîne YouTube
-- [`JackalLabs/jackal-mcp`](https://github.com/JackalLabs/jackal-mcp) (3 days ago) • Jackal&#39;s native Agentic AI built with Anthropic MCP
-- [`maplibre/martin`](https://github.com/maplibre/martin) (4 days ago) • Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
-- [`apache/arrow`](https://github.com/apache/arrow) (4 days ago) • Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-- [`wjdp/htmltest`](https://github.com/wjdp/htmltest) (4 days ago) • :white_check_mark: Test generated HTML for problems
-- [`gjtorikian/html-proofer`](https://github.com/gjtorikian/html-proofer) (4 days ago) • Test your rendered HTML files to make sure they&#39;re accurate.
-- [`ansible/awx`](https://github.com/ansible/awx) (5 days ago) • AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [`Bearer/bearer`](https://github.com/Bearer/bearer) (5 days ago) • Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+- [`discourse/discourse`](https://github.com/discourse/discourse) (2 days ago) • A platform for community discussion. Free, open, simple.
+- [`HandsOnLLM/Hands-On-Large-Language-Models`](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) (2 days ago) • Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34;
+- [`LuisThiamNye/ButteryTaskbar2`](https://github.com/LuisThiamNye/ButteryTaskbar2) (2 days ago) • Hide the taskbar completely when the Start Menu is not open.
+- [`Zehelein/pg-transactional-outbox`](https://github.com/Zehelein/pg-transactional-outbox) (2 days ago) • A library to implement the transactional outbox pattern for PostgreSQL, a message broker or event stream, and TypeScript.
+- [`kubetail-org/kubetail`](https://github.com/kubetail-org/kubetail) (3 days ago) • Real-time logging dashboard for Kubernetes (browser/terminal)
+- [`slidevjs/slidev`](https://github.com/slidevjs/slidev) (3 days ago) • Presentation Slides for Developers
+- [`PostgREST/postgrest`](https://github.com/PostgREST/postgrest) (3 days ago) • REST API for any Postgres database
+- [`AaronFriel/qmodem-4.51`](https://github.com/AaronFriel/qmodem-4.51) (3 days ago)
+- [`GoogleCloudPlatform/kubectl-ai`](https://github.com/GoogleCloudPlatform/kubectl-ai) (4 days ago) • AI powered Kubernetes Assistant
+- [`chonkie-inc/chonkie`](https://github.com/chonkie-inc/chonkie) (4 days ago) • 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library
 
 ## 👯 My recent Followers
 
+- [`@serkantolga`](https://github.com/serkantolga)
+- [`@alexdolbun`](https://github.com/alexdolbun)
+- [`@murapadev`](https://github.com/murapadev)
+- [`@YashGajjar7017`](https://github.com/YashGajjar7017)
+- [`@vladimirzhushma`](https://github.com/vladimirzhushma)
+- [`@devddine`](https://github.com/devddine)
+- [`@alejyoo`](https://github.com/alejyoo)
 - [`@GenesisOrison`](https://github.com/GenesisOrison)
 - [`@bounceru`](https://github.com/bounceru)
 - [`@partht1011`](https://github.com/partht1011)
-- [`@LUCASFRANKINC`](https://github.com/LUCASFRANKINC)
-- [`@ekrishnachaitanya2004`](https://github.com/ekrishnachaitanya2004)
-- [`@kingsleyesisi`](https://github.com/kingsleyesisi)
-- [`@Cboy220`](https://github.com/Cboy220)
-- [`@mcdrm`](https://github.com/mcdrm)
-- [`@shogun444`](https://github.com/shogun444)
-- [`@stainless-nata`](https://github.com/stainless-nata)
 
 ## 📕 My Latest Gists
 
@@ -189,6 +189,8 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -208,20 +210,16 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
