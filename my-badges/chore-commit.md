@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/commit/8a872fcef39b0d9abf1034092d94000d254792ff">8a872fc</a>: chore(release): perform release 1.0.0
+- <a href="https://github.com/ccamel/terraforming-chez-moi/commit/63b9104ad79f36e7daff5076f1364709da5244cc">63b9104</a>: chore(project): configure terraform-docs
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
