@@ -17,7 +17,7 @@
 
 ## Self
 
-> **nostalgeek • monadist • egoless open source buidler**
+> **cto ai-augmented • nostalgeek • monadist • egoless open source buidler**
 
 Veteran in code & chaos, crafting AI-driven, blockchain-powered, and cloud-native systems.
 
