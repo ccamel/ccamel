@@ -128,35 +128,35 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 ## ⭐ Recent Stars
 
-- [`NomenAK/SuperClaude`](https://github.com/NomenAK/SuperClaude) (2 days ago) • A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [`faker-js/faker`](https://github.com/faker-js/faker) (2 days ago) • Generate massive amounts of fake data in the browser and node.js
-- [`Macmod/godap`](https://github.com/Macmod/godap) (3 days ago) • A complete terminal user interface (TUI) for LDAP.
-- [`casdoor/casdoor`](https://github.com/casdoor/casdoor) (3 days ago) • An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
-- [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss) (3 days ago) • A library for efficient similarity search and clustering of dense vectors.
-- [`openai/openai-cs-agents-demo`](https://github.com/openai/openai-cs-agents-demo) (5 days ago) • Demo of a customer service use case implemented with the OpenAI Agents SDK
-- [`dfinke/awesome-copilot-chatmodes`](https://github.com/dfinke/awesome-copilot-chatmodes) (5 days ago) • Custom chatMode.md personas for GitHub Copilot — specialize your VS Code with AI assistants for testing, security, clean‑code refactoring, dashboards, prompt design, and more. Just drop in and select your mode.
-- [`ALTEN-SDC/pr-test`](https://github.com/ALTEN-SDC/pr-test) (5 days ago) • pull request test
-- [`romkatv/powerlevel10k`](https://github.com/romkatv/powerlevel10k) (6 days ago) • A Zsh theme
-- [`chuanqisun/react-agent-hooks`](https://github.com/chuanqisun/react-agent-hooks) (1 week ago) • Turn React hooks into LLM tools
+- [`github/awesome-copilot`](https://github.com/github/awesome-copilot) (2 days ago) • Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [`hangwin/mcp-chrome`](https://github.com/hangwin/mcp-chrome) (2 days ago) • Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+- [`stan-smith/FossFLOW`](https://github.com/stan-smith/FossFLOW) (3 days ago) • Make beautiful isometric infrastructure diagrams
+- [`github-copilot-resources/copilot-metrics-viewer`](https://github.com/github-copilot-resources/copilot-metrics-viewer) (3 days ago) • Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API
+- [`microsoft/generative-ai-for-beginners`](https://github.com/microsoft/generative-ai-for-beginners) (4 days ago) • 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [`AidanThomas/ledger`](https://github.com/AidanThomas/ledger) (4 days ago) • A TUI app for interacting with SQL databases
+- [`sirAndros/KeePassWinHello`](https://github.com/sirAndros/KeePassWinHello) (4 days ago) • Quick unlock KeePass 2 database using biometrics with Windows Hello
+- [`microsoft/vscode-copilot-chat`](https://github.com/microsoft/vscode-copilot-chat) (5 days ago) • Copilot Chat extension for VS Code
+- [`NomenAK/SuperClaude`](https://github.com/NomenAK/SuperClaude) (1 week ago) • A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+- [`faker-js/faker`](https://github.com/faker-js/faker) (1 week ago) • Generate massive amounts of fake data in the browser and node.js
 
 ## 👯 My recent Followers
 
+- [`@MohamedAhmed-SUT`](https://github.com/MohamedAhmed-SUT)
+- [`@fredericvilcot`](https://github.com/fredericvilcot)
+- [`@tokyo-dal`](https://github.com/tokyo-dal)
+- [`@Lyne6666`](https://github.com/Lyne6666)
+- [`@Miny662`](https://github.com/Miny662)
 - [`@zalbright90`](https://github.com/zalbright90)
 - [`@soljesty`](https://github.com/soljesty)
 - [`@mukeshlilawat1`](https://github.com/mukeshlilawat1)
 - [`@devddine`](https://github.com/devddine)
-- [`@nikhilpatidar01`](https://github.com/nikhilpatidar01)
 - [`@discodot`](https://github.com/discodot)
-- [`@lucaboca82`](https://github.com/lucaboca82)
-- [`@buraksocial`](https://github.com/buraksocial)
-- [`@NikolaiProgramist`](https://github.com/NikolaiProgramist)
-- [`@cepseu1`](https://github.com/cepseu1)
 
 ## 📕 My Latest Gists
 
-- [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (3 months ago)
+- [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (4 months ago)
 - [One-liner to conjure all Axone airdrop giga-chads — proof of participation on-chain (https://airdrop.axone.xyz)](https://gist.github.com/25a453db78023df8c8cd7bf9c20be800) (4 months ago)
-- [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (4 months ago)
+- [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (5 months ago)
 - [A collection of handy one-liners leveraging the Axoned CLI for interacting with the Axone blockchain](https://gist.github.com/44cbc7d8e42f183dcbc78c85ebf404d0) (5 months ago)
 - [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (9 months ago)
 - [A bash script to automatically approve and politely ask Dependabot to merge its own PRs, because I’m a bit lazy and happy to let the bots handle the hard part (if the CI behaves)!](https://gist.github.com/67af201be688b1d169645e51e9ae6234) (9 months ago)
@@ -189,6 +189,8 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -208,20 +210,16 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
