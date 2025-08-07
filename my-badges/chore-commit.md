@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/terraforming-chez-moi/commit/63b9104ad79f36e7daff5076f1364709da5244cc">63b9104</a>: chore(project): configure terraform-docs
+- <a href="https://github.com/ccamel/becoming-ccamel/commit/7e807e433905548e4b091ba66e82f1d4a34fe139">7e807e4</a>: chore(LICENSE): name myself where the work comes from
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
