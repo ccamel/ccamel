@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/my-badges/my-badges/pull/39">#39</a>
+- <a href="https://github.com/my-badges/my-badges/pull/39">#39</a>: Add only-emoji-commit badge
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
