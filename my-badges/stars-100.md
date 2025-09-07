@@ -6,9 +6,9 @@ Repos:
 
 * <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★11</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★8</a>
-* <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★7</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
+* <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★6</a>
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
 * <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★4</a>
 * <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
