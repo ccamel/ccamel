@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/axone-protocol/prolog/pull/17">#17</a>: Add (preliminary) support for dicts structure
 - <a href="https://github.com/axone-protocol/prolog/pull/8">#8</a>: Add support for hooks in bytecode execution
 
 
