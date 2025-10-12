@@ -128,29 +128,29 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 ## ⭐ Recent Stars
 
-- [`Souhar-dya/mcp-db-server`](https://github.com/Souhar-dya/mcp-db-server) (2 days ago) • MCP Database Server with natural language SQL queries
-- [`DariuszDepta/cosmwasmsaurus`](https://github.com/DariuszDepta/cosmwasmsaurus) (2 days ago) • CosmWasm documentation site developed using Docusaurus
-- [`docker/setup-buildx-action`](https://github.com/docker/setup-buildx-action) (2 days ago) • GitHub Action to set up Docker Buildx
-- [`docker/build-push-action`](https://github.com/docker/build-push-action) (2 days ago) • GitHub Action to build and push Docker images with Buildx
-- [`docker/compose`](https://github.com/docker/compose) (3 days ago) • Define and run multi-container applications with Docker
-- [`Kiruse/cw-pipeline`](https://github.com/Kiruse/cw-pipeline) (3 days ago) • Kiru&#39;s tools for CosmWasm Developers
-- [`docker/mcp-gateway`](https://github.com/docker/mcp-gateway) (3 days ago) • docker mcp CLI plugin / MCP Gateway
-- [`rennf93/fastapi-guard`](https://github.com/rennf93/fastapi-guard) (4 days ago) • A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
-- [`node-red/node-red`](https://github.com/node-red/node-red) (4 days ago) • Low-code programming for event-driven applications
-- [`gold-silver-copper/soft_ratatui`](https://github.com/gold-silver-copper/soft_ratatui) (5 days ago) • Software renderer for ratatui
+- [`MacroPower/kclipper`](https://github.com/MacroPower/kclipper) (4 days ago) • KCL &#43; Helm = kclipper
+- [`philippemerle/KubeDiagrams`](https://github.com/philippemerle/KubeDiagrams) (4 days ago) • Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
+- [`rancher/k3k`](https://github.com/rancher/k3k) (4 days ago) • Kubernetes in Kubernetes
+- [`Infisical/infisical`](https://github.com/Infisical/infisical) (6 days ago) • Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [`is-a-dev/register`](https://github.com/is-a-dev/register) (6 days ago) • Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
+- [`agentic-community/mcp-gateway-registry`](https://github.com/agentic-community/mcp-gateway-registry) (6 days ago) • Enterprise-ready MCP Gateway &amp; Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Cognito integration.
+- [`hashicorp/copywrite`](https://github.com/hashicorp/copywrite) (1 week ago) • Automate copyright headers and license files at scale
+- [`bearstech/pussh`](https://github.com/bearstech/pussh) (1 week ago) • Parallel SSH, batch and command line oriented
+- [`Souhar-dya/mcp-db-server`](https://github.com/Souhar-dya/mcp-db-server) (1 week ago) • MCP Database Server with natural language SQL queries
+- [`DariuszDepta/cosmwasmsaurus`](https://github.com/DariuszDepta/cosmwasmsaurus) (1 week ago) • CosmWasm documentation site developed using Docusaurus
 
 ## 👯 My recent Followers
 
+- [`@cforge42`](https://github.com/cforge42)
+- [`@ANKITKUMARBARIK`](https://github.com/ANKITKUMARBARIK)
+- [`@trinhminhtriet`](https://github.com/trinhminhtriet)
+- [`@KabeloM13`](https://github.com/KabeloM13)
+- [`@umogal`](https://github.com/umogal)
+- [`@devcarron`](https://github.com/devcarron)
+- [`@Hajjouz`](https://github.com/Hajjouz)
+- [`@Abishek0612`](https://github.com/Abishek0612)
 - [`@eli-shen08`](https://github.com/eli-shen08)
 - [`@Nurulika`](https://github.com/Nurulika)
-- [`@mpermar082`](https://github.com/mpermar082)
-- [`@Willysc10`](https://github.com/Willysc10)
-- [`@vimal0156`](https://github.com/vimal0156)
-- [`@ChinmayKaitade`](https://github.com/ChinmayKaitade)
-- [`@admiralcarry-byte`](https://github.com/admiralcarry-byte)
-- [`@nikecodedev`](https://github.com/nikecodedev)
-- [`@YaoI-angel`](https://github.com/YaoI-angel)
-- [`@ashiq72`](https://github.com/ashiq72)
 
 ## 📕 My Latest Gists
 
@@ -189,6 +189,8 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -208,21 +210,16 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
