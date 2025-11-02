@@ -4,13 +4,13 @@
 
 Repos:
 
-* <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★457</a>
-* <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★44</a>
+* <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★458</a>
+* <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★46</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
+* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★27</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★25</a>
-* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★24</a>
-* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★12</a>
-* <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★8</a>
+* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★15</a>
+* <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★10</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
