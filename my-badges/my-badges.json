@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/playground-elm/commit/9ee67894225006ae8615260c14bf7705170ce608\">9ee6789</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/4ee7f8bf8d68debd09f17fdadbe9adfefb727639\">4ee7f8b</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/8b2a47eede7722b12c1430c1f629b8c25045f7ef\">8b2a47e</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4f7f60ab2daa05a812fe0182094bb479614c0708\">4f7f60a</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/e1fdf6accea0e051e00181ac26d776a48f87e61d\">e1fdf6a</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/14990a88d4c01a7905028448e27fbbbc97d6a1c5\">14990a8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/e83634de15b02c7e52e7b9dd85870f8b0d1c1f4f\">e83634d</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/d7fd4c1765ecf0755f182dc6b2a82f005a62b976\">d7fd4c1</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/8ceee1ed9e694c2bbd70eed4a391172b62657cc3\">8ceee1e</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/9ee67894225006ae8615260c14bf7705170ce608\">9ee6789</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/4ee7f8bf8d68debd09f17fdadbe9adfefb727639\">4ee7f8b</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/8b2a47eede7722b12c1430c1f629b8c25045f7ef\">8b2a47e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1644 times)\n2. update (used 1182 times)\n3. :arrow_up: (used 884 times)\n4. request (used 788 times)\n5. merge (used 786 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1663 times)\n2. update (used 1183 times)\n3. :arrow_up: (used 886 times)\n4. request (used 797 times)\n5. merge (used 796 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/14990a88d4c01a7905028448e27fbbbc97d6a1c5\">14990a8</a>\n- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/cbcd6aaa4106fe5059fc4339d1eafb879959f3c5\">cbcd6aa</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/75dfc7f31befb8ee082414c7c4e44dacb2fb4e77\">75dfc7f</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/04640c523cc3a4b979713e415e16ca6a7c595bff\">04640c5</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/3b6182c41b39f4b027b4771901389d8533c8912b\">3b6182c</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/1910bd4912f5f4726f0b685d6ef4d4c42d22709b\">1910bd4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/7f509bb96b7dc7a93cebda0ee719b7f854776183\">7f509bb</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/dd9174acd2d617924e1c9dff5aa3333d1a6b07af\">dd9174a</a>\n- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/80f3e3f4526b295e03218f4f1e0c033803079f8b\">80f3e3f</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/02143885ccc5d566f2440e9fda049793b7eef5ac\">0214388</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/14990a88d4c01a7905028448e27fbbbc97d6a1c5\">14990a8</a>\n- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/cbcd6aaa4106fe5059fc4339d1eafb879959f3c5\">cbcd6aa</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -229,5 +229,12 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/b0c89cde08c9f5356192e009c24d115c7633ba5e\">b0c89cd</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/d01b673802072d1079225852bd77330ac5d725ae\">d01b673</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/61c350c573c09e844740da8a3a2ba36455f96513\">61c350c</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/traefik/traefik/issues/12253#issuecomment-3540898807\">11 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
