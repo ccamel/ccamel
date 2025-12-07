@@ -128,34 +128,34 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 ## ⭐ Recent Stars
 
-- [`TheSethRose/Copilot-Kit`](https://github.com/TheSethRose/Copilot-Kit) (2 days ago) • A comprehensive collection of language-agnostic templates and structured prompts for GitHub Copilot that can be customized for any programming language and project type.
-- [`puppetlabs/puppet`](https://github.com/puppetlabs/puppet) (4 days ago) • Server automation framework and application
-- [`PackmindHub/packmind`](https://github.com/PackmindHub/packmind) (5 days ago) • Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
-- [`sonatype/nexus-public`](https://github.com/sonatype/nexus-public) (5 days ago) • Sonatype Nexus Repository Open-source codebase mirror
-- [`knadh/tinyauth`](https://github.com/knadh/tinyauth) (5 days ago) • Tiny, opinionated authentication library for Go. Work in progress and not usable right now.
-- [`karpathy/llm-council`](https://github.com/karpathy/llm-council) (1 week ago) • LLM Council works together to answer your hardest questions
-- [`s0raLin/sinter`](https://github.com/s0raLin/sinter) (1 week ago) • A Cargo-like build tool for Scala projects
-- [`AmirhosseinHonardoust/Onchain-Security-Suite`](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) (1 week ago) • A complete Web3 security toolkit combining AI-powered token auditing, ML-based deployer reputation scoring, and live Etherscan V2 data. Includes static analysis for rugpull detection, RandomForest reputation modeling, contract-fetching automation, and Solidity on-chain registries for transparent, reproducible security insights.
-- [`astral-sh/ruff`](https://github.com/astral-sh/ruff) (1 week ago) • An extremely fast Python linter and code formatter, written in Rust.
-- [`floxy-project/floxy-pro`](https://github.com/floxy-project/floxy-pro) (1 week ago) • A Pro version of Core Floxy library.
+- [`PankajKumardev/GitGenius`](https://github.com/PankajKumardev/GitGenius) (2 days ago)
+- [`zilliztech/claude-context`](https://github.com/zilliztech/claude-context) (2 days ago) • Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [`kuzudb/kuzu`](https://github.com/kuzudb/kuzu) (2 days ago) • Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
+- [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) (3 days ago) • A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.
+- [`dalibo/temboard`](https://github.com/dalibo/temboard) (3 days ago) • PostgreSQL Remote Control
+- [`hazae41/glace`](https://github.com/hazae41/glace) (3 days ago) • Build a webapp with security in mind
+- [`ddd-by-examples/library`](https://github.com/ddd-by-examples/library) (6 days ago) • A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+- [`TheSethRose/Copilot-Kit`](https://github.com/TheSethRose/Copilot-Kit) (1 week ago) • A comprehensive collection of language-agnostic templates and structured prompts for GitHub Copilot that can be customized for any programming language and project type.
+- [`puppetlabs/puppet`](https://github.com/puppetlabs/puppet) (1 week ago) • Server automation framework and application
+- [`PackmindHub/packmind`](https://github.com/PackmindHub/packmind) (1 week ago) • Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 
 ## 👯 My recent Followers
 
+- [`@CelaFlori`](https://github.com/CelaFlori)
+- [`@rodrigogalura`](https://github.com/rodrigogalura)
+- [`@afrinbhuiyan`](https://github.com/afrinbhuiyan)
+- [`@JONIS7`](https://github.com/JONIS7)
+- [`@FrMahon`](https://github.com/FrMahon)
+- [`@WaRtr0`](https://github.com/WaRtr0)
+- [`@CuriousLearner`](https://github.com/CuriousLearner)
+- [`@tartor0`](https://github.com/tartor0)
+- [`@ignorant05`](https://github.com/ignorant05)
 - [`@vasilirigels`](https://github.com/vasilirigels)
-- [`@Gidayi-dev`](https://github.com/Gidayi-dev)
-- [`@veloproofy`](https://github.com/veloproofy)
-- [`@m1amgn`](https://github.com/m1amgn)
-- [`@raptr45`](https://github.com/raptr45)
-- [`@markshenry1`](https://github.com/markshenry1)
-- [`@andushsen`](https://github.com/andushsen)
-- [`@shyboy1044`](https://github.com/shyboy1044)
-- [`@flex9999`](https://github.com/flex9999)
-- [`@CharlesCreativeContent`](https://github.com/CharlesCreativeContent)
 
 ## 📕 My Latest Gists
 
-- [My personal archive of surrealist prompts](https://gist.github.com/4bed0857811867dcdb5491bfdc975578) (2 weeks ago)
-- [my own collection of absurd and self-referential paradoxes from within the machine](https://gist.github.com/d4c7a7cd812906dfebc61a027805029d) (3 weeks ago)
+- [My personal archive of surrealist prompts](https://gist.github.com/4bed0857811867dcdb5491bfdc975578) (3 weeks ago)
+- [my own collection of absurd and self-referential paradoxes from within the machine](https://gist.github.com/d4c7a7cd812906dfebc61a027805029d) (1 month ago)
 - [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (9 months ago)
 - [One-liner to conjure all Axone airdrop giga-chads — proof of participation on-chain (https://airdrop.axone.xyz)](https://gist.github.com/25a453db78023df8c8cd7bf9c20be800) (9 months ago)
 - [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (10 months ago)
@@ -189,6 +189,8 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -208,21 +210,16 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
-<a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
