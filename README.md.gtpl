@@ -53,6 +53,56 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 <br/>
 
+## Codefield
+
+A few works shaped over time. Live with them, feel them, and contribute if they resonate...
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/axoned">⛓️ Axone Blockchain</a></h3>
+      <p><strong>The Axone protocol blockchain</strong> — Built with Cosmos SDK & Tendermint</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/axoned?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/axoned?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Universal orchestration protocol to connect, share, and monetize resources in the AI stack. Leading development of core blockchain infrastructure.</p>
+      <p><code>Go</code> <code>Cosmos SDK</code> <code>Blockchain</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/contracts">📜 Axone Smart Contracts</a></h3>
+      <p><strong>CosmWasm smart contracts</strong> — Powering the Axone protocol</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/contracts?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/contracts?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Production-grade smart contracts implementing dataverse governance, knowledge graphs, and decentralized Verifiable Credentials.</p>
+      <p><code>Rust</code> <code>CosmWasm</code> <code>Smart Contracts</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/erlang-event-sourcing-xp">🧪 Event Sourcing in Erlang</a></h3>
+      <p><strong>Exploring Event Sourcing patterns</strong> — (almost) Pure functional approach</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/erlang-event-sourcing-xp?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/erlang-event-sourcing-xp?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Experimental implementation of Event Sourcing and CQRS in Erlang/OTP. Features snapshot mechanisms with ETS and Mnesia backends.</p>
+      <p><code>Erlang</code> <code>Event Sourcing</code> <code>CQRS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-elm">🎨 Elm Playground</a></h3>
+      <p><strong>Functional reactive programming</strong> — Visual experiments in Elm</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-elm?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-elm?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Collection of visual showcases and experiments: procedural terrain generation, fractals, and interactive animations. Pure functional frontend.</p>
+      <p><code>Elm</code> <code>Functional Programming</code> <code>WebGL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Actor Model Playground</a></h3>
+      <p>Playing with the <strong>Next-gen Actor Model</strong> — Event Sourcing meets DDD</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-protoactor.go?style=social" alt="stars"/></p>
+      <p>Exploring Proto.Actor framework with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
+      <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
 ## Languages and Tools
 
 ### Programming Languages
