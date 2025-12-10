@@ -53,49 +53,139 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 <br/>
 
-## 🔧 Languages and Tools
+## Codefield
+
+A few works shaped over time. Live with them, feel them, and contribute if they resonate...
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/axoned">⛓️ Axone Blockchain</a></h3>
+      <p><strong>The Axone protocol blockchain</strong> — Built with Cosmos SDK & Tendermint</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/axoned?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/axoned?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Universal orchestration protocol to connect, share, and monetize resources in the AI stack. Leading development of core blockchain infrastructure.</p>
+      <p><code>Go</code> <code>Cosmos SDK</code> <code>Blockchain</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/contracts">📜 Axone Smart Contracts</a></h3>
+      <p><strong>CosmWasm smart contracts</strong> — Powering the Axone protocol</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/contracts?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/contracts?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Production-grade smart contracts implementing dataverse governance, knowledge graphs, and decentralized Verifiable Credentials.</p>
+      <p><code>Rust</code> <code>CosmWasm</code> <code>Smart Contracts</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/erlang-event-sourcing-xp">🧪 Event Sourcing in Erlang</a></h3>
+      <p><strong>Exploring Event Sourcing patterns</strong> — (almost) Pure functional approach</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/erlang-event-sourcing-xp?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/erlang-event-sourcing-xp?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Experimental implementation of Event Sourcing and CQRS in Erlang/OTP. Features snapshot mechanisms with ETS and Mnesia backends.</p>
+      <p><code>Erlang</code> <code>Event Sourcing</code> <code>CQRS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-elm">🎨 Elm Playground</a></h3>
+      <p><strong>Functional reactive programming</strong> — Visual experiments in Elm</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-elm?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-elm?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Collection of visual showcases and experiments: procedural terrain generation, fractals, and interactive animations. Pure functional frontend.</p>
+      <p><code>Elm</code> <code>Functional Programming</code> <code>WebGL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Actor Model Playground</a></h3>
+      <p>Playing with the <strong>Next-gen Actor Model</strong> — Event Sourcing meets DDD</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-protoactor.go?style=social" alt="stars"/></p>
+      <p>Exploring Proto.Actor framework with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
+      <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+## Languages and Tools
+
+### Programming Languages
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40" /> </a>
+  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
+  <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" /> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> </a>
+  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+</p>
+
+### Frontend & Web
+
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
+  <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
+</p>
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+</p>
+
+### CI/CD
 
 <p align="left">
   <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /> </a>
-  <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
-  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
-  <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-  <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" /> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> </a>
-  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" /> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
-  <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-  <a href="https://www.rust-lang.org" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> </a>
+</p>
+
+### Messaging & Data Streaming
+
+<p align="left">
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> </a>
+  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> </a>
+</p>
+
+### Observability & Monitoring
+
+<p align="left">
+  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /> </a>
+  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a>
+  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /> </a>
+</p>
+
+### Tools & Others
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" /> </a>
+  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
 
 <br/>
@@ -110,29 +200,29 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 {{- end}}
 </ul>
 
-## ✍️ My Latest Blog Posts
+## My Latest Blog Posts
 {{range rss "https://medium.com/feed/@camel.christophe" 5}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-## ⭐ Recent Stars
+## Recent Stars
 {{range recentStars 10}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}){{if .Repo.Description}} • {{.Repo.Description}}{{end}}
 {{- end}}
 
-## 👯 My recent Followers
+## My recent Followers
 {{range followers 10}}
 - [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
-## 📕 My Latest Gists
+## My Latest Gists
 {{range gists 7}}
 {{if .Description -}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 {{- end}}
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/ccamel">
   <img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" alt="GitHub Stats" />
@@ -150,7 +240,7 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" alt="GitHub Activity Graph" />
 </a>
 
-## 🏆 Trophies
+## Trophies
 
 <h4><a href="https://github.com/ccamel">Trophies</a></h4>
 
