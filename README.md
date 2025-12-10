@@ -53,49 +53,139 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 <br/>
 
-## 🔧 Languages and Tools
+## Codefield
+
+A few works shaped over time. Live with them, feel them, and contribute if they resonate...
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/axoned">⛓️ Axone Blockchain</a></h3>
+      <p><strong>The Axone protocol blockchain</strong> — Built with Cosmos SDK & Tendermint</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/axoned?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/axoned?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Universal orchestration protocol to connect, share, and monetize resources in the AI stack. Leading development of core blockchain infrastructure.</p>
+      <p><code>Go</code> <code>Cosmos SDK</code> <code>Blockchain</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/contracts">📜 Axone Smart Contracts</a></h3>
+      <p><strong>CosmWasm smart contracts</strong> — Powering the Axone protocol</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/contracts?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/contracts?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Production-grade smart contracts implementing dataverse governance, knowledge graphs, and decentralized Verifiable Credentials.</p>
+      <p><code>Rust</code> <code>CosmWasm</code> <code>Smart Contracts</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/erlang-event-sourcing-xp">🧪 Event Sourcing in Erlang</a></h3>
+      <p><strong>Exploring Event Sourcing patterns</strong> — (almost) Pure functional approach</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/erlang-event-sourcing-xp?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/erlang-event-sourcing-xp?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Experimental implementation of Event Sourcing and CQRS in Erlang/OTP. Features snapshot mechanisms with ETS and Mnesia backends.</p>
+      <p><code>Erlang</code> <code>Event Sourcing</code> <code>CQRS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-elm">🎨 Elm Playground</a></h3>
+      <p><strong>Functional reactive programming</strong> — Visual experiments in Elm</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-elm?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-elm?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Collection of visual showcases and experiments: procedural terrain generation, fractals, and interactive animations. Pure functional frontend.</p>
+      <p><code>Elm</code> <code>Functional Programming</code> <code>WebGL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Actor Model Playground</a></h3>
+      <p>Playing with the <strong>Next-gen Actor Model</strong> — Event Sourcing meets DDD</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-protoactor.go?style=social" alt="stars"/></p>
+      <p>Exploring Proto.Actor framework with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
+      <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+## Languages and Tools
+
+### Programming Languages
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40" /> </a>
+  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
+  <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" /> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> </a>
+  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+</p>
+
+### Frontend & Web
+
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
+  <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
+</p>
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+</p>
+
+### CI/CD
 
 <p align="left">
   <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /> </a>
-  <a href="https://www.erlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
-  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
-  <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-  <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" /> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> </a>
-  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /> </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-  <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" /> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
-  <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-  <a href="https://www.rust-lang.org" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /> </a>
+</p>
+
+### Messaging & Data Streaming
+
+<p align="left">
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> </a>
+  <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> </a>
+</p>
+
+### Observability & Monitoring
+
+<p align="left">
+  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /> </a>
+  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /> </a>
+  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /> </a>
+</p>
+
+### Tools & Others
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" /> </a>
+  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
 
 <br/>
@@ -118,7 +208,7 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
   <li><code><a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm</a></code>&nbsp;<a href="https://github.com/ccamel/playground-elm/releases/tag/v3.8.0"><img align="center" alt="v3.8.0" src="https://img.shields.io/badge/v3.8.0-gray?style=flat-square"></img></a>&nbsp;•&nbsp; :balloon: My playground for playing with elm-lang</li>
 </ul>
 
-## ✍️ My Latest Blog Posts
+## My Latest Blog Posts
 
 - [Axone’s architecture, for the curious buildlr](https://blog.axone.xyz/axones-architecture-for-the-curious-buildlr-2367c41c8dff?source=rss-79c7e8ef7569------2)
 - [The Power of Machines, the Duty of Humans](https://blog.axone.xyz/the-power-of-machines-the-duty-of-humans-8d9e664ce3d1?source=rss-79c7e8ef7569------2)
@@ -126,35 +216,35 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (3/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-3-3-424f7a8eb2fc?source=rss-79c7e8ef7569------2)
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (2/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-2-3-17237d68033c?source=rss-79c7e8ef7569------2)
 
-## ⭐ Recent Stars
+## Recent Stars
 
-- [`PankajKumardev/GitGenius`](https://github.com/PankajKumardev/GitGenius) (2 days ago)
-- [`zilliztech/claude-context`](https://github.com/zilliztech/claude-context) (2 days ago) • Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [`kuzudb/kuzu`](https://github.com/kuzudb/kuzu) (2 days ago) • Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
-- [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) (3 days ago) • A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.
-- [`dalibo/temboard`](https://github.com/dalibo/temboard) (3 days ago) • PostgreSQL Remote Control
-- [`hazae41/glace`](https://github.com/hazae41/glace) (3 days ago) • Build a webapp with security in mind
-- [`ddd-by-examples/library`](https://github.com/ddd-by-examples/library) (6 days ago) • A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-- [`TheSethRose/Copilot-Kit`](https://github.com/TheSethRose/Copilot-Kit) (1 week ago) • A comprehensive collection of language-agnostic templates and structured prompts for GitHub Copilot that can be customized for any programming language and project type.
-- [`puppetlabs/puppet`](https://github.com/puppetlabs/puppet) (1 week ago) • Server automation framework and application
-- [`PackmindHub/packmind`](https://github.com/PackmindHub/packmind) (1 week ago) • Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
+- [`nikoksr/notify`](https://github.com/nikoksr/notify) (today) • A dead simple Go library for sending notifications to various messaging services.
+- [`study8677/antigravity-workspace-template`](https://github.com/study8677/antigravity-workspace-template) (today) • 🪐 The ultimate starter kit for Google Antigravity IDE. Optimized for Gemini 3 Agentic Workflows, &#34;Deep Think&#34; mode, and auto-configuring .cursorrules.
+- [`maxdorninger/MediaManager`](https://github.com/maxdorninger/MediaManager) (1 day ago) • A modern selfhosted media management system for your media library
+- [`hickory-dns/hickory-dns`](https://github.com/hickory-dns/hickory-dns) (3 days ago) • A Rust based DNS client, server, and resolver
+- [`PankajKumardev/GitGenius`](https://github.com/PankajKumardev/GitGenius) (5 days ago)
+- [`zilliztech/claude-context`](https://github.com/zilliztech/claude-context) (5 days ago) • Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [`kuzudb/kuzu`](https://github.com/kuzudb/kuzu) (5 days ago) • Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
+- [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) (6 days ago) • A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.
+- [`dalibo/temboard`](https://github.com/dalibo/temboard) (6 days ago) • PostgreSQL Remote Control
+- [`hazae41/glace`](https://github.com/hazae41/glace) (6 days ago) • Build a webapp with security in mind
 
-## 👯 My recent Followers
+## My recent Followers
 
+- [`@aprilrr`](https://github.com/aprilrr)
+- [`@EflexSolution`](https://github.com/EflexSolution)
+- [`@edge-smart`](https://github.com/edge-smart)
+- [`@uthumany`](https://github.com/uthumany)
+- [`@schullegerhard`](https://github.com/schullegerhard)
+- [`@Cgun-art`](https://github.com/Cgun-art)
+- [`@leoncik`](https://github.com/leoncik)
 - [`@CelaFlori`](https://github.com/CelaFlori)
 - [`@rodrigogalura`](https://github.com/rodrigogalura)
 - [`@afrinbhuiyan`](https://github.com/afrinbhuiyan)
-- [`@JONIS7`](https://github.com/JONIS7)
-- [`@FrMahon`](https://github.com/FrMahon)
-- [`@WaRtr0`](https://github.com/WaRtr0)
-- [`@CuriousLearner`](https://github.com/CuriousLearner)
-- [`@tartor0`](https://github.com/tartor0)
-- [`@ignorant05`](https://github.com/ignorant05)
-- [`@vasilirigels`](https://github.com/vasilirigels)
 
-## 📕 My Latest Gists
+## My Latest Gists
 
-- [My personal archive of surrealist prompts](https://gist.github.com/4bed0857811867dcdb5491bfdc975578) (3 weeks ago)
+- [My personal archive of surrealist prompts](https://gist.github.com/4bed0857811867dcdb5491bfdc975578) (4 weeks ago)
 - [my own collection of absurd and self-referential paradoxes from within the machine](https://gist.github.com/d4c7a7cd812906dfebc61a027805029d) (1 month ago)
 - [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (9 months ago)
 - [One-liner to conjure all Axone airdrop giga-chads — proof of participation on-chain (https://airdrop.axone.xyz)](https://gist.github.com/25a453db78023df8c8cd7bf9c20be800) (9 months ago)
@@ -162,7 +252,7 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 - [A collection of handy one-liners leveraging the Axoned CLI for interacting with the Axone blockchain](https://gist.github.com/44cbc7d8e42f183dcbc78c85ebf404d0) (10 months ago)
 - [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 year ago)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/ccamel">
   <img src="https://github-readme-stats.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" alt="GitHub Stats" />
@@ -180,7 +270,7 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" alt="GitHub Activity Graph" />
 </a>
 
-## 🏆 Trophies
+## Trophies
 
 <h4><a href="https://github.com/ccamel">Trophies</a></h4>
 
@@ -189,6 +279,8 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -208,21 +300,16 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
-<a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
