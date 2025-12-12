@@ -103,7 +103,7 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
   </tr>
 </table>
 
-## 🔭 Latest releases I've contributed to
+## Latest releases I've contributed to
 
 <ul>
 {{range recentReleases 10}}
