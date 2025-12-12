@@ -103,6 +103,36 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
   </tr>
 </table>
 
+## 🔭 Latest releases I've contributed to
+
+<ul>
+{{range recentReleases 10}}
+  <li><code><a href="{{.URL}}">{{.Name}}</a></code>&nbsp;<a href="{{.LastRelease.URL}}"><img align="center" alt="{{.LastRelease.TagName}}" src="https://img.shields.io/badge/{{.LastRelease.TagName}}-gray?style=flat-square"></img></a>&nbsp;•&nbsp;{{.Description}}</li>
+{{- end}}
+</ul>
+
+## My Latest Blog Posts
+{{range rss "https://medium.com/feed/@camel.christophe" 5}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
+## Recent Stars
+{{range recentStars 10}}
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}){{if .Repo.Description}} • {{.Repo.Description}}{{end}}
+{{- end}}
+
+## My recent Followers
+{{range followers 10}}
+- [`@{{.Login}}`]({{.URL}})
+{{- end}}
+
+## My Latest Gists
+{{range gists 7}}
+{{if .Description -}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+{{- end}}
+
 ## Languages and Tools
 
 ### Programming Languages
@@ -191,36 +221,6 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 <br/>
 
 💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
-
-## 🔭 Latest releases I've contributed to
-
-<ul>
-{{range recentReleases 10}}
-  <li><code><a href="{{.URL}}">{{.Name}}</a></code>&nbsp;<a href="{{.LastRelease.URL}}"><img align="center" alt="{{.LastRelease.TagName}}" src="https://img.shields.io/badge/{{.LastRelease.TagName}}-gray?style=flat-square"></img></a>&nbsp;•&nbsp;{{.Description}}</li>
-{{- end}}
-</ul>
-
-## My Latest Blog Posts
-{{range rss "https://medium.com/feed/@camel.christophe" 5}}
-- [{{.Title}}]({{.URL}})
-{{- end}}
-
-## Recent Stars
-{{range recentStars 10}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}){{if .Repo.Description}} • {{.Repo.Description}}{{end}}
-{{- end}}
-
-## My recent Followers
-{{range followers 10}}
-- [`@{{.Login}}`]({{.URL}})
-{{- end}}
-
-## My Latest Gists
-{{range gists 7}}
-{{if .Description -}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-{{- end}}
 
 ## GitHub Stats
 
