@@ -107,7 +107,7 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 
 <ul>
 {{range recentReleases 10}}
-  <li><code><a href="{{.URL}}">{{.Name}}</a></code>&nbsp;<a href="{{.LastRelease.URL}}"><img align="center" alt="{{.LastRelease.TagName}}" src="https://img.shields.io/badge/{{.LastRelease.TagName}}-gray?style=flat-square"></img></a>&nbsp;•&nbsp;{{.Description}}</li>
+  <li><code><a href="{{.URL}}">{{.Name}}</a></code>&nbsp;<a href="{{.LastRelease.URL}}"><img align="center" alt="{{.LastRelease.TagName}}" src="https://img.shields.io/badge/{{.LastRelease.TagName}}-gray?style=flat-square" /></a>&nbsp;•&nbsp;{{.Description}}</li>
 {{- end}}
 </ul>
 
