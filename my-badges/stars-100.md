@@ -8,14 +8,15 @@ Repos:
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★10</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
+* <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★6</a>
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
-* <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★5</a>
 * <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★4</a>
 * <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★2</a>
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
+* <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★2</a>
 * <a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp: ★2</a>
 * <a href="https://github.com/ccamel/react-starter-kit">ccamel/react-starter-kit: ★1</a>
 * <a href="https://github.com/ccamel/silk">ccamel/silk: ★1</a>
@@ -54,7 +55,6 @@ Repos:
 * <a href="https://github.com/ccamel/builtwithelm">ccamel/builtwithelm: ★1</a>
 * <a href="https://github.com/ccamel/product-docs">ccamel/product-docs: ★1</a>
 * <a href="https://github.com/ccamel/explore">ccamel/explore: ★1</a>
-* <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★1</a>
 * <a href="https://github.com/ccamel/scion-tools">ccamel/scion-tools: ★1</a>
 * <a href="https://github.com/ccamel/terraforming-chez-moi">ccamel/terraforming-chez-moi: ★1</a>
 * <a href="https://github.com/ccamel/visualvault">ccamel/visualvault: ★1</a>

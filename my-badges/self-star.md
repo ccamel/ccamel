@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 10 my own repositories." title="I&apos;ve starred 10 my own repositories." width="128">
-<strong>I&apos;ve starred 10 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 12 my own repositories." title="I&apos;ve starred 12 my own repositories." width="128">
+<strong>I&apos;ve starred 12 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala</a>
@@ -12,6 +12,8 @@
 - <a href="https://github.com/ccamel/ccamel">ccamel/ccamel</a>
 - <a href="https://github.com/ccamel/amimart">ccamel/amimart</a>
 - <a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp</a>
+- <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel</a>
+- <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

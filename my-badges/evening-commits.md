@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ccamel/ccamel/commit/88e33f3529527ed347d274ca397a36a8d034ef42">88e33f3</a>
+- <a href="https://github.com/ccamel/ccamel/commit/24f5c13ae1c9dfc1fb4659797097e46b343450d2">24f5c13</a>
+- <a href="https://github.com/ccamel/ccamel/commit/35a2cd9ec1175157341388ef54954667f232ac7d">35a2cd9</a>
+- <a href="https://github.com/ccamel/ccamel/commit/a643ec6cfff4dd617eb2c9d250d6412071cdc645">a643ec6</a>
 - <a href="https://github.com/ccamel/ccamel/commit/521bc126b2f719b14862aaa9971ce59cf1d930ed">521bc12</a>
 - <a href="https://github.com/ccamel/ccamel/commit/e247bdab17f6b3d8c2b894472a5edb1e84cd49fa">e247bda</a>
-- <a href="https://github.com/ccamel/ccamel/commit/f8070b6bc614666ac4bd3fe6999204bbceaca31b">f8070b6</a>
-- <a href="https://github.com/ccamel/ccamel/commit/dbf696a283a33b247a5a7bfcec9669f6be9c3a31">dbf696a</a>
-- <a href="https://github.com/ccamel/ccamel/commit/ffe337baa20931abf79df1c279937f6f7eca0b63">ffe337b</a>
-- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/commit/e83634de15b02c7e52e7b9dd85870f8b0d1c1f4f">e83634d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
