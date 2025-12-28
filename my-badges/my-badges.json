@@ -143,7 +143,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1686 times)\n2. update (used 1188 times)\n3. :arrow_up: (used 888 times)\n4. request (used 802 times)\n5. merge (used 801 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1692 times)\n2. update (used 1189 times)\n3. :arrow_up: (used 888 times)\n4. request (used 802 times)\n5. merge (used 801 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/35a2cd9ec1175157341388ef54954667f232ac7d\">35a2cd9</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/a643ec6cfff4dd617eb2c9d250d6412071cdc645\">a643ec6</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/7f509bb96b7dc7a93cebda0ee719b7f854776183\">7f509bb</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/dd9174acd2d617924e1c9dff5aa3333d1a6b07af\">dd9174a</a>\n- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/80f3e3f4526b295e03218f4f1e0c033803079f8b\">80f3e3f</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/02143885ccc5d566f2440e9fda049793b7eef5ac\">0214388</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/6dd5bf4dde1682c600b85594c313b4dc56e67f32\">6dd5bf4</a>\n- <a href=\"https://github.com/rchakode/kube-opex-analytics/commit/75b6627cd149d2845a836fa37076cacc1ef49472\">75b6627</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/35a2cd9ec1175157341388ef54954667f232ac7d\">35a2cd9</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/a643ec6cfff4dd617eb2c9d250d6412071cdc645\">a643ec6</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/7f509bb96b7dc7a93cebda0ee719b7f854776183\">7f509bb</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/dd9174acd2d617924e1c9dff5aa3333d1a6b07af\">dd9174a</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -236,5 +236,12 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/traefik/traefik/issues/12253#issuecomment-3540898807\">11 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/axone-protocol/prolog/pull/17\">#17</a>: Add (preliminary) support for dicts structure",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
