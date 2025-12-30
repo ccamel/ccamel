@@ -92,13 +92,18 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Actor Model Playground</a></h3>
-      <p>Playing with the <strong>Next-gen Actor Model</strong> — Event Sourcing meets DDD</p>
+      <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Go Actor Model Playground</a></h3>
+      <p>Playing with the <a href="https://proto.actor/"><strong>Go Next-gen Actor Model</strong></a> — Event Sourcing meets DDD</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/playground-protoactor.go?style=social" alt="stars"/></p>
-      <p>Exploring Proto.Actor framework with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
+      <p>Exploring <a href="https://github.com/asynkron/protoactor-go">Proto.Actor framework</a> with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
       <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/bobinerie">🧵 La Bobinerie</a></h3>
+      <p>Haberdashery of <a href="https://www.bobine.tech/"><strong>Bobine</strong></a> <strong>Smart contracts</strong></p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/bobinerie?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/bobinerie?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Collection of smart contracts for <a href="https://www.bobine.tech/">Bobine</a>: from useful, serious pieces to educational gems and esoteric oddities. WASM-based modules written in <a href="https://www.assemblyscript.org/">AssemblyScript</a>.</p>
+      <p><code>AssemblyScript</code> <code>WASM</code> <code>Smart Contracts</code> <code>Web3</code></p>
     </td>
   </tr>
 </table>
