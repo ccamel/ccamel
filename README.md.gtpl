@@ -99,6 +99,11 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/bobinerie">🧵 La Bobinerie</a></h3>
+      <p>Haberdashery of <a href="https://www.bobine.tech/">Bobine</a> <strong>Smart contracts</strong></p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/bobinerie?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/bobinerie?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Collection of smart contracts for <a href="https://www.bobine.tech/">Bobine</a>: from useful, serious pieces to educational gems and esoteric oddities. WASM-based modules written in <a href="https://www.assemblyscript.org/">AssemblyScript</a>.</p>
+      <p><code>AssemblyScript</code> <code>WASM</code> <code>Smart Contracts</code> <code>Web3</code></p>
     </td>
   </tr>
 </table>
