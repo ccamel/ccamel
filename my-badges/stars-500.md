@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/rchakode/kube-opex-analytics">rchakode/kube-opex-analytics: ★459</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★46</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
-* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★27</a>
+* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★28</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★25</a>
 * <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★15</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★10</a>
@@ -19,6 +19,7 @@ Repos:
 * <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
+* <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★3</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★2</a>
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
 * <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★2</a>

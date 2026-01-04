@@ -3,7 +3,9 @@
 <br><br>
 
 - <a href="https://github.com/okp4/awesome/issues/42">#42</a>
+- <a href="https://github.com/axone-protocol/axone-mcp/issues/42">#42</a>
 - <a href="https://github.com/axone-protocol/axoned/issues/42">#42</a>
+- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/issues/42">#42</a>
 - <a href="https://github.com/axone-protocol/ontology/issues/42">#42</a>
 
 
