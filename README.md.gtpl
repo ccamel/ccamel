@@ -121,6 +121,13 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
+## My Latest Gists
+{{range gists 7}}
+{{if .Description -}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+{{- end}}
+
 ## Recent Stars
 {{range recentStars 10}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}){{if .Repo.Description}} • {{.Repo.Description}}{{end}}
@@ -129,13 +136,6 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 ## My recent Followers
 {{range followers 10}}
 - [`@{{.Login}}`]({{.URL}})
-{{- end}}
-
-## My Latest Gists
-{{range gists 7}}
-{{if .Description -}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
 {{- end}}
 
 ## Languages and Tools

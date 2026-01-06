@@ -132,6 +132,16 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (3/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-3-3-424f7a8eb2fc?source=rss-79c7e8ef7569------2)
 - [Beyond Traditional Governance: Embracing On-Chain with OKP4 (2/3)](https://blog.axone.xyz/beyond-traditional-governance-embracing-on-chain-with-okp4-2-3-17237d68033c?source=rss-79c7e8ef7569------2)
 
+## My Latest Gists
+
+- [My personal archive of surrealist prompts](https://gist.github.com/4bed0857811867dcdb5491bfdc975578) (1 month ago)
+- [my own collection of absurd and self-referential paradoxes from within the machine](https://gist.github.com/d4c7a7cd812906dfebc61a027805029d) (1 month ago)
+- [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (10 months ago)
+- [One-liner to conjure all Axone airdrop giga-chads — proof of participation on-chain (https://airdrop.axone.xyz)](https://gist.github.com/25a453db78023df8c8cd7bf9c20be800) (10 months ago)
+- [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (11 months ago)
+- [A collection of handy one-liners leveraging the Axoned CLI for interacting with the Axone blockchain](https://gist.github.com/44cbc7d8e42f183dcbc78c85ebf404d0) (11 months ago)
+- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 year ago)
+
 ## Recent Stars
 
 - [`ciao-lang/ciao`](https://github.com/ciao-lang/ciao) (1 day ago) • Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
@@ -157,16 +167,6 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 - [`@SuperAdam47`](https://github.com/SuperAdam47)
 - [`@dexoryn`](https://github.com/dexoryn)
 - [`@Badshah-CoderZ`](https://github.com/Badshah-CoderZ)
-
-## My Latest Gists
-
-- [My personal archive of surrealist prompts](https://gist.github.com/4bed0857811867dcdb5491bfdc975578) (1 month ago)
-- [my own collection of absurd and self-referential paradoxes from within the machine](https://gist.github.com/d4c7a7cd812906dfebc61a027805029d) (1 month ago)
-- [One-liner sorcery to rip stats from the Axone Cognitarium smart contract (🔗 https://axone.xyz)](https://gist.github.com/75628fd9b042f30cfaaf2507338f9b50) (10 months ago)
-- [One-liner to conjure all Axone airdrop giga-chads — proof of participation on-chain (https://airdrop.axone.xyz)](https://gist.github.com/25a453db78023df8c8cd7bf9c20be800) (10 months ago)
-- [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (11 months ago)
-- [A collection of handy one-liners leveraging the Axoned CLI for interacting with the Axone blockchain](https://gist.github.com/44cbc7d8e42f183dcbc78c85ebf404d0) (11 months ago)
-- [Simple magical one-line bash command to graph KatAI contributions over time (https://katai.xyz)](https://gist.github.com/f27603e36d7b4e6f2bfc5c5454f71cdd) (1 year ago)
 
 ## Languages and Tools
 
