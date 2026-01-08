@@ -46,7 +46,7 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 ## The human in the Geek
 
-• Father of a future hacker - raising a curious mind one byte at a time.<br/>
+• Father of a ~~future~~ hacker [@DREwX-code](https://github.com/DREwX-code) - mission accomplished, one byte at a time.<br/>
 • Two feline overlords graciously allow me to live in their home.<br/>
 • Started my coding quest at age 10 on a [Hector 2HR](<https://en.wikipedia.org/wiki/Hector_(microcomputer)>) before leveling up to the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500).<br/>
 • Rooted in the 80s - where vintage tech, CRT glow, and well-crafted objects had a soul.
