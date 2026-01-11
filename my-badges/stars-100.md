@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★15</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★10</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
@@ -12,9 +11,9 @@ Repos:
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
 * <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★4</a>
 * <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
+* <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★4</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
-* <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★3</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★2</a>
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
 * <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★2</a>
