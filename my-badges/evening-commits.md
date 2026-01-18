@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/bobinerie/commit/c2ad9785f5851a1d6864a3ac6a6511ab3eff9c13">c2ad978</a>
-- <a href="https://github.com/ccamel/bobinerie/commit/245b536a50da00d468392151489d465f525faa42">245b536</a>
-- <a href="https://github.com/ccamel/bobinerie/commit/990d963199356fa24a4f7a9776bc2e1a6b4e8a57">990d963</a>
-- <a href="https://github.com/ccamel/playground-elm/commit/55c32edbc5cd8ca959485b5e841bd81e16a87838">55c32ed</a>
-- <a href="https://github.com/ccamel/bobinerie/commit/79456d9f0bd27db564441cc44f60fc741cd1540e">79456d9</a>
-- <a href="https://github.com/ccamel/bobinerie/commit/167b5d8d9d127aa75e09045a6cc08b3773b0e748">167b5d8</a>
+- <a href="https://github.com/ccamel/bobinerie/commit/b2cf9a7ba7c04dc3aab073f2592cb1807b285f1b">b2cf9a7</a>
+- <a href="https://github.com/ccamel/bobinerie/commit/13eb41303fff530c4e6bdf85cbd425176c7c332b">13eb413</a>
+- <a href="https://github.com/ccamel/bobinerie/commit/cf4b784f1ab0ae92e5df2123cb9346ed89e33d02">cf4b784</a>
+- <a href="https://github.com/ccamel/bobinerie/commit/a09bb1676e436ec0f6de5b296b14aa04c6691f70">a09bb16</a>
+- <a href="https://github.com/ccamel/bobinerie/commit/7ba54635cfc687204e4e6cf98750b72f4ed0242e">7ba5463</a>
+- <a href="https://github.com/ccamel/bobinerie/commit/2529c3c045f411eb819cb240d7f8d4feec9de10f">2529c3c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
