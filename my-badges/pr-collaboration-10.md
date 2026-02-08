@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/okp4/ui/pull/365">#365</a>: Feat/babylon engine atom
+- <a href="https://github.com/axone-protocol/axoned/pull/105">#105</a>: ⚖️ Adopt Apache License Version 2.0, January 2004
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

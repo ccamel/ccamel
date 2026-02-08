@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/axone-protocol/axoned/pull/11">#11</a>: Ci/fix dependabot issues
+- <a href="https://github.com/axone-protocol/ontology/pull/6">#6</a>: Introduce `dataspace` concept
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
