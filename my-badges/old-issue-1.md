@@ -9,6 +9,7 @@ Issues:
 - <a href="https://github.com/axone-protocol/docs/issues/339">#339</a>: WhitePaper - Reduce illustration size / Increase font size
 - <a href="https://github.com/axone-protocol/contracts/issues/424">#424</a>: 🌐 Implement RevokeClaims
 - <a href="https://github.com/axone-protocol/prolog/issues/14">#14</a>: 🐛 Stream representation Is non-deterministic
+- <a href="https://github.com/axone-protocol/axoned/issues/788">#788</a>: 🧠 Logic: ⛓️ `foldl/4` predicate
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
