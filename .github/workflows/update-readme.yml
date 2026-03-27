@@ -58,7 +58,7 @@ jobs:
           npx prettier@3.0.3 README.md --write
 
       - name: Add & Commit changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: "docs(README): update my activity sections"
           author_name: ${{ vars.GIT_AUTHOR_NAME }}
