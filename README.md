@@ -144,29 +144,29 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 
 ## Recent Stars
 
-- [`sylvainhalle/textidote`](https://github.com/sylvainhalle/textidote) (1 day ago) • Spelling, grammar and style checking on LaTeX documents
-- [`ChiefGokhlayeh/textidote-action`](https://github.com/ChiefGokhlayeh/textidote-action) (1 day ago) • GitHub Action to lint, spell- and grammar-check LaTeX documents using TeXtidote.
-- [`basecamp/writebook`](https://github.com/basecamp/writebook) (2 days ago)
-- [`github/copilot-sdk`](https://github.com/github/copilot-sdk) (3 days ago) • Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-- [`rickpayne/erlang-tcpip`](https://github.com/rickpayne/erlang-tcpip) (3 days ago) • Erlang TCP/IP Stack
-- [`russor/crazierl`](https://github.com/russor/crazierl) (3 days ago) • An Erlang Operating System for x86
-- [`NVIDIA/NemoClaw`](https://github.com/NVIDIA/NemoClaw) (4 days ago) • Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
-- [`taigrr/spank`](https://github.com/taigrr/spank) (5 days ago) • Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
-- [`nextlevelbuilder/ui-ux-pro-max-skill`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (5 days ago) • An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [`Prathamesh-Udoshi/LLM-Checkmate`](https://github.com/Prathamesh-Udoshi/LLM-Checkmate) (6 days ago) • Instantly determines if your computer can run specific LLMs by analyzing hardware specs against real-time Hugging Face data. Features AI-powered spec parsing, neural performance scoring, and expert inference recommendations (GGUF/AWQ/vLLM).
+- [`coderabbitai/skills`](https://github.com/coderabbitai/skills) (1 day ago)
+- [`samber/mo`](https://github.com/samber/mo) (1 day ago) • 🦄 Monads and popular FP abstractions, powered by Go 1.18&#43; Generics (Option, Result, Either...)
+- [`samber/cc-skills-golang`](https://github.com/samber/cc-skills-golang) (1 day ago) • 🧑‍🎨 A collection of Golang agentic skills that works
+- [`jvr0x/zed-token-counter`](https://github.com/jvr0x/zed-token-counter) (1 day ago) • Zed extension that displays LLM token counts (GPT-4, GPT-4o, Claude estimate) as inline hints
+- [`lukas-krecan/ShedLock`](https://github.com/lukas-krecan/ShedLock) (2 days ago) • Distributed lock for your scheduled tasks
+- [`AJenbo/phpantom_lsp`](https://github.com/AJenbo/phpantom_lsp) (2 days ago) • Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
+- [`tulios/kafkajs`](https://github.com/tulios/kafkajs) (2 days ago) • A modern Apache Kafka client for node.js
+- [`dydxprotocol/v4-chain`](https://github.com/dydxprotocol/v4-chain) (2 days ago) • dydx v4 protocol
+- [`akash-network/net`](https://github.com/akash-network/net) (2 days ago) • genesis and configuration files for various akash networks
+- [`hao-ai-lab/Consistency_LLM`](https://github.com/hao-ai-lab/Consistency_LLM) (3 days ago) • [ICML 2024] CLLMs: Consistency Large Language Models
 
 ## My recent Followers
 
+- [`@afrinbhuiyan`](https://github.com/afrinbhuiyan)
+- [`@danielfounder`](https://github.com/danielfounder)
+- [`@LUCIEN-VALCREST`](https://github.com/LUCIEN-VALCREST)
+- [`@DaviBaum`](https://github.com/DaviBaum)
+- [`@cyan0-3`](https://github.com/cyan0-3)
+- [`@amazing-soft-dev`](https://github.com/amazing-soft-dev)
+- [`@devlaiger`](https://github.com/devlaiger)
 - [`@mustafaahmetaslan`](https://github.com/mustafaahmetaslan)
 - [`@ChungusLord123`](https://github.com/ChungusLord123)
 - [`@Ayoub-glitsh`](https://github.com/Ayoub-glitsh)
-- [`@wangweihanNB`](https://github.com/wangweihanNB)
-- [`@sultonbektoxirboyev`](https://github.com/sultonbektoxirboyev)
-- [`@beytekindavut`](https://github.com/beytekindavut)
-- [`@rasidi3112`](https://github.com/rasidi3112)
-- [`@ShRP69`](https://github.com/ShRP69)
-- [`@drogasanddestruicion`](https://github.com/drogasanddestruicion)
-- [`@Dtzul04`](https://github.com/Dtzul04)
 
 ## Languages and Tools
 
@@ -284,6 +284,8 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 </a>
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -303,28 +305,16 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;to&quot;." title="My favorite word is &quot;to&quot;." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 13 my own repositories." title="I&apos;ve starred 13 my own repositories." width="64"></a>
-<a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
-<a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
-<a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a>
-<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
-<a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
-<a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
-<a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
-<a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
-<a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
+
 <!-- my-badges end -->
 
 <br />
