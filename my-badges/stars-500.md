@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★476</a>
+* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★477</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★46</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
+* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★29</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★28</a>
-* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★28</a>
 * <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★15</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★11</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
