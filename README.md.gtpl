@@ -106,6 +106,17 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><code>AssemblyScript</code> <code>WASM</code> <code>Smart Contracts</code> <code>Web3</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/terraforming-chez-moi">🪐 Terraforming Chez Moi</a></h3>
+      <p><strong>Personal Terraform configuration</strong> — Shaping and managing my home infrastructure</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/terraforming-chez-moi?style=social" alt="stars"/></p>
+      <p>Infrastructure-as-code for my homelab and home services, captured in Terraform and organized as a personal operations playground.</p>
+      <p><code>HCL</code> <code>Terraform</code> <code>Homelab</code> <code>Synology</code></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ## Latest releases I've contributed to
