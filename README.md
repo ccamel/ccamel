@@ -115,6 +115,11 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><code>HCL</code> <code>Terraform</code> <code>Homelab</code> <code>Synology</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/go-graphql-subscription-example">📡 GraphQL Subscriptions in Go</a></h3>
+      <p><strong>go-graphql subscriptions</strong> — Event streaming over Kafka, Redis, and NSQ</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/go-graphql-subscription-example?style=social" alt="stars"/></p>
+      <p>Example project showing GraphQL subscriptions in Go with broker-backed event propagation and real-time updates across multiple transports.</p>
+      <p><code>Go</code> <code>GraphQL</code> <code>Kafka</code> <code>Redis</code></p>
     </td>
   </tr>
 </table>
