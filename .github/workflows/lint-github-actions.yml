@@ -1,4 +1,4 @@
-name: Actionlint
+name: Lint GitHub Actions
 
 on:
   push:
@@ -6,16 +6,14 @@ on:
     paths:
       - ".github/workflows/*.yml"
       - ".github/workflows/*.yaml"
-      - ".github/actionlint.yml"
-      - ".github/actionlint.yaml"
+      - ".github/workflows/lint-github-actions.yml"
 
   pull_request:
     branches: [main]
     paths:
       - ".github/workflows/*.yml"
       - ".github/workflows/*.yaml"
-      - ".github/actionlint.yml"
-      - ".github/actionlint.yaml"
+      - ".github/workflows/lint-github-actions.yml"
 
   workflow_dispatch:
 
@@ -27,7 +25,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  actionlint:
+  lint-github-actions:
     runs-on: ubuntu-22.04
     env:
       ACTIONLINT_VERSION: "1.7.12"
