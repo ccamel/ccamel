@@ -1,0 +1,33 @@
+name: Star Org Repositories
+
+on:
+  schedule:
+    - cron: "1 1 * * 0"
+
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  star-org-repositories:
+    runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        org: [okp4, axone-protocol]
+      max-parallel: 1
+    steps:
+      - name: Setup node environment
+        uses: actions/setup-node@v6
+        with:
+          node-version: 20
+
+      - name: Star organisation repositories
+        run: |
+          npx \
+            --yes @octoherd/script-star-or-unstar@v2.0.2 \
+            --octoherd-bypass-confirms yes \
+            -T "$GH_TOKEN" \
+            -R "${{ matrix.org }}/*"
+        env:
+          GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
