@@ -37,13 +37,13 @@ jobs:
       - name: Follow some guys
         run: |
           USERS=$(gh api --paginate "${{ matrix.resources.name }}" | jq '[${{ matrix.resources.extractor }}] | unique | .[]' -r)
-          for u in $USERS
+          while IFS= read -r u
           do
             echo "follow $u"
-            gh api -X PUT user/following/$u
+            gh api -X PUT "user/following/$u"
 
-            sleep $SLEEP_DURATION
-          done
+            sleep "$SLEEP_DURATION"
+          done <<< "$USERS"
         env:
           SLEEP_DURATION: 2
           GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
