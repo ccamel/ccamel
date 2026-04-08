@@ -1,0 +1,49 @@
+name: Follow Guys
+
+on:
+  workflow_run:
+    workflows: ["Star Org Repositories"]
+    types: [completed]
+
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.workflow_run.head_branch || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  follow-guys:
+    runs-on: ubuntu-22.04
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    strategy:
+      max-parallel: 1
+      matrix:
+        resources:
+          - name: "user/followers"
+            extractor: ".[].login"
+          - name: "repos/axone-protocol/contributors"
+            extractor: ".[].login"
+          - name: "orgs/okp4/members"
+            extractor: ".[].login"
+          - name: "orgs/axone-protocol/members"
+            extractor: ".[].login"
+          - name: "orgs/okp4/outside_collaborators"
+            extractor: ".[].login"
+          - name: "orgs/axone-protocol/outside_collaborators"
+            extractor: ".[].login"
+          - name: "repos/axone-protocol/networks/issues?labels=register-validator&state=closed&reason=completed"
+            extractor: ".[].user.login"
+    steps:
+      - name: Follow some guys
+        run: |
+          USERS=$(gh api --paginate "${{ matrix.resources.name }}" | jq '[${{ matrix.resources.extractor }}] | unique | .[]' -r)
+          while IFS= read -r u
+          do
+            echo "follow $u"
+            gh api -X PUT "user/following/$u"
+
+            sleep "$SLEEP_DURATION"
+          done <<< "$USERS"
+        env:
+          SLEEP_DURATION: 2
+          GH_TOKEN: ${{ secrets.SOCIALIZE_TOKEN }}
