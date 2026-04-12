@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★477</a>
+* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★478</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★46</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★29</a>
