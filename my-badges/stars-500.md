@@ -7,17 +7,17 @@ Repos:
 * <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★478</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★46</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
-* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★29</a>
-* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★28</a>
-* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★15</a>
+* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★30</a>
+* <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★29</a>
+* <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★16</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★11</a>
 * <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
 * <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
 * <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★6</a>
 * <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
-* <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★5</a>
 * <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★4</a>
 * <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
+* <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★4</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★2</a>
@@ -65,6 +65,7 @@ Repos:
 * <a href="https://github.com/ccamel/terraforming-chez-moi">ccamel/terraforming-chez-moi: ★1</a>
 * <a href="https://github.com/ccamel/visualvault">ccamel/visualvault: ★1</a>
 * <a href="https://github.com/ccamel/workflows-go">ccamel/workflows-go: ★1</a>
+* <a href="https://github.com/ccamel/bobine">ccamel/bobine: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
