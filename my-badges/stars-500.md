@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★481</a>
+* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★480</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★46</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★30</a>
@@ -24,6 +24,7 @@ Repos:
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
 * <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★2</a>
 * <a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp: ★2</a>
+* <a href="https://github.com/ccamel/terraforming-chez-moi">ccamel/terraforming-chez-moi: ★2</a>
 * <a href="https://github.com/ccamel/react-starter-kit">ccamel/react-starter-kit: ★1</a>
 * <a href="https://github.com/ccamel/silk">ccamel/silk: ★1</a>
 * <a href="https://github.com/ccamel/crud">ccamel/crud: ★1</a>
@@ -62,7 +63,6 @@ Repos:
 * <a href="https://github.com/ccamel/product-docs">ccamel/product-docs: ★1</a>
 * <a href="https://github.com/ccamel/explore">ccamel/explore: ★1</a>
 * <a href="https://github.com/ccamel/scion-tools">ccamel/scion-tools: ★1</a>
-* <a href="https://github.com/ccamel/terraforming-chez-moi">ccamel/terraforming-chez-moi: ★1</a>
 * <a href="https://github.com/ccamel/visualvault">ccamel/visualvault: ★1</a>
 * <a href="https://github.com/ccamel/workflows-go">ccamel/workflows-go: ★1</a>
 * <a href="https://github.com/ccamel/bobine">ccamel/bobine: ★1</a>
