@@ -25,7 +25,7 @@ I operate at the event horizon of **innovation and pragmatism**, where strategy 
 
 ## `[▮▮▮▮▮▯▯▯▯▯▯▯] 42% in progress`
 
-• CTO @[Axone](https://axone.xyz) [:octocat:](https://github.com/axone-protocol/) - the universal orchestration protocol to connect, share, and monetize any resources in the AI stack ([Cosmos SDK](https://cosmos.network/), [CosmWasm](https://cosmwasm.com/), [Rust](https://www.rust-lang.org/), [Go](https://go.dev/)).<br/>
+• CTO @[Axone](https://axone.xyz) [:octocat:](https://github.com/axone-protocol/) - a blockchain-native protocol for governing acts across humans, agents, and resources. ([Cosmos SDK](https://cosmos.network/), [CosmWasm](https://cosmwasm.com/), [Rust](https://www.rust-lang.org/), [Go](https://go.dev/)).<br/>
 • Co-founder @[2Alchemist](https://krossboard.app/) [:octocat:](https://github.com/2-alchemists/) - Optimizing cloud-native infrastructures with smart resource management ([kubernetes](https://kubernetes.io/), [typescript](https://www.typescriptlang.org/)).
 
 ## Prime directives
