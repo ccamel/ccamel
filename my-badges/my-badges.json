@@ -143,7 +143,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1892 times)\n2. update (used 1237 times)\n3. :arrow_up: (used 921 times)\n4. new (used 920 times)\n5. request (used 917 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1899 times)\n2. update (used 1242 times)\n3. new (used 927 times)\n4. request (used 921 times)\n5. :arrow_up: (used 921 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -243,20 +243,6 @@
     "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/85ce46ef2133f5189f20a038775b90d4d2547f5a\">85ce46e</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/10d51df749b583929cfbc5d79921d5b166949ce2\">10d51df</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/ea6f2434622aef2a59ee735169699db0265bd822\">ea6f243</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/c64f2a40858aaf8670a35845c0451c35da0f93b5\">c64f2a4</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/bfbbc45a889ac39db3361f3c298c7dbc4543b48e\">bfbbc45</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/6a6dd8d2ed27b6612f062a9b3670432cb8aa1425\">6a6dd8d</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/axone-protocol/ontology/issues/96\">#96</a>: 🚀 Deploy ontology on triple store\n- <a href=\"https://github.com/axone-protocol/docs/issues/431\">#431</a>: 🐛 Version selector widget not available on small devices\n- <a href=\"https://github.com/axone-protocol/docs/issues/339\">#339</a>: WhitePaper - Reduce illustration size / Increase font size\n- <a href=\"https://github.com/axone-protocol/contracts/issues/424\">#424</a>: 🌐 Implement RevokeClaims\n- <a href=\"https://github.com/axone-protocol/prolog/issues/14\">#14</a>: 🐛 Stream representation Is non-deterministic\n- <a href=\"https://github.com/axone-protocol/axoned/issues/788\">#788</a>: 🧠 Logic: ⛓️ `foldl/4` predicate",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/axone-protocol/docs/issues/271\">#271</a>: Excessive Build time\n- <a href=\"https://github.com/axone-protocol/contracts/issues/332\">#332</a>: 🌐 Implement SubmitClaims",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {
     "id": "pi-day",
