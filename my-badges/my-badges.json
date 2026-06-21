@@ -126,13 +126,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
@@ -143,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1899 times)\n2. update (used 1242 times)\n3. new (used 927 times)\n4. request (used 921 times)\n5. :arrow_up: (used 921 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1906 times)\n2. update (used 1243 times)\n3. new (used 934 times)\n4. request (used 924 times)\n5. merge (used 923 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -278,5 +271,12 @@
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/cb5d32dc73529e20cafe3940509497ddc6ce8c97\">cb5d32dc73529e20<strong>cafe</strong>3940509497ddc6ce8c97</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
