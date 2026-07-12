@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1924 times)\n2. update (used 1246 times)\n3. new (used 952 times)\n4. request (used 935 times)\n5. merge (used 934 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1927 times)\n2. update (used 1247 times)\n3. new (used 955 times)\n4. request (used 935 times)\n5. merge (used 934 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -198,8 +198,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/ccamel/playground-binding.scala\">ccamel/playground-binding.scala</a>",
+    "desc": "I've starred 13 my own repositories.",
+    "body": "- <a href=\"https://github.com/ccamel/playground-binding.scala\">ccamel/playground-binding.scala</a>\n- <a href=\"https://github.com/ccamel/playground-elm\">ccamel/playground-elm</a>\n- <a href=\"https://github.com/ccamel/go-graphql-subscription-example\">ccamel/go-graphql-subscription-example</a>\n- <a href=\"https://github.com/ccamel/poc-piper-worker-flink\">ccamel/poc-piper-worker-flink</a>\n- <a href=\"https://github.com/ccamel/kynaptik\">ccamel/kynaptik</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go\">ccamel/playground-protoactor.go</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel\">ccamel/awesome-ccamel</a>\n- <a href=\"https://github.com/ccamel/ccamel\">ccamel/ccamel</a>\n- <a href=\"https://github.com/ccamel/amimart\">ccamel/amimart</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp\">ccamel/erlang-event-sourcing-xp</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel\">ccamel/chez-ccamel</a>\n- <a href=\"https://github.com/ccamel/becoming-ccamel\">ccamel/becoming-ccamel</a>\n- <a href=\"https://github.com/ccamel/bobinerie\">ccamel/bobinerie</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
