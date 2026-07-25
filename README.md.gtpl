@@ -119,6 +119,15 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><code>Go</code> <code>GraphQL</code> <code>Kafka</code> <code>Redis</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/chez-ccamel">🏡 Chez Ccamel</a></h3>
+      <p><strong>Personal Nix environments</strong> — Managed with Home Manager</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/chez-ccamel?style=social" alt="stars"/></p>
+      <p>My personal Nix environments managed by <a href="https://github.com/nix-community/home-manager">Home Manager</a>.</p>
+      <p><code>Nix</code> <code>Home Manager</code> <code>Dotfiles</code></p>
+    </td>
+  </tr>
 </table>
 
 ## Latest releases I've contributed to
