@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/8b51048f8f0a0ed1fd96073016c99701a1d9e14d\">8b51048</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/b21035716ca89a77b781764bf63f82ea03470dea\">b210357</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4e59e19017f15a0c9b71d9c1c0a26f644f7c531b\">4e59e19</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4a597e2044d9c1c637cbc1409645206190020c91\">4a597e2</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/8cfdf169befe4ceb6b7bcd6fbdfe93fa1c401fad\">8cfdf16</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/8c829cc962e3f9b13bfbce93aaf269bbc2f16c7f\">8c829cc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/3e7c08dd12d6214525815619f67d0b36ecfa7732\">3e7c08d</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/6cc653ccf2a21bbf8521f3a11d29d0deb92fef6e\">6cc653c</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/4b0dee6df34372c2b15151f4a3c7d78c9ce18d30\">4b0dee6</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/8b51048f8f0a0ed1fd96073016c99701a1d9e14d\">8b51048</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/b21035716ca89a77b781764bf63f82ea03470dea\">b210357</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4e59e19017f15a0c9b71d9c1c0a26f644f7c531b\">4e59e19</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1934 times)\n2. update (used 1248 times)\n3. new (used 962 times)\n4. repositories (used 937 times)\n5. request (used 935 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1965 times)\n2. update (used 1251 times)\n3. new (used 968 times)\n4. repositories (used 943 times)\n5. request (used 941 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -273,10 +273,10 @@
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
     "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
