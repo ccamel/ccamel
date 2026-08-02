@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/3e7c08dd12d6214525815619f67d0b36ecfa7732\">3e7c08d</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/6cc653ccf2a21bbf8521f3a11d29d0deb92fef6e\">6cc653c</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/4b0dee6df34372c2b15151f4a3c7d78c9ce18d30\">4b0dee6</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/8b51048f8f0a0ed1fd96073016c99701a1d9e14d\">8b51048</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/b21035716ca89a77b781764bf63f82ea03470dea\">b210357</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4e59e19017f15a0c9b71d9c1c0a26f644f7c531b\">4e59e19</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/e184ff7b7ab67a7dc25fd023fcd85f7dba52a4ff\">e184ff7</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/3e7c08dd12d6214525815619f67d0b36ecfa7732\">3e7c08d</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/6cc653ccf2a21bbf8521f3a11d29d0deb92fef6e\">6cc653c</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/4b0dee6df34372c2b15151f4a3c7d78c9ce18d30\">4b0dee6</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/8b51048f8f0a0ed1fd96073016c99701a1d9e14d\">8b51048</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/b21035716ca89a77b781764bf63f82ea03470dea\">b210357</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1965 times)\n2. update (used 1251 times)\n3. new (used 968 times)\n4. repositories (used 943 times)\n5. request (used 941 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1985 times)\n2. update (used 1255 times)\n3. new (used 975 times)\n4. repositories (used 950 times)\n5. request (used 941 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
