@@ -73,6 +73,22 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/prolog">🧠 Axone Prolog VM</a></h3>
+      <p><strong>Deterministic Prolog runtime</strong> — Logic engine for the Axone protocol</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/prolog?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/prolog?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Go implementation of a Prolog virtual machine for blockchain environments, powering deterministic, logic-based smart contracts on Axone.</p>
+      <p><code>Go</code> <code>Prolog</code> <code>Virtual Machine</code> <code>Blockchain</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/axone-protocol/surface">◌ Axone Surface</a></h3>
+      <p><strong>Governed situations, made readable</strong> — Public interface to the Axone protocol</p>
+      <p><img src="https://img.shields.io/github/stars/axone-protocol/surface?style=social" alt="stars"/></p>
+      <p>Experiential web interface making Axone's laws, identities, capabilities, and on-chain acts readable.</p>
+      <p><code>TypeScript</code> <code>Vue</code> <code>Blockchain</code> <code>Web</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/erlang-event-sourcing-xp">🧪 Event Sourcing in Erlang</a></h3>
       <p><strong>Exploring Event Sourcing patterns</strong> — (almost) Pure functional approach</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/erlang-event-sourcing-xp?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/erlang-event-sourcing-xp?style=flat-square&color=gray&label=" alt="version"/></p>
