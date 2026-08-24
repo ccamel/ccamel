@@ -137,7 +137,7 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ccamel/chez-ccamel">🏡 Chez Ccamel</a></h3>
+      <h3><a href="https://github.com/ccamel/chez-ccamel">🏡 Chez ccamel</a></h3>
       <p><strong>Personal Nix environments</strong> — Managed with Home Manager</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/chez-ccamel?style=social" alt="stars"/></p>
       <p>My personal Nix environments managed by <a href="https://github.com/nix-community/home-manager">Home Manager</a>.</p>
