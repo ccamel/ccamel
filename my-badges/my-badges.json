@@ -38,14 +38,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/c6f63d7c06a3d3a6fc71cfa41cf1ad7f34eb32c0\">c6f63d7</a>\n- <a href=\"https://github.com/ccamel/bobinerie/commit/d856a5721a8fe3ec367d00f4be912a80e6601996\">d856a57</a>\n- <a href=\"https://github.com/ccamel/bobinerie/commit/ee481b75d6c72dc167ad56e009a213b507af68b3\">ee481b7</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/165ee508b6d56e10606d929469375e41a91064bf\">165ee50</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/2d4d299480478d3ec93e9662be16376b4b49748f\">2d4d299</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/13d82bf271022d190971f34f46b381a7129eea91\">13d82bf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/3b41a3e0558ea95347b94f1de9ac2ae661d571d0\">3b41a3e</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/c6f63d7c06a3d3a6fc71cfa41cf1ad7f34eb32c0\">c6f63d7</a>\n- <a href=\"https://github.com/ccamel/bobinerie/commit/d856a5721a8fe3ec367d00f4be912a80e6601996\">d856a57</a>\n- <a href=\"https://github.com/ccamel/bobinerie/commit/ee481b75d6c72dc167ad56e009a213b507af68b3\">ee481b7</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/165ee508b6d56e10606d929469375e41a91064bf\">165ee50</a>\n- <a href=\"https://github.com/ccamel/chez-ccamel/commit/2d4d299480478d3ec93e9662be16376b4b49748f\">2d4d299</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4d624dccd78ad8d985925733e2791a637a3b110e\">4d624dc</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/f77c5ed9145471d96a042851b448a573c20638bf\">f77c5ed</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/0d1d8682fbb22ed100eb0eb135e5f2a77d85ceba\">0d1d868</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/7eba08e8327eb4b30fc46cf24cef747fb8160cc2\">7eba08e</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/13f7577f967cd2acc2fbe00212dc41caa0d2721f\">13f7577</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/689a1be160e63cab48c10dd8ef9c54821d777b8a\">689a1be</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/019d9c84ef320d179ad7629013e4afb75c58a0de\">019d9c8</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/4d624dccd78ad8d985925733e2791a637a3b110e\">4d624dc</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/f77c5ed9145471d96a042851b448a573c20638bf\">f77c5ed</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/0d1d8682fbb22ed100eb0eb135e5f2a77d85ceba\">0d1d868</a>\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/commit/7eba08e8327eb4b30fc46cf24cef747fb8160cc2\">7eba08e</a>\n- <a href=\"https://github.com/ccamel/playground-elm/commit/13f7577f967cd2acc2fbe00212dc41caa0d2721f\">13f7577</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 2021 times)\n2. update (used 1265 times)\n3. new (used 994 times)\n4. request (used 969 times)\n5. repositories (used 969 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 2052 times)\n2. update (used 1268 times)\n3. new (used 1001 times)\n4. request (used 985 times)\n5. merge (used 984 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
