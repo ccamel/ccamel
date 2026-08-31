@@ -96,21 +96,30 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><code>Erlang</code> <code>Event Sourcing</code> <code>CQRS</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ccamel/playground-elm">🎨 Elm Playground</a></h3>
-      <p><strong>Functional reactive programming</strong> — Visual experiments in Elm</p>
-      <p><img src="https://img.shields.io/github/stars/ccamel/playground-elm?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-elm?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Collection of visual showcases and experiments: procedural terrain generation, fractals, and interactive animations. Pure functional frontend.</p>
-      <p><code>Elm</code> <code>Functional Programming</code> <code>WebGL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Go Actor Model Playground</a></h3>
       <p>Playing with the <a href="https://proto.actor/"><strong>Go Next-gen Actor Model</strong></a> — Event Sourcing meets DDD</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/playground-protoactor.go?style=social" alt="stars"/></p>
       <p>Exploring <a href="https://github.com/asynkron/protoactor-go">Proto.Actor framework</a> with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
       <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-elm">🎨 Elm Playground</a></h3>
+      <p><strong>Functional reactive programming</strong> — Visual experiments in Elm</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-elm?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-elm?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Collection of visual showcases and experiments: procedural terrain generation, fractals, and interactive animations. Pure functional frontend.</p>
+      <p><code>Elm</code> <code>Functional Programming</code> <code>WebGL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/playground-binding.scala">🔗 binding.scala Playground</a></h3>
+      <p><strong>Reactive Scala.js experiments</strong> — Quite old, built with binding.scala</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/playground-binding.scala?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-binding.scala?style=flat-square&color=gray&label=" alt="version"/></p>
+      <p>Playground of reactive UI showcases exploring Scala.js and the binding.scala library.</p>
+      <p><code>Scala</code> <code>Scala.js</code> <code>binding.scala</code> <code>Functional Programming</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/bobinerie">🧵 La Bobinerie</a></h3>
       <p>Haberdashery of <a href="https://www.bobine.tech/"><strong>Bobine</strong></a> <strong>Smart contracts</strong></p>
@@ -118,8 +127,6 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p>Collection of smart contracts for <a href="https://www.bobine.tech/">Bobine</a>: from useful, serious pieces to educational gems and esoteric oddities. WASM-based modules written in <a href="https://www.assemblyscript.org/">AssemblyScript</a>.</p>
       <p><code>AssemblyScript</code> <code>WASM</code> <code>Smart Contracts</code> <code>Web3</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/terraforming-chez-moi">🪐 Terraforming Chez Moi</a></h3>
       <p><strong>Personal Terraform configuration</strong> — Shaping and managing my home infrastructure</p>
@@ -127,6 +134,8 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p>Infrastructure-as-code for my homelab and home services, captured in Terraform and organized as a personal operations playground.</p>
       <p><code>HCL</code> <code>Terraform</code> <code>Homelab</code> <code>Synology</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/go-graphql-subscription-example">📡 GraphQL Subscriptions in Go</a></h3>
       <p><strong>go-graphql subscriptions</strong> — Event streaming over Kafka, Redis, and NSQ</p>
@@ -134,8 +143,6 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p>Example project showing GraphQL subscriptions in Go with broker-backed event propagation and real-time updates across multiple transports.</p>
       <p><code>Go</code> <code>GraphQL</code> <code>Kafka</code> <code>Redis</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/chez-ccamel">🏡 Chez Ccamel</a></h3>
       <p><strong>Personal Nix environments</strong> — Managed with Home Manager</p>
