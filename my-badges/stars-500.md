@@ -6,22 +6,23 @@ Repos:
 
 * <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★485</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★48</a>
-* <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★34</a>
+* <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★35</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★29</a>
 * <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★28</a>
 * <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★17</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★12</a>
-* <a href="https://github.com/okp4/template-python">okp4/template-python: ★6</a>
-* <a href="https://github.com/okp4/actions">okp4/actions: ★6</a>
 * <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★6</a>
-* <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★5</a>
-* <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★4</a>
-* <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★4</a>
+* <a href="https://github.com/ccamel/poc-piper-worker-flink">ccamel/poc-piper-worker-flink: ★5</a>
+* <a href="https://github.com/ccamel/kynaptik">ccamel/kynaptik: ★5</a>
+* <a href="https://github.com/okp4/template-python">okp4/template-python: ★5</a>
+* <a href="https://github.com/okp4/actions">okp4/actions: ★5</a>
+* <a href="https://github.com/okp4/docker-images">okp4/docker-images: ★4</a>
 * <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★4</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★2</a>
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
+* <a href="https://github.com/ccamel/amimart">ccamel/amimart: ★2</a>
 * <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★2</a>
 * <a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp: ★2</a>
 * <a href="https://github.com/ccamel/react-starter-kit">ccamel/react-starter-kit: ★1</a>
@@ -47,7 +48,6 @@ Repos:
 * <a href="https://github.com/ccamel/rust-template">ccamel/rust-template: ★1</a>
 * <a href="https://github.com/ccamel/ghdid">ccamel/ghdid: ★1</a>
 * <a href="https://github.com/ccamel/javelin">ccamel/javelin: ★1</a>
-* <a href="https://github.com/ccamel/amimart">ccamel/amimart: ★1</a>
 * <a href="https://github.com/ccamel/docs">ccamel/docs: ★1</a>
 * <a href="https://github.com/ccamel/Nodeist">ccamel/Nodeist: ★1</a>
 * <a href="https://github.com/ccamel/awesome-ontology">ccamel/awesome-ontology: ★1</a>

@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ccamel/ccamel/commit/2617c2b0f6bc37b46091370048753b1249d94e4a">2617c2b</a>
+- <a href="https://github.com/ccamel/playground-elm/commit/069c775c8b0c863cfeac3729eb11c0266bbeec6d">069c775</a>
 - <a href="https://github.com/ccamel/ccamel/commit/3b41a3e0558ea95347b94f1de9ac2ae661d571d0">3b41a3e</a>
 - <a href="https://github.com/ccamel/ccamel/commit/c6f63d7c06a3d3a6fc71cfa41cf1ad7f34eb32c0">c6f63d7</a>
 - <a href="https://github.com/ccamel/bobinerie/commit/d856a5721a8fe3ec367d00f4be912a80e6601996">d856a57</a>
 - <a href="https://github.com/ccamel/bobinerie/commit/ee481b75d6c72dc167ad56e009a213b507af68b3">ee481b7</a>
-- <a href="https://github.com/ccamel/chez-ccamel/commit/165ee508b6d56e10606d929469375e41a91064bf">165ee50</a>
-- <a href="https://github.com/ccamel/chez-ccamel/commit/2d4d299480478d3ec93e9662be16376b4b49748f">2d4d299</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
