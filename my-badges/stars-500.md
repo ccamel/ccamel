@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★48</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★35</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★29</a>
-* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★28</a>
+* <a href="https://github.com/ccamel/awesome-ccamel">ccamel/awesome-ccamel: ★29</a>
 * <a href="https://github.com/ccamel/ccamel">ccamel/ccamel: ★17</a>
 * <a href="https://github.com/ccamel/playground-protoactor.go">ccamel/playground-protoactor.go: ★12</a>
 * <a href="https://github.com/ccamel/becoming-ccamel">ccamel/becoming-ccamel: ★6</a>
@@ -51,7 +51,6 @@ Repos:
 * <a href="https://github.com/ccamel/docs">ccamel/docs: ★1</a>
 * <a href="https://github.com/ccamel/Nodeist">ccamel/Nodeist: ★1</a>
 * <a href="https://github.com/ccamel/awesome-ontology">ccamel/awesome-ontology: ★1</a>
-* <a href="https://github.com/antho31/okp4-ui-boilerplate">antho31/okp4-ui-boilerplate: ★1</a>
 * <a href="https://github.com/ccamel/prolog">ccamel/prolog: ★1</a>
 * <a href="https://github.com/ccamel/arbitrum-publisher">ccamel/arbitrum-publisher: ★1</a>
 * <a href="https://github.com/ccamel/100-exercises-to-learn-rust">ccamel/100-exercises-to-learn-rust: ★1</a>

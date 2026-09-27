@@ -45,7 +45,6 @@ Repos:
 * <a href="https://github.com/ccamel/docs">ccamel/docs: ★1</a>
 * <a href="https://github.com/ccamel/Nodeist">ccamel/Nodeist: ★1</a>
 * <a href="https://github.com/ccamel/awesome-ontology">ccamel/awesome-ontology: ★1</a>
-* <a href="https://github.com/antho31/okp4-ui-boilerplate">antho31/okp4-ui-boilerplate: ★1</a>
 * <a href="https://github.com/ccamel/prolog">ccamel/prolog: ★1</a>
 * <a href="https://github.com/ccamel/arbitrum-publisher">ccamel/arbitrum-publisher: ★1</a>
 * <a href="https://github.com/ccamel/100-exercises-to-learn-rust">ccamel/100-exercises-to-learn-rust: ★1</a>
