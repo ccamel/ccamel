@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/axone-protocol/prolog/pull/17">#17</a>: Add (preliminary) support for dicts structure
+- <a href="https://github.com/ccamel/erlang-event-sourcing-xp/pull/87">#87</a>: Feat/store postgresql
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

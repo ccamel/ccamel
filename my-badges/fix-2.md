@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/ccamel/commit/5508f01ae90a2b855d2fff7b48351cdfe74a59d2">5508f01</a>: fix: activity-graph url link
-- <a href="https://github.com/ccamel/ccamel/commit/2083c171c284c0352720c9b9dabf62b0e40e02da">2083c17</a>: fix: fix secret management
+- <a href="https://github.com/ccamel/terraforming-chez-moi/commit/7772f9e2cfada86d1bf8c7df6b585daf5240d0d8">7772f9e</a>: fix(docs): support ZeroClaw without published ports
+- <a href="https://github.com/ccamel/terraforming-chez-moi/commit/f211e8a56a18716da50217d6eb244e37e9d013a5">f211e8a</a>: fix(terraform): fix kuma healthcheck
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -20,10 +20,10 @@ Repos:
 * <a href="https://github.com/ccamel/bobinerie">ccamel/bobinerie: ★4</a>
 * <a href="https://github.com/ccamel/generator-latex-mail">ccamel/generator-latex-mail: ★3</a>
 * <a href="https://github.com/bot-anik/bot-anik">bot-anik/bot-anik: ★3</a>
+* <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★3</a>
 * <a href="https://github.com/ccamel/hibernate-types">ccamel/hibernate-types: ★2</a>
 * <a href="https://github.com/ccamel/prest">ccamel/prest: ★2</a>
 * <a href="https://github.com/ccamel/amimart">ccamel/amimart: ★2</a>
-* <a href="https://github.com/ccamel/chez-ccamel">ccamel/chez-ccamel: ★2</a>
 * <a href="https://github.com/ccamel/erlang-event-sourcing-xp">ccamel/erlang-event-sourcing-xp: ★2</a>
 * <a href="https://github.com/ccamel/react-starter-kit">ccamel/react-starter-kit: ★1</a>
 * <a href="https://github.com/ccamel/silk">ccamel/silk: ★1</a>
