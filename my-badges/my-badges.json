@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/ea11285b51bf4585f9af04939f5676aae9082732\">ea11285</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/471aff394170aea418eb8699b18b608dea3e7443\">471aff3</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/f6dfcf940b10d5b5d13e7e061318fa05605b6caf\">f6dfcf9</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/7f21390aa7ca645105d35104cf1b6c90cac262b7\">7f21390</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/53e5acbe66c1772239d78afb3d9d0fc65b4fed11\">53e5acb</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/8b4482ec27c969c6b274a55cb6a1d996a6237818\">8b4482e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/f191ddd3cbf9ad874846e10c1ab167c15658a235\">f191ddd</a>\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/commit/6ee98eb9a1319d0795ea95122a6fcd739e0ebb2d\">6ee98eb</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/11a63dfbd64d9f20988f67c7e51975421ddc4cf7\">11a63df</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/ea11285b51bf4585f9af04939f5676aae9082732\">ea11285</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/471aff394170aea418eb8699b18b608dea3e7443\">471aff3</a>\n- <a href=\"https://github.com/ccamel/awesome-ccamel/commit/f6dfcf940b10d5b5d13e7e061318fa05605b6caf\">f6dfcf9</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 2148 times)\n2. update (used 1348 times)\n3. request (used 1060 times)\n4. merge (used 1059 times)\n5. pull (used 1053 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 2156 times)\n2. update (used 1350 times)\n3. request (used 1075 times)\n4. merge (used 1074 times)\n5. pull (used 1069 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/cfca9109927d314cfb88bda06c7a4e927c056591\">cfca910</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/639f312ccf7ae2e95b49359bd2298b80d635dc5d\">639f312</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/2a61d1b51f954c02a1c7e9ae7ef50305df919c45\">2a61d1b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ccamel/ccamel/commit/fdaec0f7f5878a1be2e37257b104643b1a65f950\">fdaec0f</a>\n- <a href=\"https://github.com/ccamel/playground-protoactor.go/commit/594b9827d865a762b7f0d81b73452c0ca6f113f8\">594b982</a>\n- <a href=\"https://github.com/ccamel/ccamel/commit/cfca9109927d314cfb88bda06c7a4e927c056591\">cfca910</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/639f312ccf7ae2e95b49359bd2298b80d635dc5d\">639f312</a>\n- <a href=\"https://github.com/ccamel/kynaptik/commit/2a61d1b51f954c02a1c7e9ae7ef50305df919c45\">2a61d1b</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -283,7 +283,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/pull/87\">#87</a>: Feat/store postgresql",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/ccamel/erlang-event-sourcing-xp/pull/87\">#87</a>: Feat/store postgresql\n- <a href=\"https://github.com/ccamel/terraforming-chez-moi/pull/94\">#94</a>: feat(transmission): add Transmission compose stack",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]

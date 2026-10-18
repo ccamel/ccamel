@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/ccamel/erlang-event-sourcing-xp/pull/87">#87</a>: Feat/store postgresql
+- <a href="https://github.com/ccamel/terraforming-chez-moi/pull/94">#94</a>: feat(transmission): add Transmission compose stack
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
