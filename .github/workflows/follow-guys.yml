@@ -1,6 +1,6 @@
 name: Follow Guys
 
-on:
+"on":
   workflow_run:
     workflows: ["Star Org Repositories"]
     types: [completed]
@@ -21,8 +21,6 @@ jobs:
         resources:
           - name: "user/followers"
             extractor: ".[].login"
-          - name: "repos/axone-protocol/contributors"
-            extractor: ".[].login"
           - name: "orgs/okp4/members"
             extractor: ".[].login"
           - name: "orgs/axone-protocol/members"
@@ -36,6 +34,8 @@ jobs:
     steps:
       - name: Follow some guys
         run: |
+          set -euo pipefail
+
           USERS=$(gh api --paginate "${{ matrix.resources.name }}" | jq '[${{ matrix.resources.extractor }}] | unique | .[]' -r)
           while IFS= read -r u
           do

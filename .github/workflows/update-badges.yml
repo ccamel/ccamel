@@ -1,6 +1,6 @@
 name: Update Badges
 
-on:
+"on":
   workflow_run:
     workflows: ["Update Activity"]
     types: [completed]
@@ -20,19 +20,31 @@ jobs:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     steps:
       - name: Check out repository
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
         with:
           ref: ${{ github.event.workflow_run.head_branch || github.ref_name }}
-          fetch-depth: 2
           token: ${{ secrets.BADGES_TOKEN }}
 
-      - name: Update My Badges
-        run: npx update-my-badges@1.0.247 ${{ github.repository_owner }}
+      - name: Generate badge files
         env:
           GITHUB_TOKEN: ${{ secrets.BADGES_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          workdir="$RUNNER_TEMP/my-badges"
+          mkdir --parents "$workdir"
+          (
+            cd "$workdir"
+            npx update-my-badges@1.0.247 \
+              "${{ github.repository_owner }}" \
+              --dryrun
+          )
+
+          rsync --archive --delete "$workdir/repo/my-badges/" my-badges/
+          cp "$workdir/repo/README.md" README.md
 
       - name: Import GPG key
-        uses: crazy-max/ghaction-import-gpg@2dc316deee8e90f13e1a351ab510b4d5bc0c82cd # v7.0.0
+        uses: crazy-max/ghaction-import-gpg@2dc316deee8e90f13e1a351ab510b4d5bc0c82cd  # v7.0.0
         with:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.GPG_PASSPHRASE }}
@@ -40,29 +52,18 @@ jobs:
           git_user_signingkey: true
           git_commit_gpgsign: true
 
-      - name: Reset last commit if "Update badges" from update-my-badges
-        run: |
-          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
-          echo "Last commit message is '$LAST_COMMIT_MESSAGE'"
-          if [[ "$LAST_COMMIT_MESSAGE" == "Update badges" ]]; then
-            echo "Resetting last commit"
-            git reset HEAD~1
-          else
-            echo "Last commit is not from update-my-badges"
-          fi
-
       - name: Prettify README.md
-        run: |
-          echo "Prettifying README.md"
-          npx prettier@3.0.3 README.md --write
+        run: npx prettier@3.0.3 README.md --write
 
-      - name: Commit changes if necessary
+      - name: Commit signed badge changes
         run: |
-          if [[ $(git status -s) ]]; then
-            git commit --all -S \
-              --message="docs(README): update my badges"
-            git push --force-with-lease
-            echo "Commit pushed"
-          else
-            echo "No changes to commit"
+          set -euo pipefail
+
+          git add README.md my-badges/
+          if git diff --cached --quiet; then
+            echo "No badge changes to commit"
+            exit 0
           fi
+
+          git commit --gpg-sign --message="docs(README): update my badges"
+          git push
