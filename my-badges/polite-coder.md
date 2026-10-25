@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/graphql-java-kickstart/graphql-java-tools/issues/111">#111</a>: Relax type checking
 - <a href="https://github.com/cool-rdf/cool-rdf/issues/9">#9</a>: Add a Dockerfile to the project
 - <a href="https://github.com/axone-protocol/contracts/issues/323">#323</a>: 📐 Add check to avoid 'undefined' in generated documentation
 - <a href="https://github.com/axone-protocol/prolog/issues/12">#12</a>: 👷🏼 Implementation of canonical CI Workflows
 - <a href="https://github.com/expr-lang/expr/issues/46">#46</a>: v2 go mod issue
+- <a href="https://github.com/goccy/go-yaml/issues/61">#61</a>: Support for default values
 
  And many more...
 
