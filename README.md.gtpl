@@ -151,6 +151,16 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><code>Nix</code> <code>Home Manager</code> <code>Dotfiles</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/egoless-agency">⊰ Egoless Programming in the Agentic Age</a></h3>
+      <p><strong>A manifesto for collective intelligence</strong> — Egoless programming in the agentic age</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/egoless-agency?style=social" alt="stars"/></p>
+      <p>Ten principles holding human and artificial contributors to the same standards of evidence, review, and respect. <a href="https://egoless.agency/">Read the manifesto</a>.</p>
+      <p><code>Egoless Programming</code> <code>AI</code> <code>Open Source</code></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Latest releases I've contributed to
