@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/terraforming-chez-moi/commit/f191ddd3cbf9ad874846e10c1ab167c15658a235">f191ddd</a>
-- <a href="https://github.com/ccamel/terraforming-chez-moi/commit/6ee98eb9a1319d0795ea95122a6fcd739e0ebb2d">6ee98eb</a>
-- <a href="https://github.com/ccamel/awesome-ccamel/commit/11a63dfbd64d9f20988f67c7e51975421ddc4cf7">11a63df</a>
-- <a href="https://github.com/ccamel/awesome-ccamel/commit/ea11285b51bf4585f9af04939f5676aae9082732">ea11285</a>
-- <a href="https://github.com/ccamel/awesome-ccamel/commit/471aff394170aea418eb8699b18b608dea3e7443">471aff3</a>
-- <a href="https://github.com/ccamel/awesome-ccamel/commit/f6dfcf940b10d5b5d13e7e061318fa05605b6caf">f6dfcf9</a>
+- <a href="https://github.com/ccamel/egoless-agency/commit/9eafe0f9c71ea069a7c64e48693dbd56922a7388">9eafe0f</a>
+- <a href="https://github.com/ccamel/egoless-agency/commit/29841f771b6f5571348e0984d692b356478e6368">29841f7</a>
+- <a href="https://github.com/ccamel/egoless-agency/commit/2e502970a03258024470df330fa3ede71c2a3763">2e50297</a>
+- <a href="https://github.com/ccamel/egoless-agency/commit/21b0e37b33eab603d583a4441027da3e3b0010f1">21b0e37</a>
+- <a href="https://github.com/ccamel/egoless-agency/commit/cdf055f1f1736d4821ffc141dbbe27a43d4e61bc">cdf055f</a>
+- <a href="https://github.com/ccamel/egoless-agency/commit/e750a46f648cc1ce09f699b63d07861e0c8e51bb">e750a46</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
