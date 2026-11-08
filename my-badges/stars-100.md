@@ -59,6 +59,7 @@ Repos:
 * <a href="https://github.com/ccamel/visualvault">ccamel/visualvault: ★1</a>
 * <a href="https://github.com/ccamel/workflows-go">ccamel/workflows-go: ★1</a>
 * <a href="https://github.com/ccamel/bobine">ccamel/bobine: ★1</a>
+* <a href="https://github.com/ccamel/egoless-agency">ccamel/egoless-agency: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

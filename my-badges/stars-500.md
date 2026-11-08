@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★484</a>
+* <a href="https://github.com/realopslabs/kubeledger">realopslabs/kubeledger: ★486</a>
 * <a href="https://github.com/ccamel/go-graphql-subscription-example">ccamel/go-graphql-subscription-example: ★48</a>
 * <a href="https://github.com/ccamel/playground-binding.scala">ccamel/playground-binding.scala: ★35</a>
 * <a href="https://github.com/ccamel/playground-elm">ccamel/playground-elm: ★29</a>
@@ -65,6 +65,7 @@ Repos:
 * <a href="https://github.com/ccamel/visualvault">ccamel/visualvault: ★1</a>
 * <a href="https://github.com/ccamel/workflows-go">ccamel/workflows-go: ★1</a>
 * <a href="https://github.com/ccamel/bobine">ccamel/bobine: ★1</a>
+* <a href="https://github.com/ccamel/egoless-agency">ccamel/egoless-agency: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
