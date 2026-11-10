@@ -1,0 +1,24 @@
+name: Sync Project Issues
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  sync:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Add open issues to the project
+        run: python3 .github/scripts/sync-project.py
+        env:
+          GH_TOKEN: ${{ secrets.PROJECT_SYNC_TOKEN }}
