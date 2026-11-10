@@ -1,0 +1,43 @@
+name: Lint / Python
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/lint-python.yml'
+      - 'flake.lock'
+      - 'flake.nix'
+      - '**/*.py'
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/workflows/lint-python.yml'
+      - 'flake.lock'
+      - 'flake.nix'
+      - '**/*.py'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint-python:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Nix
+        uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa  # v23
+
+      - name: Lint Python files
+        run: |
+          mapfile -d '' -t python_files < <(git ls-files -z -- '*.py')
+          nix develop --command ruff check "${python_files[@]}"

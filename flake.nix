@@ -34,6 +34,7 @@
               pkgs.nil
               pkgs.nixfmt
               pkgs.prettier
+              pkgs.ruff
               pkgs.statix
               pkgs.yaml-language-server
               pkgs.yamllint
