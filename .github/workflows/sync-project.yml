@@ -1,4 +1,4 @@
-name: Sync Project Issues
+name: Sync Project Issues and Pull Requests
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
 
-      - name: Add open issues to the project
+      - name: Add open issues and pull requests to the project
         run: python3 .github/scripts/sync-project.py
         env:
           GH_TOKEN: ${{ secrets.PROJECT_SYNC_TOKEN }}

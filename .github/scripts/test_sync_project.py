@@ -11,14 +11,12 @@ spec.loader.exec_module(sync_project)
 
 
 class SyncProjectTest(unittest.TestCase):
-    def test_adds_only_missing_open_issues_from_eligible_repositories(self):
+    def test_adds_issues_and_dependabot_prs_without_duplicates(self):
         repo = {"owner": {"login": "ccamel"}, "fork": False, "archived": False, "has_issues": True, "full_name": "ccamel/repo"}
-        project = [{"data": {"user": {"projectV2": {"id": "project-id", "items": {"nodes": [{"content": {"id": "existing"}}, {"content": None}]}}}}}]
-        issues = [[
-            {"node_id": "existing", "html_url": "https://example.com/existing"},
-            {"node_id": "new", "html_url": "https://example.com/new"},
-            {"node_id": "pr", "html_url": "https://example.com/pr", "pull_request": {}},
-        ]]
+        no_issues = dict(repo, has_issues=False, full_name="ccamel/no-issues")
+        project = [{"data": {"user": {"projectV2": {"id": "project-id", "items": {"nodes": [
+            {"content": {"id": "existing-issue"}}, {"content": {"id": "existing-pr"}}, {"content": None}
+        ]}}}}}]
         calls = []
 
         def fake_gh(*args):
@@ -26,24 +24,32 @@ class SyncProjectTest(unittest.TestCase):
             if args[:2] == ("api", "graphql"):
                 return "{}" if any(arg.startswith("query=mutation") for arg in args) else json.dumps(project)
             if args[-1].startswith("/user/repos?"):
-                return json.dumps([[repo, dict(repo, fork=True), dict(repo, archived=True), dict(repo, has_issues=False)]])
-            if args[-1].startswith("/repos/"):
-                return json.dumps(issues)
-            return ""
+                return json.dumps([[repo, no_issues, dict(repo, fork=True), dict(repo, archived=True)]])
+            if "/repo/issues?" in args[-1]:
+                return json.dumps([[{"node_id": "existing-issue"}, {"node_id": "new-issue"},
+                                    {"node_id": "pr-as-issue", "pull_request": {}}]])
+            if "/repo/pulls?" in args[-1]:
+                return json.dumps([[{"node_id": "existing-pr"}, {"node_id": "dependabot-pr",
+                                    "user": {"login": "dependabot[bot]"}}]])
+            if "/no-issues/pulls?" in args[-1]:
+                return json.dumps([[{"node_id": "pr-no-issues"}]])
+            raise AssertionError("Unexpected GitHub command")
 
         with patch.object(sync_project, "gh", side_effect=fake_gh):
             sync_project.sync()
         additions = [call for call in calls if any(arg.startswith("query=mutation") for arg in call)]
-        self.assertEqual(len(additions), 1)
-        self.assertIn("projectId=project-id", additions[0])
-        self.assertIn("contentId=new", additions[0])
+        self.assertEqual({arg for call in additions for arg in call if arg.startswith("contentId=")},
+                         {"contentId=new-issue", "contentId=dependabot-pr", "contentId=pr-no-issues"})
+        self.assertEqual(len(additions), 3)
+        for call in additions:
+            self.assertIn("projectId=project-id", call)
 
     def test_failure_identifies_operation_without_leaking_private_data(self):
         failure = unittest.mock.Mock(returncode=1, stdout="", stderr="HTTP 403: private-owner/private-repo")
         with patch.object(sync_project.subprocess, "run", return_value=failure):
             with self.assertRaises(RuntimeError) as error:
                 sync_project.gh("api", "graphql", "-f", "query=mutation { addProjectV2ItemById }")
-        self.assertIn("adding issue", str(error.exception))
+        self.assertIn("adding item", str(error.exception))
         self.assertIn("HTTP 403", str(error.exception))
         self.assertNotIn("private", str(error.exception))
 

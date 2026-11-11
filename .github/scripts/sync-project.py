@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add open issues from personal, non-fork, non-archived repositories to Project 3."""
+"""Add open issues and pull requests from personal, non-fork, non-archived repositories to Project 3."""
 
 import json
 import re
@@ -15,13 +15,13 @@ def gh(*args):
     if result.returncode:
         # Actions logs are public, so do not print stderr or repository names.
         if args[:2] == ("api", "graphql") and any(arg.startswith("query=mutation") for arg in args):
-            operation = "adding issue"
+            operation = "adding item"
         elif args[:2] == ("api", "graphql"):
             operation = "reading project"
         elif args[-1].startswith("/user/repos?"):
             operation = "listing repositories"
         else:
-            operation = "listing issues"
+            operation = "listing repository items"
         status = re.search(r"\bHTTP [1-5]\d\d\b", result.stderr)
         if "required scopes" in result.stderr or "missing required scopes" in result.stderr:
             detail = "missing token scopes"
@@ -43,7 +43,7 @@ def sync():
         projectV2(number: 3) {
           id
           items(first: 100, after: $endCursor) {
-            nodes { content { ... on Issue { id } } }
+            nodes { content { ... on Issue { id } ... on PullRequest { id } } }
             pageInfo { hasNextPage endCursor }
           }
         }
@@ -61,22 +61,24 @@ def sync():
     added = 0
     for page in repositories:
         for repo in page:
-            if repo["owner"]["login"].lower() != OWNER or repo["fork"] or repo["archived"] or not repo["has_issues"]:
+            if repo["owner"]["login"].lower() != OWNER or repo["fork"] or repo["archived"]:
                 continue
-            for issue_page in pages(f"/repos/{repo['full_name']}/issues?state=open&per_page=100"):
-                for issue in issue_page:
-                    if "pull_request" in issue or issue["node_id"] in existing:
-                        continue
-                    gh(
-                        "api", "graphql", "-f",
-                        "query=mutation($projectId: ID!, $contentId: ID!) {"
-                        " addProjectV2ItemById(input: {projectId: $projectId, contentId: $contentId})"
-                        " { item { id } } }",
-                        "-f", f"projectId={project_id}", "-f", f"contentId={issue['node_id']}",
-                    )
-                    existing.add(issue["node_id"])
-                    added += 1
-    print(f"Added {added} issues to the project.")
+            endpoints = ("issues", "pulls") if repo["has_issues"] else ("pulls",)
+            for endpoint in endpoints:
+                for item_page in pages(f"/repos/{repo['full_name']}/{endpoint}?state=open&per_page=100"):
+                    for item in item_page:
+                        if (endpoint == "issues" and "pull_request" in item) or item["node_id"] in existing:
+                            continue
+                        gh(
+                            "api", "graphql", "-f",
+                            "query=mutation($projectId: ID!, $contentId: ID!) {"
+                            " addProjectV2ItemById(input: {projectId: $projectId, contentId: $contentId})"
+                            " { item { id } } }",
+                            "-f", f"projectId={project_id}", "-f", f"contentId={item['node_id']}",
+                        )
+                        existing.add(item["node_id"])
+                        added += 1
+    print(f"Added {added} issues and pull requests to the project.")
 
 
 if __name__ == "__main__":
