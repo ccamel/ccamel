@@ -9,6 +9,7 @@ on:
       - '.github/workflows/lint-python.yml'
       - 'flake.lock'
       - 'flake.nix'
+      - 'justfile'
       - '**/*.py'
   pull_request:
     branches: [main]
@@ -16,6 +17,7 @@ on:
       - '.github/workflows/lint-python.yml'
       - 'flake.lock'
       - 'flake.nix'
+      - 'justfile'
       - '**/*.py'
 
 permissions:
@@ -38,6 +40,4 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa  # v23
 
       - name: Lint Python files
-        run: |
-          mapfile -d '' -t python_files < <(git ls-files -z -- '*.py')
-          nix develop --command ruff check "${python_files[@]}"
+        run: nix develop --command just lint-python

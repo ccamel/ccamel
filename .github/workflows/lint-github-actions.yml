@@ -7,6 +7,9 @@ on:
       - ".github/workflows/*.yml"
       - ".github/workflows/*.yaml"
       - ".github/workflows/lint-github-actions.yml"
+      - "flake.nix"
+      - "flake.lock"
+      - "justfile"
 
   pull_request:
     branches: [main]
@@ -14,6 +17,9 @@ on:
       - ".github/workflows/*.yml"
       - ".github/workflows/*.yaml"
       - ".github/workflows/lint-github-actions.yml"
+      - "flake.nix"
+      - "flake.lock"
+      - "justfile"
 
   workflow_dispatch:
 
@@ -27,26 +33,12 @@ concurrency:
 jobs:
   lint-github-actions:
     runs-on: ubuntu-22.04
-    env:
-      ACTIONLINT_VERSION: "1.7.12"
-      ACTIONLINT_SHA256: "8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8"
     steps:
       - name: Check out repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Install actionlint
-        run: |
-          set -euo pipefail
-
-          archive="actionlint_${ACTIONLINT_VERSION}_linux_amd64.tar.gz"
-          url="https://github.com/rhysd/actionlint/releases/download/v${ACTIONLINT_VERSION}/${archive}"
-
-          curl --fail --silent --show-error --location --output "${archive}" "${url}"
-          echo "${ACTIONLINT_SHA256}  ${archive}" | sha256sum --check --
-
-          mkdir -p "${RUNNER_TEMP}/actionlint"
-          tar -xzf "${archive}" -C "${RUNNER_TEMP}/actionlint" actionlint
-          echo "${RUNNER_TEMP}/actionlint" >> "${GITHUB_PATH}"
+      - name: Set up Nix
+        uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa # v23
 
       - name: Run actionlint
-        run: actionlint -color
+        run: nix develop --command just lint-actions

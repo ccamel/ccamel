@@ -4,3 +4,6 @@
 # Nix
 .direnv/
 result
+
+# Python
+*.pyc

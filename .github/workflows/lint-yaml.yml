@@ -8,6 +8,9 @@ on:
       - "**/*.yaml"
       - ".yamllint.yaml"
       - ".github/workflows/lint-yaml.yml"
+      - "flake.nix"
+      - "flake.lock"
+      - "justfile"
 
   pull_request:
     branches: [main]
@@ -16,6 +19,9 @@ on:
       - "**/*.yaml"
       - ".yamllint.yaml"
       - ".github/workflows/lint-yaml.yml"
+      - "flake.nix"
+      - "flake.lock"
+      - "justfile"
 
   workflow_dispatch:
 
@@ -30,5 +36,8 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Lint yaml files
-        uses: ibiqlik/action-yamllint@2576378a8e339169678f9939646ee3ee325e845c # v3.1.1
+      - name: Set up Nix
+        uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa # v23
+
+      - name: Lint YAML files
+        run: nix develop --command just lint-yaml

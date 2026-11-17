@@ -9,3 +9,6 @@ MD026:
 # MD033/no-inline-html - Inline HTML rule
 # Disable rule as we want to have more styled markdown content.
 MD033: false
+
+# Preserve the existing profile's link wording.
+MD059: false

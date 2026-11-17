@@ -7,6 +7,9 @@ on:
       - "**/*.md"
       - ".markdownlint.yaml"
       - ".github/workflows/lint-markdown.yml"
+      - "flake.nix"
+      - "flake.lock"
+      - "justfile"
       - "!my-badges/**/*.md"
 
   pull_request:
@@ -15,6 +18,9 @@ on:
       - "**/*.md"
       - ".markdownlint.yaml"
       - ".github/workflows/lint-markdown.yml"
+      - "flake.nix"
+      - "flake.lock"
+      - "justfile"
       - "!my-badges/**/*.md"
 
   workflow_dispatch:
@@ -30,8 +36,8 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Lint markdown files
-        uses: avto-dev/markdown-lint@04d43ee9191307b50935a753da3b775ab695eceb # v1.5.0
-        with:
-          args: "**/*.md"
-          ignore: ./my-badges
+      - name: Set up Nix
+        uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa # v23
+
+      - name: Lint Markdown files
+        run: nix develop --command just lint-markdown

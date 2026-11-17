@@ -29,13 +29,17 @@
               pkgs.bash-language-server
               pkgs.deadnix
               pkgs.git
+              pkgs.just
               pkgs.markdownlint-cli2
               pkgs.marksman
               pkgs.nil
+              pkgs.nodejs_24
               pkgs.nixfmt
               pkgs.prettier
+              pkgs.python3
               pkgs.ruff
               pkgs.statix
+              pkgs.uv
               pkgs.yaml-language-server
               pkgs.yamllint
             ];
