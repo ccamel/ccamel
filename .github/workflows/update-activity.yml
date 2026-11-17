@@ -51,10 +51,11 @@ jobs:
           sed -i 's/\[!--/<!--/g' README.md
           sed -i 's/--\]/-->/g' README.md
 
+      - name: Set up Nix
+        uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa # v23
+
       - name: Prettify README.md
-        run: |
-          echo "Prettifying README.md"
-          npx prettier@3.0.3 README.md --write
+        run: nix develop --command just format-readme
 
       - name: Add and commit changes
         uses: EndBug/add-and-commit@cc9c08ba6c8df3b93a8f2db63e89b98368ae2ae8 # v11.1.1

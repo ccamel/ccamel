@@ -19,11 +19,11 @@ description: Maintain the ccamel GitHub profile README, its markscribe template,
 ## Workflow
 
 1. Read the relevant `README.md.gtpl` section and its rendered counterpart in `README.md` before changing either.
-2. For static content, update `README.md.gtpl` and the corresponding static content in `README.md`, leaving generated activity and badges untouched. If regenerating instead, follow `.github/workflows/update-activity.yml`, including marker repair and `npx prettier@3.0.3 README.md --write`; regeneration can temporarily restore stale template badges, so refresh them with `Update Badges` and report any refresh not performed.
+2. For static content, update `README.md.gtpl` and the corresponding static content in `README.md`, leaving generated activity and badges untouched. If regenerating instead, follow `.github/workflows/update-activity.yml`, including marker repair and `just format-readme`; regeneration can temporarily restore stale template badges, so refresh them with `Update Badges` and report any refresh not performed.
 3. Follow the editorial posture and scope guidance below.
 4. Preserve markscribe directives (`{{...}}`) unless the requested change concerns them. Do not replace dynamic data with snapshots.
 5. Never hand-edit the badge-managed range or files under `my-badges/`; use `Update Badges` when badges must refresh.
-6. Use the Nix devshell when available. For a rendered update, format with `npx prettier@3.0.3 README.md --write` as in the workflow, then run `markdownlint-cli2 README.md` when available.
+6. Use `nix develop` when available; run `just` to list the shared local and CI checks. For a rendered update, run `just format-readme` and `just lint-markdown` in the devshell (or prefix either with `nix develop --command` outside it).
 
 ## Scope
 
@@ -57,5 +57,5 @@ This is a living technical self-portrait, not a résumé or a marketing page. It
 ## Checks
 
 - Confirm all edited links, image URLs, and Markdown/HTML delimiters are syntactically intact.
-- Check `README.md` formatting with the workflow's pinned version: `npx prettier@3.0.3 README.md --check`. Do not run Prettier on the `.gtpl` template as though it were Markdown.
+- Check `README.md` formatting with `just lint-readme`. Do not run Prettier on the `.gtpl` template as though it were Markdown.
 - A local rendered README cannot prove third-party images, GitHub cards, markscribe API data, or the badge workflow output; report those limits.

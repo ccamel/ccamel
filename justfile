@@ -3,7 +3,7 @@ default:
     @just --list
 
 # Run local lint checks.
-lint: lint-python lint-nix lint-yaml lint-markdown lint-actions lint-skills
+lint: lint-python lint-nix lint-yaml lint-markdown lint-readme lint-actions lint-skills
 
 # Check Python files.
 lint-python:
@@ -31,6 +31,14 @@ lint-yaml:
 # Check Markdown, excluding generated badges.
 lint-markdown:
     git ls-files -z --cached --others --exclude-standard -- '*.md' ':!:my-badges/**' | xargs -0 markdownlint-cli2
+
+# Format the rendered profile with the version used by the activity workflow.
+format-readme:
+    npx --yes prettier@3.0.3 README.md --write
+
+# Check the rendered profile's formatting.
+lint-readme:
+    npx --yes prettier@3.0.3 README.md --check
 
 # Check GitHub Actions workflows.
 lint-actions:

@@ -40,4 +40,4 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@3138316df39ed29be04236d7ffc686fa525866aa # v23
 
       - name: Lint Markdown files
-        run: nix develop --command just lint-markdown
+        run: nix develop --command just lint-markdown lint-readme
