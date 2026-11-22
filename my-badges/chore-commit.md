@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ccamel/becoming-ccamel/commit/7e807e433905548e4b091ba66e82f1d4a34fe139">7e807e4</a>: chore(LICENSE): name myself where the work comes from
+- <a href="https://github.com/ccamel/agent-self-help/commit/314367980d41ff9beef267e13467db0bea319eb1">3143679</a>: chore(release): identity 0.1.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
