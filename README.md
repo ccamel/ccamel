@@ -209,7 +209,7 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 - [Bash sorcery to summon all WASM contracts from the Axone chain and unveil their real nature](https://gist.github.com/f8aea954bc73d5cad3f33812085b3b88) (2 years ago)
 - [A collection of handy one-liners leveraging the Axoned CLI for interacting with the Axone blockchain](https://gist.github.com/44cbc7d8e42f183dcbc78c85ebf404d0) (2 years ago)
 
-## Recent Stars
+## Curiosity stream
 
 - [`Cloeille/picsou-finance`](https://github.com/Cloeille/picsou-finance) (1 day ago) • Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.
 - [`erkamyaman/rust-anything`](https://github.com/erkamyaman/rust-anything) (2 days ago) • Rewrite your whole app in Rust, one piece at a time, checked against the original&#39;s recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
@@ -221,19 +221,6 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 - [`Andyyyy64/whichllm`](https://github.com/Andyyyy64/whichllm) (1 week ago) • Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [`JtheGunner/ha-github-pulse`](https://github.com/JtheGunner/ha-github-pulse) (1 week ago) • Home Assistant integration for GitHub account and repository activity: contributions, languages, CI state and custom queries
 - [`SatSale/SatSale`](https://github.com/SatSale/SatSale) (1 week ago) • Lightweight Bitcoin payment processor written in easily deployable Python. Self custody donations and payments on-chain &amp; Lightning network, directly connected to your own Bitcoin node! No middleman/custodian.
-
-## My recent Followers
-
-- [`@NotAFlightRisk`](https://github.com/NotAFlightRisk)
-- [`@datasifaw`](https://github.com/datasifaw)
-- [`@abjgit`](https://github.com/abjgit)
-- [`@Sadra138456`](https://github.com/Sadra138456)
-- [`@V-CodeSmith`](https://github.com/V-CodeSmith)
-- [`@Daxxtropezz`](https://github.com/Daxxtropezz)
-- [`@SrishtiSaurav22`](https://github.com/SrishtiSaurav22)
-- [`@satkynovilgiz`](https://github.com/satkynovilgiz)
-- [`@fw7th`](https://github.com/fw7th)
-- [`@ksarith`](https://github.com/ksarith)
 
 💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
 

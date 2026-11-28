@@ -195,14 +195,9 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 {{- end}}
 {{- end}}
 
-## Recent Stars
+## Curiosity stream
 {{range recentStars 10}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .StarredAt}}){{if .Repo.Description}} • {{.Repo.Description}}{{end}}
-{{- end}}
-
-## My recent Followers
-{{range followers 10}}
-- [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
 💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
