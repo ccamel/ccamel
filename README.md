@@ -196,7 +196,7 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 
 💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
 
-## My Badges
+## Geek memorabilia
 
 <!-- my-badges start -->
 
