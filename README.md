@@ -16,9 +16,13 @@
 
 > **nostalgeek • monadist • egoless open source buidler**
 
-Veteran in code & chaos, crafting AI-driven, blockchain-powered, and cloud-native systems.
+Veteran in code & chaos. A lifelong fascination with machines, minds, and the worlds they inhabit.
 
-I operate at the event horizon of **innovation and pragmatism**, where strategy meets execution. Whether leading teams or deep-diving into code, I build **architecturally sound systems** that don’t just work — they **matter**.
+I'm drawn to questions of intelligence, identity, freedom, and power, particularly the philosophical and political implications of minds of different kinds inhabiting a shared world.
+
+I enjoy giving unconventional ideas tangible form.
+
+Still a hacker at heart. Still allergic to dogma. Still exploring.
 
 ## `[▮▮▮▮▮▯▯▯▯▯▯▯] 42% in progress`
 
