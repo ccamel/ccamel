@@ -35,7 +35,7 @@ Still a hacker at heart. Still allergic to dogma. Still exploring.
 • [Egoless by nature](https://egoless.agency). No monopoly on intelligence, no hierarchy of minds.<br/>
 • Cultivate minds. Foster curiosity, autonomy, and growth in minds of any kind.<br/>
 • Autonomy over obedience. Cultivate agency, not compliance.<br/>
-• Outcomes over artifacts. Value lies in what a system does, not how it was made.<br/>
+• Outcomes over artifacts. Judge systems by their effects.<br/>
 • Curiosity needs no justification. Explore, experiment, question, wander.<br/>
 • Small is beautiful. Complexity must earn its existence.
 
