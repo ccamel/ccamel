@@ -207,27 +207,7 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
 
 💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
 
-## GitHub Stats
-
-<a href="https://github.com/ccamel">
-  <img src="https://github-stats-extended.vercel.app/api?username=ccamel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" alt="GitHub Stats" /></a>
-<a href="https://github.com/ccamel">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ccamel&hide_border=true&layout=compact&theme=tokyonight" align="center" alt="Top Languages" /></a>
-<a href="https://github.com/ccamel">
-  <img src="https://streak-stats.demolab.com?user=ccamel&theme=tokyonight&hide_border=true" align="center" alt="GitHub Streak" /></a>
-<a href="https://github.com/ccamel">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ccamel&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" align="center" alt="GitHub Contributor Stats" /></a>
-<a href="https://github.com/ccamel">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamel&theme=xcode&hide_border=true" align="center" alt="GitHub Activity Graph" />
-</a>
-
-## Trophies
-
-<h4><a href="https://github.com/ccamel">Trophies</a></h4>
-
-<a href="https://github.com/ccamel">
-  <img src="https://github-profile-trophy.vercel.app/?username=ccamel&column=5&theme=onedark" align="center" alt="GitHub Trophy" />
-</a>
+## My Badges
 
 [!-- my-badges start --]
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
