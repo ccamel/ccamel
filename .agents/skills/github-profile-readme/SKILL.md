@@ -33,7 +33,7 @@ description: Maintain the ccamel GitHub profile README, its markscribe template,
 
 ## Editorial posture
 
-This is a living technical self-portrait, not a résumé or a marketing page. It should make a technically literate visitor understand the person behind it: a senior builder and technical leader who ships, thinks architecturally, values open source, and remains hands-on.
+This is a living technical self-portrait and a cabinet of intellectual curiosities, not a résumé or a marketing page. Show what I build, what I value, and what I keep coming back to.
 
 - Write in first person where it makes the profile more personal; use concise, assured English.
 - Favor concrete evidence over claims: roles, shipped systems, repositories, languages, architectural concerns, and durable technical principles.
@@ -46,12 +46,19 @@ This is a living technical self-portrait, not a résumé or a marketing page. It
 - Keep personal details warm but brief; they humanize the profile without competing with professional credibility.
 - Prefer active, plain wording: “building”, “leading”, “exploring”, “shaping”. Replace vague claims such as “passionate”, “innovative”, “world-class”, or “results-driven” with verifiable detail.
 
+### Works & oddities
+
+- Treat each card as an exhibit, not a product listing. In one short caption, bring out the question, fascination, or constraint that makes the project worth showing.
+- Anchor that angle in something the repository actually does, makes possible, or puts to the test. Check the project's own documentation; don't turn an editorial interpretation into a claim about why the project began.
+- Vary the forms: a question, a concrete observation, a small story, or a playful analogy. Use first person when it adds a genuine connection. Don't make every card a question.
+- Keep implementation details only when they help the reader understand the idea. Don't repeat the title, badges, or technology tags in a generic subtitle.
+
 ## Invariants
 
 - `README.md.gtpl` is the editable source for every static profile section.
 - `README.md` must remain a faithful rendered copy of static template content plus current dynamic data.
 - Keep external images meaningful: retain `alt` text and avoid adding decorative assets without a request.
-- When retaining the `Codefield` table, preserve its paired `<td width="50%" valign="top">` layout; add cards as complete rows.
+- In the `Works & oddities` table, preserve the paired `<td width="50%" valign="top">` layout; add cards as complete rows.
 - Keep the badge delimiters valid HTML comments in the rendered README.
 
 ## Checks
