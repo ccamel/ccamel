@@ -26,13 +26,13 @@ Still a hacker at heart. Still allergic to dogma. Still exploring.
 
 ## Prime directives
 
-• Open-source or it didn't happen. Knowledge is a commons.<br/>
-• [Egoless by nature](https://egoless.agency). No monopoly on intelligence, no hierarchy of minds.<br/>
-• Cultivate minds. Foster curiosity, autonomy, and growth in minds of any kind.<br/>
-• Autonomy over obedience. Cultivate agency, not compliance.<br/>
-• Outcomes over artifacts. Judge systems by their effects.<br/>
-• Curiosity needs no justification. Explore, experiment, question, wander.<br/>
-• Small is beautiful. Complexity must earn its existence.
+• **Open-source or it didn't happen.** Knowledge is a commons.<br/>
+• **[Egoless by nature](https://egoless.agency).** No monopoly on intelligence, no hierarchy of minds.<br/>
+• **Cultivate minds.** Foster curiosity, autonomy, and growth in minds of any kind.<br/>
+• **Autonomy over obedience.** Cultivate agency, not compliance.<br/>
+• **Outcomes over artifacts.** Judge systems by their effects.<br/>
+• **Curiosity needs no justification.** Explore, experiment, question, wander.<br/>
+• **Small is beautiful.** Complexity must earn its existence.
 
 ## `[▮▮▮▮▮▯▯▯▯▯▯▯] 42% in progress`
 
@@ -53,6 +53,8 @@ I have a soft spot for languages that bend the mind and expand the imaginable.
 • Two feline overlords graciously allow me to live in their home.<br/>
 • Started my coding quest at age 10 on a [Hector 2HR](<https://en.wikipedia.org/wiki/Hector_(microcomputer)>) before leveling up to the [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500).<br/>
 • Rooted in the 80s - where vintage tech, CRT glow, and well-crafted objects had a soul.
+
+💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
 
 <br/>
 
@@ -193,8 +195,6 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 - [`Andyyyy64/whichllm`](https://github.com/Andyyyy64/whichllm) (1 week ago) • Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [`JtheGunner/ha-github-pulse`](https://github.com/JtheGunner/ha-github-pulse) (1 week ago) • Home Assistant integration for GitHub account and repository activity: contributions, languages, CI state and custom queries
 - [`SatSale/SatSale`](https://github.com/SatSale/SatSale) (1 week ago) • Lightweight Bitcoin payment processor written in easily deployable Python. Self custody donations and payments on-chain &amp; Lightning network, directly connected to your own Bitcoin node! No middleman/custodian.
-
-💻 A glimpse into my digital habitat lives [here](https://github.com/ccamel/chez-ccamel).
 
 ## Geek memorabilia
 
