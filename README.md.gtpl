@@ -41,7 +41,7 @@ Still a hacker at heart. Still allergic to dogma. Still exploring.
 
 ## Pigment palette
 
-Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, and _paradigms_.
+I have a soft spot for languages that bend the mind and expand the imaginable.
 
 • The Ancient — [Forth](<https://en.wikipedia.org/wiki/Forth_(programming_language)>), [Pascal](<https://en.wikipedia.org/wiki/Pascal_(programming_language)>), [Prolog](https://en.wikipedia.org/wiki/Prolog).<br/>
 • The Singular — [Erlang](https://www.erlang.org/), [Elm](https://elm-lang.org/), [Haskell](https://www.haskell.org/).<br/>
