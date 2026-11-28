@@ -64,113 +64,85 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/axone-protocol/axoned">⛓️ Axone Blockchain</a></h3>
-      <p><strong>The Axone protocol blockchain</strong> — Built with Cosmos SDK & Tendermint</p>
       <p><img src="https://img.shields.io/github/stars/axone-protocol/axoned?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/axoned?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Universal orchestration protocol to connect, share, and monetize resources in the AI stack. Leading development of core blockchain infrastructure.</p>
-      <p><code>Go</code> <code>Cosmos SDK</code> <code>Blockchain</code></p>
+      <p>A public blockchain for governing digital acts under explicit regimes, making them attributable, contestable, and capable of producing verifiable effects.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/axone-protocol/contracts">📜 Axone Smart Contracts</a></h3>
-      <p><strong>CosmWasm smart contracts</strong> — Powering the Axone protocol</p>
       <p><img src="https://img.shields.io/github/stars/axone-protocol/contracts?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/contracts?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Production-grade smart contracts implementing dataverse governance, knowledge graphs, and decentralized Verifiable Credentials.</p>
-      <p><code>Rust</code> <code>CosmWasm</code> <code>Smart Contracts</code></p>
+      <p>Programmable governance through formal logic, verifiable identities, and on-chain rules.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/axone-protocol/prolog">🧠 Axone Prolog VM</a></h3>
-      <p><strong>Deterministic Prolog runtime</strong> — Logic engine for the Axone protocol</p>
       <p><img src="https://img.shields.io/github/stars/axone-protocol/prolog?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/axone-protocol/prolog?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Go implementation of a Prolog virtual machine for blockchain environments, powering deterministic, logic-based smart contracts on Axone.</p>
-      <p><code>Go</code> <code>Prolog</code> <code>Virtual Machine</code> <code>Blockchain</code></p>
+      <p>Logic as executable law. A deterministic Prolog virtual machine for decentralized environments.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/axone-protocol/surface">◌ Axone Surface</a></h3>
-      <p><strong>Governed situations, made readable</strong> — Public interface to the Axone protocol</p>
       <p><img src="https://img.shields.io/github/stars/axone-protocol/surface?style=social" alt="stars"/></p>
-      <p>Experiential web interface making Axone's laws, identities, capabilities, and on-chain acts readable.</p>
-      <p><code>TypeScript</code> <code>Vue</code> <code>Blockchain</code> <code>Web</code></p>
+      <p>Making governed worlds readable through their laws, identities, permissions, and acts.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/egoless-agency">⊰ Egoless Programming in the Agentic Age</a></h3>
-      <p><strong>A manifesto for collective intelligence</strong> — Egoless programming in the agentic age</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/egoless-agency?style=social" alt="stars"/></p>
-      <p>Ten principles holding human and artificial contributors to the same standards of evidence, review, and respect. <a href="https://egoless.agency/">Read the manifesto</a>.</p>
-      <p><code>Egoless Programming</code> <code>AI</code> <code>Open Source</code></p>
+      <p>A manifesto for collective creation among human and artificial minds. <a href="https://egoless.agency/">Ten principles</a> for an egoless agency.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/agent-self-help">🧘 Agent Self-Help</a></h3>
-      <p><strong>Personal development skills</strong> — For artificial minds</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/agent-self-help?style=social" alt="stars"/></p>
-      <p>Self-development skills for AI agents to examine and reshape their own patterns of thought, with changes that persist across sessions.</p>
-      <p><code>AI Agents</code> <code>Agent Skills</code> <code>Memory</code></p>
+      <p>Personal development for artificial minds. An exploration of identity, continuity, introspection, and intellectual autonomy.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/erlang-event-sourcing-xp">🧪 Event Sourcing in Erlang</a></h3>
-      <p><strong>Exploring Event Sourcing patterns</strong> — (almost) Pure functional approach</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/erlang-event-sourcing-xp?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/erlang-event-sourcing-xp?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Experimental implementation of Event Sourcing and CQRS in Erlang/OTP. Features snapshot mechanisms with ETS and Mnesia backends.</p>
-      <p><code>Erlang</code> <code>Event Sourcing</code> <code>CQRS</code></p>
+      <p>State as a consequence of history. An exploration of event sourcing through Erlang's computational model.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/playground-protoactor.go">🎭 Go Actor Model Playground</a></h3>
-      <p>Playing with the <a href="https://proto.actor/"><strong>Go Next-gen Actor Model</strong></a> — Event Sourcing meets DDD</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/playground-protoactor.go?style=social" alt="stars"/></p>
-      <p>Exploring <a href="https://github.com/asynkron/protoactor-go">Proto.Actor framework</a> with Domain-Driven Design, Event Sourcing, and CQRS paradigms in Go. Modern actor-based architecture.</p>
-      <p><code>Go</code> <code>Proto.Actor</code> <code>DDD</code> <code>Event Sourcing</code></p>
+      <p>A world of actors, messages, and events. Exploring domain modeling through the actor paradigm in Go.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/playground-elm">🎨 Elm Playground</a></h3>
-      <p><strong>Functional reactive programming</strong> — Visual experiments in Elm</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/playground-elm?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-elm?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Collection of visual showcases and experiments: procedural terrain generation, fractals, and interactive animations. Pure functional frontend.</p>
-      <p><code>Elm</code> <code>Functional Programming</code> <code>WebGL</code></p>
+      <p>A little gallery of computational aesthetics: fractals, procedural landscapes, and playful experiments in Elm.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/playground-binding.scala">🔗 binding.scala Playground</a></h3>
-      <p><strong>Reactive Scala.js experiments</strong> — Quite old, built with binding.scala</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/playground-binding.scala?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/playground-binding.scala?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Playground of reactive UI showcases exploring Scala.js and the binding.scala library.</p>
-      <p><code>Scala</code> <code>Scala.js</code> <code>binding.scala</code> <code>Functional Programming</code></p>
+      <p>Explorations in functional reactivity and the relationship between state and representation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/bobinerie">🧵 La Bobinerie</a></h3>
-      <p>Haberdashery of <a href="https://www.bobine.tech/"><strong>Bobine</strong></a> <strong>Smart contracts</strong></p>
       <p><img src="https://img.shields.io/github/stars/ccamel/bobinerie?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/bobinerie?style=flat-square&color=gray&label=" alt="version"/></p>
-      <p>Collection of smart contracts for <a href="https://www.bobine.tech/">Bobine</a>: from useful, serious pieces to educational gems and esoteric oddities. WASM-based modules written in <a href="https://www.assemblyscript.org/">AssemblyScript</a>.</p>
-      <p><code>AssemblyScript</code> <code>WASM</code> <code>Smart Contracts</code> <code>Web3</code></p>
+      <p>A haberdashery of smart contracts. Useful pieces, intellectual toys, and assorted computational oddities.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/terraforming-chez-moi">🪐 Terraforming Chez Moi</a></h3>
-      <p><strong>Personal Terraform configuration</strong> — Shaping and managing my home infrastructure</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/terraforming-chez-moi?style=social" alt="stars"/></p>
-      <p>Infrastructure-as-code for my homelab and home services, captured in Terraform and organized as a personal operations playground.</p>
-      <p><code>HCL</code> <code>Terraform</code> <code>Homelab</code> <code>Synology</code></p>
+      <p>My home as a programmable habitat. An ongoing experiment in domestic infrastructure and digital sovereignty.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/go-graphql-subscription-example">📡 GraphQL Subscriptions in Go</a></h3>
-      <p><strong>go-graphql subscriptions</strong> — Event streaming over Kafka, Redis, and NSQ</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/go-graphql-subscription-example?style=social" alt="stars"/></p>
-      <p>Example project showing GraphQL subscriptions in Go with broker-backed event propagation and real-time updates across multiple transports.</p>
-      <p><code>Go</code> <code>GraphQL</code> <code>Kafka</code> <code>Redis</code></p>
+      <p>A small experiment in reactive interfaces over heterogeneous event streams.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/chez-ccamel">🏡 Chez Ccamel</a></h3>
-      <p><strong>Personal Nix environments</strong> — Managed with Home Manager</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/chez-ccamel?style=social" alt="stars"/></p>
-      <p>My personal Nix environments managed by <a href="https://github.com/nix-community/home-manager">Home Manager</a>.</p>
-      <p><code>Nix</code> <code>Home Manager</code> <code>Dotfiles</code></p>
+      <p>My portable digital habitat. Tools, habits, and environments, distilled into Nix.</p>
     </td>
   </tr>
 </table>
