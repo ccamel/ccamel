@@ -56,9 +56,9 @@ Love _designing_. Love _architecting_. Love _languages_, _syntax_, _patterns_, a
 
 <br/>
 
-## Codefield
+## Works & oddities
 
-A few works shaped over time. Live with them, feel them, and contribute if they resonate...
+Some ideas I've given form to over the years. Some serious, some strange, all open.
 
 <table>
   <tr>
