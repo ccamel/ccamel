@@ -14,7 +14,7 @@
 
 ## Self
 
-> **nostalgeek • monadist • egoless open source buidler**
+> **nostalgeek • egoless open source buidler ⋯ machines, minds, freedom & other oddities**
 
 Veteran in code & chaos. A lifelong fascination with machines, minds, and the worlds they inhabit.
 
