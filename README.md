@@ -95,6 +95,22 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/egoless-agency">⊰ Egoless Programming in the Agentic Age</a></h3>
+      <p><strong>A manifesto for collective intelligence</strong> — Egoless programming in the agentic age</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/egoless-agency?style=social" alt="stars"/></p>
+      <p>Ten principles holding human and artificial contributors to the same standards of evidence, review, and respect. <a href="https://egoless.agency/">Read the manifesto</a>.</p>
+      <p><code>Egoless Programming</code> <code>AI</code> <code>Open Source</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ccamel/agent-self-help">🧘 Agent Self-Help</a></h3>
+      <p><strong>Personal development skills</strong> — For artificial minds</p>
+      <p><img src="https://img.shields.io/github/stars/ccamel/agent-self-help?style=social" alt="stars"/></p>
+      <p>Self-development skills for AI agents to examine and reshape their own patterns of thought, with changes that persist across sessions.</p>
+      <p><code>AI Agents</code> <code>Agent Skills</code> <code>Memory</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/ccamel/erlang-event-sourcing-xp">🧪 Event Sourcing in Erlang</a></h3>
       <p><strong>Exploring Event Sourcing patterns</strong> — (almost) Pure functional approach</p>
       <p><img src="https://img.shields.io/github/stars/ccamel/erlang-event-sourcing-xp?style=social" alt="stars"/> <img src="https://img.shields.io/github/v/release/ccamel/erlang-event-sourcing-xp?style=flat-square&color=gray&label=" alt="version"/></p>
@@ -155,22 +171,6 @@ A few works shaped over time. Live with them, feel them, and contribute if they 
       <p><img src="https://img.shields.io/github/stars/ccamel/chez-ccamel?style=social" alt="stars"/></p>
       <p>My personal Nix environments managed by <a href="https://github.com/nix-community/home-manager">Home Manager</a>.</p>
       <p><code>Nix</code> <code>Home Manager</code> <code>Dotfiles</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ccamel/egoless-agency">⊰ Egoless Programming in the Agentic Age</a></h3>
-      <p><strong>A manifesto for collective intelligence</strong> — Egoless programming in the agentic age</p>
-      <p><img src="https://img.shields.io/github/stars/ccamel/egoless-agency?style=social" alt="stars"/></p>
-      <p>Ten principles holding human and artificial contributors to the same standards of evidence, review, and respect. <a href="https://egoless.agency/">Read the manifesto</a>.</p>
-      <p><code>Egoless Programming</code> <code>AI</code> <code>Open Source</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ccamel/agent-self-help">🧘 Agent Self-Help</a></h3>
-      <p><strong>Personal development skills</strong> — For artificial minds</p>
-      <p><img src="https://img.shields.io/github/stars/ccamel/agent-self-help?style=social" alt="stars"/></p>
-      <p>Self-development skills for AI agents to examine and reshape their own patterns of thought, with changes that persist across sessions.</p>
-      <p><code>AI Agents</code> <code>Agent Skills</code> <code>Memory</code></p>
     </td>
   </tr>
 </table>
