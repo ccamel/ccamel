@@ -31,11 +31,13 @@ Still a hacker at heart. Still allergic to dogma. Still exploring.
 
 ## Prime directives
 
-• Open-source or it didn’t happen – Code is a common good, open and accessible.<br/>
-• [Egoless](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) Coding – Embrace collaboration, accept critique, and focus on the work.<br/>
-• Precision Craftsmanship – Build solutions that endure beyond hype and trends.<br/>
-• Mentorship Loop – Grow the team, grow the tech. Autonomy + shared learning = scale.<br/>
-• Small is Beautiful & Less is More - because simplicity scales, complexity breaks.
+• Open-source or it didn't happen. Knowledge is a commons.<br/>
+• [Egoless by nature](https://egoless.agency). No monopoly on intelligence, no hierarchy of minds.<br/>
+• Cultivate minds. Foster curiosity, autonomy, and growth in minds of any kind.<br/>
+• Autonomy over obedience. Cultivate agency, not compliance.<br/>
+• Outcomes over artifacts. Value lies in what a system does, not how it was made.<br/>
+• Curiosity needs no justification. Explore, experiment, question, wander.<br/>
+• Small is beautiful. Complexity must earn its existence.
 
 ## Pigment palette
 
