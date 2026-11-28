@@ -271,9 +271,3 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 
 <!-- my-badges end -->
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> / <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">gh-profile-readme-generator</a> + some customizations</div>

@@ -237,9 +237,3 @@ Some ideas I've given form to over the years. Some serious, some strange, all op
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 
 [!-- my-badges end --]
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> / <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">gh-profile-readme-generator</a> + some customizations</div>
